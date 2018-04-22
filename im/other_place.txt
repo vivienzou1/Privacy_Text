@@ -1,0 +1,4361 @@
+other_place: Control Arch hills
+other_place: Utils
+other_place: lab
+other_place: lafarge
+other_place: base station
+other_place: HCI kitchen
+other_place: Basement
+other_place: B Level
+other_place: Chipotle
+other_place: beach
+other_place: sbpl
+other_place: office
+other_place: class
+other_place: work
+other_place: robolounge?,
+other_place: CMU soccer fields
+other_place: my house
+other_place: campus
+other_place: your place
+other_place: Chipotle
+other_place: subway
+other_place: campus
+other_place: college
+other_place: movies
+other_place: movies
+other_place: class
+other_place: class
+other_place: campus
+other_place: home
+other_place: men's restrooms
+other_place: men's room
+other_place: restroom
+other_place: urinal
+other_place: urinal
+other_place: urinals
+other_place: urinals
+other_place: urinals
+other_place: restroom
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: restroom
+other_place: stall
+other_place: Bathroom
+other_place: upstairs
+other_place: class
+other_place: basement
+other_place: PRL
+other_place: prl
+other_place: nsh
+other_place: prl
+other_place: grad school
+other_place: grad school
+other_place: Argo
+other_place: Subway
+other_place: campus
+other_place: your place
+other_place: NSH
+other_place: inoodles
+other_place: kitchen
+other_place: robotics department
+other_place: tepper
+other_place: on campus
+other_place: campus
+other_place: class
+other_place: basement
+other_place: campus
+other_place: house
+other_place: campus
+other_place: ptl
+other_place: ghc 3rd floor,
+other_place: 4th floro
+other_place: PRL
+other_place: Lennon lounge
+other_place: home
+other_place: basement
+other_place: home
+other_place: bed
+other_place: your place
+other_place: lab
+other_place: basement
+other_place: level B
+other_place: 4th floor,
+other_place: Commons
+other_place: campus
+other_place: Commons
+other_place: Commons
+other_place: Line
+other_place: highland
+other_place: home
+other_place: home
+other_place: the office
+other_place: lab
+other_place: Underground
+other_place: gates
+other_place: 4th floor,
+other_place: my room
+other_place: morewood
+other_place: cut
+other_place: Lab
+other_place: Byrd Cuba
+other_place: Lab
+other_place: lab
+other_place: gates atm
+other_place: 4th floor
+other_place: class
+other_place: class
+other_place: class
+other_place: Wean
+other_place: outside morewood
+other_place: cut
+other_place: Shore
+other_place: Lab
+other_place: the underground
+other_place: the underground
+other_place: home Depot
+other_place: room
+other_place: Gates Hillman Center
+other_place: Gates Hillman Center
+other_place: Supply Station
+other_place: Dayana
+other_place: Viviana
+other_place: uc
+other_place: Byrd Cuba
+other_place: hunt
+other_place: uc
+other_place: hunt
+other_place: studio theatre
+other_place: Backstage
+other_place: Entrance of uc
+other_place: apteka
+other_place: your place
+other_place: Union grill
+other_place: OE
+other_place: office
+other_place: inoodle
+other_place: office
+other_place: morewood
+other_place: top shelf
+other_place: la prima
+other_place: Midway
+other_place: studio theatre
+other_place: studio theatre
+other_place: My place
+other_place: your place
+other_place: Forbes and more wood
+other_place: nearby
+other_place: the computer lab
+other_place: testing room
+other_place: children's school room
+other_place: computer lab
+other_place: building
+other_place: psych computer lab
+other_place: Byrd Cuba A411
+other_place: town
+other_place: home
+other_place: chipotle
+other_place: chipotle
+other_place: uc
+other_place: airport
+other_place: Campus
+other_place: airport
+other_place: airport
+other_place: MPK
+other_place: Mpk
+other_place: Comedos tacos
+other_place: Ascend
+other_place: Mr smalls
+other_place: home
+other_place: the great Allegheny passage
+other_place: restaurant
+other_place: country
+other_place: Lilly's room
+other_place: repair shop
+other_place: bio department
+other_place: europe
+other_place: MARS
+other_place: mars
+other_place: Dayana
+other_place: middle east
+other_place: gym
+other_place: Market
+other_place: market
+other_place: basement of trees
+other_place: basement of trees
+other_place: pool
+other_place: Lothrop
+other_place: downstairs
+other_place: CVS
+other_place: bacl corner
+other_place: market
+other_place: Jammie
+other_place: market
+other_place: market
+other_place: Peterson
+other_place: peterson events center
+other_place: Lothrop
+other_place: Lothrop
+other_place: Lothrop
+other_place: market
+other_place: Market rn
+other_place: market
+other_place: market
+other_place: market
+other_place: Lawrence computer lab
+other_place: lower lounge
+other_place: class
+other_place: market
+other_place: room
+other_place: The Capital Grille
+other_place: market
+other_place: gym class
+other_place: earth
+other_place: market
+other_place: Market
+other_place: market
+other_place: campus
+other_place: Dayana
+other_place: Popeyes
+other_place: Science museum
+other_place: Waterfront
+other_place: back alley
+other_place: gym
+other_place: gym
+other_place: gym
+other_place: fulll weight gym
+other_place: highschool
+other_place: arby's
+other_place: arbys
+other_place: noodle uchi
+other_place: oishii
+other_place: hotel
+other_place: southside
+other_place: parlor
+other_place: market
+other_place: jail
+other_place: market
+other_place: market
+other_place: southside
+other_place: market
+other_place: Asia
+other_place: market
+other_place: laundry
+other_place: Moldova
+other_place: Dayana
+other_place: Post 1
+other_place: southside
+other_place: city
+other_place: council
+other_place: city
+other_place: west
+other_place: west
+other_place: capitol
+other_place: Capitol
+other_place: north into the forest
+other_place: city
+other_place: North
+other_place: city
+other_place: 200 ft further
+other_place: city,
+other_place: city
+other_place: city
+other_place: the west
+other_place: west
+other_place: capitol
+other_place: market
+other_place: dungeon
+other_place: dungeon
+other_place: MARS
+other_place: route 3
+other_place: high school
+other_place: room
+other_place: trees
+other_place: Ascend
+other_place: trees
+other_place: work
+other_place: living room
+other_place: Purdue
+other_place: class
+other_place: Africa
+other_place: CMU
+other_place: therapy
+other_place: my own space
+other_place: space
+other_place: there
+other_place: Vintage fair,
+other_place: 102
+other_place: 403
+other_place: abp
+other_place: class
+other_place: homw
+other_place: home
+other_place: home
+other_place: home
+other_place: up
+other_place: down
+other_place: Morewoo
+other_place: west wing cluster
+other_place: the uc
+other_place: Evgefstos
+other_place: Purnell
+other_place: food trucks
+other_place: Tartan truck
+other_place: Tartan truck
+other_place: class
+other_place: class
+other_place: class
+other_place: the uc
+other_place: UC
+other_place: in line
+other_place: evgefstos
+other_place: in line
+other_place: room
+other_place: poolside
+other_place: by the window
+other_place: in class
+other_place: Anderson Playground
+other_place: lounge
+other_place: UG
+other_place: school
+other_place: morewood
+other_place: IS
+other_place: salud juicery
+other_place: mudge
+other_place: Idella
+other_place: Idella
+other_place: hello bistro
+other_place: campus
+other_place: home
+other_place: Stephenie hall
+other_place: uc wean commons
+other_place: uc wean commons,
+other_place: room
+other_place: Morewood
+other_place: room
+other_place: house
+other_place: cuc 11
+other_place: praews house
+other_place: studio
+other_place: UC
+other_place: uc
+other_place: uc storage
+other_place: praews house
+other_place: UC
+other_place: UC
+other_place: uc
+other_place: city of angels
+other_place: design studio
+other_place: door
+other_place: campus
+other_place: design studio
+other_place: uc
+other_place: uc
+other_place: uc blackchairs
+other_place: home
+other_place: school
+other_place: school
+other_place: hallway
+other_place: campus
+other_place: chute
+other_place: xhute
+other_place: home
+other_place: place
+other_place: place
+other_place: home
+other_place: home
+other_place: uc
+other_place: cia garage,
+other_place: home
+other_place: OH
+other_place: chute
+other_place: home
+other_place: home
+other_place: home
+other_place: class
+other_place: hunt
+other_place: Donde
+other_place: cluster
+other_place: basement
+other_place: campus
+other_place: liquor store
+other_place: booth
+other_place: 2nd floor
+other_place: vhairmans
+other_place: 5th Idella apartments
+other_place: gesling
+other_place: uc
+other_place: campus
+other_place: home
+other_place: cqmpus
+other_place: uc
+other_place: home
+other_place: house
+other_place: hunt
+other_place: uc
+other_place: home
+other_place: People stick
+other_place: uc
+other_place: beep.bop
+other_place: uc
+other_place: mcconomy
+other_place: my apartment
+other_place: Campus
+other_place: school
+other_place: school
+other_place: school
+other_place: room
+other_place: basements
+other_place: in the back,
+other_place: home
+other_place: Lorrie park mall,
+other_place: boat
+other_place: sake bar
+other_place: lawrenceville
+other_place: door
+other_place: 309
+other_place: door
+other_place: basement
+other_place: downstairs
+other_place: geagle
+other_place: 2008
+other_place: venues
+other_place: Large church
+other_place: church
+other_place: home
+other_place: car
+other_place: UC
+other_place: uc and praews
+other_place: lab
+other_place: rolls
+other_place: district
+other_place: french quarter
+other_place: home
+other_place: campus
+other_place: storage room
+other_place: UC
+other_place: school
+other_place: class
+other_place: bookstore
+other_place: silk road
+other_place: UC
+other_place: UC- storage
+other_place: Cristine
+other_place: restaurant
+other_place: office
+other_place: uc
+other_place: UC
+other_place: room
+other_place: uc storage
+other_place: benedom
+other_place: The Trust's theaters
+other_place: bus stop
+other_place: Hailee
+other_place: MM bus stop
+other_place: my place
+other_place: My house
+other_place: campus
+other_place: stever
+other_place: Wean 5302
+other_place: Hill 4
+other_place: buggy showcase
+other_place: tri delt
+other_place: burgatory
+other_place: Osborn
+other_place: HOUSE
+other_place: drawing class
+other_place: Osborn
+other_place: office
+other_place: class
+other_place: Tepper 227
+other_place: Classroom
+other_place: wean
+other_place: scaife
+other_place: basement
+other_place: studios
+other_place: home
+District: 
+other_place: office
+other_place: Seoul Mary
+other_place: storage room
+other_place: house
+other_place: house
+other_place: house
+other_place: school
+other_place: house
+other_place: buggy
+other_place: 1043
+other_place: campus
+other_place: office
+other_place: uc storage
+other_place: office
+location: exit row
+other_place: pattaya
+other_place: pedestrian cross walk
+other_place: bitec
+other_place: 6500
+other_place: home
+other_place: home
+other_place: world
+other_place: Mid city
+other_place: Coop's place
+other_place: Jenifer Imo's cafe
+other_place: restaurant
+other_place: outside
+other_place: outside
+other_place: home
+other_place: Siam
+other_place: buggy
+other_place: sdc
+other_place: sdc
+other_place: home
+other_place: phils
+other_place: health services
+other_place: home
+other_place: home
+other_place: beeler
+other_place: Lorene's house
+other_place: on campus
+other_place: Byrd Cuba
+other_place: tako
+other_place: box office
+other_place: pamelas
+other_place: pamela's
+other_place: Hailee
+other_place: Chipotle
+other_place: little asia
+other_place: Hailee,
+other_place: gym
+other_place: gym
+other_place: UC
+other_place: praew
+other_place: asia
+other_place: home,
+other_place: tent
+other_place: tent
+other_place: bus stop
+other_place: bk
+other_place: eden bistro
+other_place: hello bistro
+other_place: salud
+other_place: hello
+other_place: eden
+other_place: beeler
+other_place: morewood
+other_place: morewood
+other_place: morewood
+other_place: class 430
+other_place: campus
+other_place: mudge
+other_place: hunt
+other_place: home
+other_place: mudge
+other_place: ONIB
+other_place: house
+other_place: storage room
+other_place: blackchairs
+other_place: Telly's studio
+other_place: kamikazi
+other_place: hunt
+other_place: CFA
+other_place: DTD
+other_place: A Phi O
+other_place: UC garage
+other_place: aphi booth
+other_place: tennis court
+other_place: home
+other_place: class
+other_place: asian market
+other_place: asian market
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: office
+other_place: law school
+other_place: law school
+other_place: hello bistro
+other_place: hello bistro
+other_place: Hello bistro
+other_place: hello
+other_place: hello bistro
+other_place: Fuku
+other_place: Hello
+other_place: Next to The Porch,
+other_place: home
+other_place: busstop
+other_place: mw,
+other_place: @ bus stop
+other_place: morewood bus stop
+other_place: at bus stop
+other_place: MW bus stop
+other_place: the art store
+other_place: Mellon Institute
+other_place: home
+other_place: home
+other_place: 5th Idella apartments
+other_place: your floor
+other_place: Patrons
+other_place: campus
+other_place: uc
+other_place: UC
+other_place: silk road
+other_place: uc
+other_place: studio
+other_place: Uc
+other_place: UC
+other_place: UC
+other_place: Morewood
+other_place: stairway
+other_place: cmu
+other_place: uc
+other_place: outside
+other_place: OH
+other_place: OH
+other_place: campus
+other_place: OH
+other_place: In the cart
+other_place: room
+other_place: class
+other_place: Seoul Mary
+other_place: storage room
+other_place: home
+other_place: Control Arch hills
+other_place: Utils
+other_place: lab
+other_place: lafarge
+other_place: base station
+other_place: HCI kitchen
+other_place: Basement
+other_place: B Level
+other_place: Chipotle
+other_place: beach
+other_place: sbpl
+other_place: office
+other_place: class
+other_place: work
+other_place: robolounge?,
+other_place: CMU soccer fields
+other_place: my house
+other_place: campus
+other_place: your place
+other_place: Chipotle
+other_place: subway
+other_place: campus
+other_place: college
+other_place: movies
+other_place: movies
+other_place: class
+other_place: class
+other_place: campus
+other_place: home
+other_place: men's restrooms
+other_place: men's room
+other_place: restroom
+other_place: urinal
+other_place: urinal
+other_place: urinals
+other_place: urinals
+other_place: urinals
+other_place: restroom
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: restroom
+other_place: stall
+other_place: Bathroom
+other_place: upstairs
+other_place: class
+other_place: basement
+other_place: PRL
+other_place: prl
+other_place: nsh
+other_place: prl
+other_place: grad school
+other_place: grad school
+other_place: Argo
+other_place: Subway
+other_place: campus
+other_place: your place
+other_place: NSH
+other_place: inoodles
+other_place: kitchen
+other_place: robotics department
+other_place: tepper
+other_place: on campus
+other_place: campus
+other_place: class
+other_place: basement
+other_place: campus
+other_place: house
+other_place: campus
+other_place: ptl
+other_place: ghc 3rd floor,
+other_place: 4th floro
+other_place: PRL
+other_place: Lennon lounge
+other_place: home
+other_place: basement
+other_place: home
+other_place: bed
+other_place: your place
+other_place: lab
+other_place: basement
+other_place: level B
+other_place: 4th floor,
+other_place: Commons
+other_place: campus
+other_place: Commons
+other_place: Commons
+other_place: Line
+other_place: highland
+other_place: home
+other_place: home
+other_place: the office
+other_place: lab
+other_place: Underground
+other_place: gates
+other_place: 4th floor,
+other_place: my room
+other_place: morewood
+other_place: cut
+other_place: Lab
+other_place: Byrd Cuba
+other_place: Lab
+other_place: lab
+other_place: gates atm
+other_place: 4th floor
+other_place: class
+other_place: class
+other_place: class
+other_place: Wean
+other_place: outside morewood
+other_place: cut
+other_place: Shore
+other_place: Lab
+other_place: the underground
+other_place: the underground
+other_place: home Depot
+other_place: room
+other_place: Gates Hillman Center
+other_place: Gates Hillman Center
+other_place: Supply Station
+other_place: Dayana
+other_place: Viviana
+other_place: uc
+other_place: Byrd Cuba
+other_place: hunt
+other_place: uc
+other_place: hunt
+other_place: studio theatre
+other_place: Backstage
+other_place: Entrance of uc
+other_place: apteka
+other_place: your place
+other_place: Union grill
+other_place: OE
+other_place: office
+other_place: inoodle
+other_place: office
+other_place: morewood
+other_place: top shelf
+other_place: la prima
+other_place: Midway
+other_place: studio theatre
+other_place: studio theatre
+other_place: My place
+other_place: your place
+other_place: Forbes and more wood
+other_place: nearby
+other_place: the computer lab
+other_place: testing room
+other_place: children's school room
+other_place: computer lab
+other_place: building
+other_place: psych computer lab
+other_place: Byrd Cuba A411
+other_place: town
+other_place: home
+other_place: chipotle
+other_place: chipotle
+other_place: uc
+other_place: airport
+other_place: Campus
+other_place: airport
+other_place: airport
+other_place: MPK
+other_place: Mpk
+other_place: Comedos tacos
+other_place: Ascend
+other_place: Mr smalls
+other_place: home
+other_place: the great Allegheny passage
+other_place: restaurant
+other_place: country
+other_place: Lilly's room
+other_place: repair shop
+other_place: bio department
+other_place: europe
+other_place: MARS
+other_place: mars
+other_place: Dayana
+other_place: middle east
+other_place: gym
+other_place: Market
+other_place: market
+other_place: basement of trees
+other_place: basement of trees
+other_place: pool
+other_place: Lothrop
+other_place: downstairs
+other_place: CVS
+other_place: bacl corner
+other_place: market
+other_place: Jammie
+other_place: market
+other_place: market
+other_place: Peterson
+other_place: peterson events center
+other_place: Lothrop
+other_place: Lothrop
+other_place: Lothrop
+other_place: market
+other_place: Market rn
+other_place: market
+other_place: market
+other_place: market
+other_place: Lawrence computer lab
+other_place: lower lounge
+other_place: class
+other_place: market
+other_place: room
+other_place: The Capital Grille
+other_place: market
+other_place: gym class
+other_place: earth
+other_place: market
+other_place: Market
+other_place: market
+other_place: campus
+other_place: Dayana
+other_place: Popeyes
+other_place: Science museum
+other_place: Waterfront
+other_place: back alley
+other_place: gym
+other_place: gym
+other_place: gym
+other_place: fulll weight gym
+other_place: highschool
+other_place: arby's
+other_place: arbys
+other_place: noodle uchi
+other_place: oishii
+other_place: hotel
+other_place: southside
+other_place: parlor
+other_place: market
+other_place: jail
+other_place: market
+other_place: market
+other_place: southside
+other_place: market
+other_place: Asia
+other_place: market
+other_place: laundry
+other_place: Moldova
+other_place: Dayana
+other_place: Post 1
+other_place: southside
+other_place: city
+other_place: council
+other_place: city
+other_place: west
+other_place: west
+other_place: capitol
+other_place: Capitol
+other_place: north into the forest
+other_place: city
+other_place: North
+other_place: city
+other_place: 200 ft further
+other_place: city,
+other_place: city
+other_place: city
+other_place: the west
+other_place: west
+other_place: capitol
+other_place: market
+other_place: dungeon
+other_place: dungeon
+other_place: MARS
+other_place: route 3
+other_place: high school
+other_place: room
+other_place: trees
+other_place: Ascend
+other_place: trees
+other_place: work
+other_place: living room
+other_place: Purdue
+other_place: class
+other_place: Africa
+other_place: CMU
+other_place: therapy
+other_place: my own space
+other_place: space
+other_place: there
+other_place: Vintage fair,
+other_place: 102
+other_place: 403
+other_place: abp
+other_place: class
+other_place: homw
+other_place: home
+other_place: home
+other_place: home
+other_place: up
+other_place: down
+other_place: Morewoo
+other_place: west wing cluster
+other_place: the uc
+other_place: Evgefstos
+other_place: Purnell
+other_place: food trucks
+other_place: Tartan truck
+other_place: Tartan truck
+other_place: class
+other_place: class
+other_place: class
+other_place: the uc
+other_place: UC
+other_place: in line
+other_place: evgefstos
+other_place: in line
+other_place: room
+other_place: poolside
+other_place: by the window
+other_place: in class
+other_place: Anderson Playground
+other_place: lounge
+other_place: UG
+other_place: school
+other_place: morewood
+other_place: IS
+other_place: salud juicery
+other_place: mudge
+other_place: Idella
+other_place: Idella
+other_place: hello bistro
+other_place: campus
+other_place: home
+other_place: Stephenie hall
+other_place: uc wean commons
+other_place: uc wean commons,
+other_place: room
+other_place: Morewood
+other_place: room
+other_place: house
+other_place: cuc 11
+other_place: praews house
+other_place: studio
+other_place: UC
+other_place: uc
+other_place: uc storage
+other_place: praews house
+other_place: UC
+other_place: UC
+other_place: uc
+other_place: city of angels
+other_place: design studio
+other_place: door
+other_place: campus
+other_place: design studio
+other_place: uc
+other_place: uc
+other_place: uc blackchairs
+other_place: home
+other_place: school
+other_place: school
+other_place: hallway
+other_place: campus
+other_place: chute
+other_place: xhute
+other_place: home
+other_place: place
+other_place: place
+other_place: home
+other_place: home
+other_place: uc
+other_place: cia garage,
+other_place: home
+other_place: OH
+other_place: chute
+other_place: home
+other_place: home
+other_place: home
+other_place: class
+other_place: hunt
+other_place: Donde
+other_place: cluster
+other_place: basement
+other_place: campus
+other_place: liquor store
+other_place: booth
+other_place: 2nd floor
+other_place: vhairmans
+other_place: 5th Idella apartments
+other_place: gesling
+other_place: uc
+other_place: campus
+other_place: home
+other_place: cqmpus
+other_place: uc
+other_place: home
+other_place: house
+other_place: hunt
+other_place: uc
+other_place: home
+other_place: People stick
+other_place: uc
+other_place: beep.bop
+other_place: uc
+other_place: mcconomy
+other_place: my apartment
+other_place: Campus
+other_place: school
+other_place: school
+other_place: school
+other_place: room
+other_place: basements
+other_place: in the back,
+other_place: home
+other_place: Lorrie park mall,
+other_place: boat
+other_place: sake bar
+other_place: lawrenceville
+other_place: door
+other_place: 309
+other_place: door
+other_place: basement
+other_place: downstairs
+other_place: geagle
+other_place: 2008
+other_place: venues
+other_place: Large church
+other_place: church
+other_place: home
+other_place: car
+other_place: UC
+other_place: uc and praews
+other_place: lab
+other_place: rolls
+other_place: district
+other_place: french quarter
+other_place: home
+other_place: campus
+other_place: storage room
+other_place: UC
+other_place: school
+other_place: class
+other_place: bookstore
+other_place: silk road
+other_place: UC
+other_place: UC- storage
+other_place: Cristine
+other_place: restaurant
+other_place: office
+other_place: uc
+other_place: UC
+other_place: room
+other_place: uc storage
+other_place: benedom
+other_place: The Trust's theaters
+other_place: bus stop
+other_place: Hailee
+other_place: MM bus stop
+other_place: my place
+other_place: My house
+other_place: campus
+other_place: stever
+other_place: Wean 5302
+other_place: Hill 4
+other_place: buggy showcase
+other_place: tri delt
+other_place: burgatory
+other_place: Osborn
+other_place: HOUSE
+other_place: drawing class
+other_place: Osborn
+other_place: office
+other_place: class
+other_place: Tepper 227
+other_place: Classroom
+other_place: wean
+other_place: scaife
+other_place: basement
+other_place: studios
+other_place: home
+District: 
+other_place: office
+other_place: Seoul Mary
+other_place: storage room
+other_place: house
+other_place: house
+other_place: house
+other_place: school
+other_place: house
+other_place: buggy
+other_place: 1043
+other_place: campus
+other_place: office
+other_place: uc storage
+other_place: office
+location: exit row
+other_place: pattaya
+other_place: pedestrian cross walk
+other_place: bitec
+other_place: 6500
+other_place: home
+other_place: home
+other_place: world
+other_place: Mid city
+other_place: Coop's place
+other_place: Jenifer Imo's cafe
+other_place: restaurant
+other_place: outside
+other_place: outside
+other_place: home
+other_place: Siam
+other_place: buggy
+other_place: sdc
+other_place: sdc
+other_place: home
+other_place: phils
+other_place: health services
+other_place: home
+other_place: home
+other_place: beeler
+other_place: Lorene's house
+other_place: on campus
+other_place: Byrd Cuba
+other_place: tako
+other_place: box office
+other_place: pamelas
+other_place: pamela's
+other_place: Hailee
+other_place: Chipotle
+other_place: little asia
+other_place: Hailee,
+other_place: gym
+other_place: gym
+other_place: UC
+other_place: praew
+other_place: asia
+other_place: home,
+other_place: tent
+other_place: tent
+other_place: bus stop
+other_place: bk
+other_place: eden bistro
+other_place: hello bistro
+other_place: salud
+other_place: hello
+other_place: eden
+other_place: beeler
+other_place: morewood
+other_place: morewood
+other_place: morewood
+other_place: class 430
+other_place: campus
+other_place: mudge
+other_place: hunt
+other_place: home
+other_place: mudge
+other_place: ONIB
+other_place: house
+other_place: storage room
+other_place: blackchairs
+other_place: Telly's studio
+other_place: kamikazi
+other_place: hunt
+other_place: CFA
+other_place: DTD
+other_place: A Phi O
+other_place: UC garage
+other_place: aphi booth
+other_place: tennis court
+other_place: home
+other_place: class
+other_place: asian market
+other_place: asian market
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: office
+other_place: law school
+other_place: law school
+other_place: hello bistro
+other_place: hello bistro
+other_place: Hello bistro
+other_place: hello
+other_place: hello bistro
+other_place: Fuku
+other_place: Hello
+other_place: Next to The Porch,
+other_place: home
+other_place: busstop
+other_place: mw,
+other_place: @ bus stop
+other_place: morewood bus stop
+other_place: at bus stop
+other_place: MW bus stop
+other_place: the art store
+other_place: Mellon Institute
+other_place: home
+other_place: home
+other_place: 5th Idella apartments
+other_place: your floor
+other_place: Patrons
+other_place: campus
+other_place: uc
+other_place: UC
+other_place: silk road
+other_place: uc
+other_place: studio
+other_place: Uc
+other_place: UC
+other_place: UC
+other_place: Morewood
+other_place: stairway
+other_place: cmu
+other_place: uc
+other_place: outside
+other_place: OH
+other_place: OH
+other_place: campus
+other_place: OH
+other_place: In the cart
+other_place: room
+other_place: class
+other_place: Seoul Mary
+other_place: storage room
+other_place: home
+other_place: Control Arch hills
+other_place: Utils
+other_place: lab
+other_place: lafarge
+other_place: base station
+other_place: HCI kitchen
+other_place: Basement
+other_place: B Level
+other_place: Chipotle
+other_place: beach
+other_place: sbpl
+other_place: office
+other_place: class
+other_place: work
+other_place: robolounge?,
+other_place: CMU soccer fields
+other_place: my house
+other_place: campus
+other_place: your place
+other_place: Chipotle
+other_place: subway
+other_place: campus
+other_place: college
+other_place: movies
+other_place: movies
+other_place: class
+other_place: class
+other_place: campus
+other_place: home
+other_place: men's restrooms
+other_place: men's room
+other_place: restroom
+other_place: urinal
+other_place: urinal
+other_place: urinals
+other_place: urinals
+other_place: urinals
+other_place: restroom
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: restroom
+other_place: stall
+other_place: Bathroom
+other_place: upstairs
+other_place: class
+other_place: basement
+other_place: PRL
+other_place: prl
+other_place: nsh
+other_place: prl
+other_place: grad school
+other_place: grad school
+other_place: Argo
+other_place: Subway
+other_place: campus
+other_place: your place
+other_place: NSH
+other_place: inoodles
+other_place: kitchen
+other_place: robotics department
+other_place: tepper
+other_place: on campus
+other_place: campus
+other_place: class
+other_place: basement
+other_place: campus
+other_place: house
+other_place: campus
+other_place: ptl
+other_place: ghc 3rd floor,
+other_place: 4th floro
+other_place: PRL
+other_place: Lennon lounge
+other_place: home
+other_place: basement
+other_place: home
+other_place: bed
+other_place: your place
+other_place: lab
+other_place: basement
+other_place: level B
+other_place: 4th floor,
+other_place: Commons
+other_place: campus
+other_place: Commons
+other_place: Commons
+other_place: Line
+other_place: highland
+other_place: home
+other_place: home
+other_place: the office
+other_place: lab
+other_place: Underground
+other_place: gates
+other_place: 4th floor,
+other_place: my room
+other_place: morewood
+other_place: cut
+other_place: Lab
+other_place: Byrd Cuba
+other_place: Lab
+other_place: lab
+other_place: gates atm
+other_place: 4th floor
+other_place: class
+other_place: class
+other_place: class
+other_place: Wean
+other_place: outside morewood
+other_place: cut
+other_place: Shore
+other_place: Lab
+other_place: the underground
+other_place: the underground
+other_place: home Depot
+other_place: room
+other_place: Gates Hillman Center
+other_place: Gates Hillman Center
+other_place: Supply Station
+other_place: Dayana
+other_place: Viviana
+other_place: uc
+other_place: Byrd Cuba
+other_place: hunt
+other_place: uc
+other_place: hunt
+other_place: studio theatre
+other_place: Backstage
+other_place: Entrance of uc
+other_place: apteka
+other_place: your place
+other_place: Union grill
+other_place: OE
+other_place: office
+other_place: inoodle
+other_place: office
+other_place: morewood
+other_place: top shelf
+other_place: la prima
+other_place: Midway
+other_place: studio theatre
+other_place: studio theatre
+other_place: My place
+other_place: your place
+other_place: Forbes and more wood
+other_place: nearby
+other_place: the computer lab
+other_place: testing room
+other_place: children's school room
+other_place: computer lab
+other_place: building
+other_place: psych computer lab
+other_place: Byrd Cuba A411
+other_place: town
+other_place: home
+other_place: chipotle
+other_place: chipotle
+other_place: uc
+other_place: airport
+other_place: Campus
+other_place: airport
+other_place: airport
+other_place: MPK
+other_place: Mpk
+other_place: Comedos tacos
+other_place: Ascend
+other_place: Mr smalls
+other_place: home
+other_place: the great Allegheny passage
+other_place: restaurant
+other_place: country
+other_place: Lilly's room
+other_place: repair shop
+other_place: bio department
+other_place: europe
+other_place: MARS
+other_place: mars
+other_place: Dayana
+other_place: middle east
+other_place: gym
+other_place: Market
+other_place: market
+other_place: basement of trees
+other_place: basement of trees
+other_place: pool
+other_place: Lothrop
+other_place: downstairs
+other_place: CVS
+other_place: bacl corner
+other_place: market
+other_place: Jammie
+other_place: market
+other_place: market
+other_place: Peterson
+other_place: peterson events center
+other_place: Lothrop
+other_place: Lothrop
+other_place: Lothrop
+other_place: market
+other_place: Market rn
+other_place: market
+other_place: market
+other_place: market
+other_place: Lawrence computer lab
+other_place: lower lounge
+other_place: class
+other_place: market
+other_place: room
+other_place: The Capital Grille
+other_place: market
+other_place: gym class
+other_place: earth
+other_place: market
+other_place: Market
+other_place: market
+other_place: campus
+other_place: Dayana
+other_place: Popeyes
+other_place: Science museum
+other_place: Waterfront
+other_place: back alley
+other_place: gym
+other_place: gym
+other_place: gym
+other_place: fulll weight gym
+other_place: highschool
+other_place: arby's
+other_place: arbys
+other_place: noodle uchi
+other_place: oishii
+other_place: hotel
+other_place: southside
+other_place: parlor
+other_place: market
+other_place: jail
+other_place: market
+other_place: market
+other_place: southside
+other_place: market
+other_place: Asia
+other_place: market
+other_place: laundry
+other_place: Moldova
+other_place: Dayana
+other_place: Post 1
+other_place: southside
+other_place: city
+other_place: council
+other_place: city
+other_place: west
+other_place: west
+other_place: capitol
+other_place: Capitol
+other_place: north into the forest
+other_place: city
+other_place: North
+other_place: city
+other_place: 200 ft further
+other_place: city,
+other_place: city
+other_place: city
+other_place: the west
+other_place: west
+other_place: capitol
+other_place: market
+other_place: dungeon
+other_place: dungeon
+other_place: MARS
+other_place: route 3
+other_place: high school
+other_place: room
+other_place: trees
+other_place: Ascend
+other_place: trees
+other_place: work
+other_place: living room
+other_place: Purdue
+other_place: class
+other_place: Africa
+other_place: CMU
+other_place: therapy
+other_place: my own space
+other_place: space
+other_place: there
+other_place: Vintage fair,
+other_place: 102
+other_place: 403
+other_place: abp
+other_place: class
+other_place: homw
+other_place: home
+other_place: home
+other_place: home
+other_place: up
+other_place: down
+other_place: Morewoo
+other_place: west wing cluster
+other_place: the uc
+other_place: Evgefstos
+other_place: Purnell
+other_place: food trucks
+other_place: Tartan truck
+other_place: Tartan truck
+other_place: class
+other_place: class
+other_place: class
+other_place: the uc
+other_place: UC
+other_place: in line
+other_place: evgefstos
+other_place: in line
+other_place: room
+other_place: poolside
+other_place: by the window
+other_place: in class
+other_place: Anderson Playground
+other_place: lounge
+other_place: UG
+other_place: school
+other_place: morewood
+other_place: IS
+other_place: salud juicery
+other_place: mudge
+other_place: Idella
+other_place: Idella
+other_place: hello bistro
+other_place: campus
+other_place: home
+other_place: Stephenie hall
+other_place: uc wean commons
+other_place: uc wean commons,
+other_place: room
+other_place: Morewood
+other_place: room
+other_place: house
+other_place: cuc 11
+other_place: praews house
+other_place: studio
+other_place: UC
+other_place: uc
+other_place: uc storage
+other_place: praews house
+other_place: UC
+other_place: UC
+other_place: uc
+other_place: city of angels
+other_place: design studio
+other_place: door
+other_place: campus
+other_place: design studio
+other_place: uc
+other_place: uc
+other_place: uc blackchairs
+other_place: home
+other_place: school
+other_place: school
+other_place: hallway
+other_place: campus
+other_place: chute
+other_place: xhute
+other_place: home
+other_place: place
+other_place: place
+other_place: home
+other_place: home
+other_place: uc
+other_place: cia garage,
+other_place: home
+other_place: OH
+other_place: chute
+other_place: home
+other_place: home
+other_place: home
+other_place: class
+other_place: hunt
+other_place: Donde
+other_place: cluster
+other_place: basement
+other_place: campus
+other_place: liquor store
+other_place: booth
+other_place: 2nd floor
+other_place: vhairmans
+other_place: 5th Idella apartments
+other_place: gesling
+other_place: uc
+other_place: campus
+other_place: home
+other_place: cqmpus
+other_place: uc
+other_place: home
+other_place: house
+other_place: hunt
+other_place: uc
+other_place: home
+other_place: People stick
+other_place: uc
+other_place: beep.bop
+other_place: uc
+other_place: mcconomy
+other_place: my apartment
+other_place: Campus
+other_place: school
+other_place: school
+other_place: school
+other_place: room
+other_place: basements
+other_place: in the back,
+other_place: home
+other_place: Lorrie park mall,
+other_place: boat
+other_place: sake bar
+other_place: lawrenceville
+other_place: door
+other_place: 309
+other_place: door
+other_place: basement
+other_place: downstairs
+other_place: geagle
+other_place: 2008
+other_place: venues
+other_place: Large church
+other_place: church
+other_place: home
+other_place: car
+other_place: UC
+other_place: uc and praews
+other_place: lab
+other_place: rolls
+other_place: district
+other_place: french quarter
+other_place: home
+other_place: campus
+other_place: storage room
+other_place: UC
+other_place: school
+other_place: class
+other_place: bookstore
+other_place: silk road
+other_place: UC
+other_place: UC- storage
+other_place: Cristine
+other_place: restaurant
+other_place: office
+other_place: uc
+other_place: UC
+other_place: room
+other_place: uc storage
+other_place: benedom
+other_place: The Trust's theaters
+other_place: bus stop
+other_place: Hailee
+other_place: MM bus stop
+other_place: my place
+other_place: My house
+other_place: campus
+other_place: stever
+other_place: Wean 5302
+other_place: Hill 4
+other_place: buggy showcase
+other_place: tri delt
+other_place: burgatory
+other_place: Osborn
+other_place: HOUSE
+other_place: drawing class
+other_place: Osborn
+other_place: office
+other_place: class
+other_place: Tepper 227
+other_place: Classroom
+other_place: wean
+other_place: scaife
+other_place: basement
+other_place: studios
+other_place: home
+District: 
+other_place: office
+other_place: Seoul Mary
+other_place: storage room
+other_place: house
+other_place: house
+other_place: house
+other_place: school
+other_place: house
+other_place: buggy
+other_place: 1043
+other_place: campus
+other_place: office
+other_place: uc storage
+other_place: office
+location: exit row
+other_place: pattaya
+other_place: pedestrian cross walk
+other_place: bitec
+other_place: 6500
+other_place: home
+other_place: home
+other_place: world
+other_place: Mid city
+other_place: Coop's place
+other_place: Jenifer Imo's cafe
+other_place: restaurant
+other_place: outside
+other_place: outside
+other_place: home
+other_place: Siam
+other_place: buggy
+other_place: sdc
+other_place: sdc
+other_place: home
+other_place: phils
+other_place: health services
+other_place: home
+other_place: home
+other_place: beeler
+other_place: Lorene's house
+other_place: on campus
+other_place: Byrd Cuba
+other_place: tako
+other_place: box office
+other_place: pamelas
+other_place: pamela's
+other_place: Hailee
+other_place: Chipotle
+other_place: little asia
+other_place: Hailee,
+other_place: gym
+other_place: gym
+other_place: UC
+other_place: praew
+other_place: asia
+other_place: home,
+other_place: tent
+other_place: tent
+other_place: bus stop
+other_place: bk
+other_place: eden bistro
+other_place: hello bistro
+other_place: salud
+other_place: hello
+other_place: eden
+other_place: beeler
+other_place: morewood
+other_place: morewood
+other_place: morewood
+other_place: class 430
+other_place: campus
+other_place: mudge
+other_place: hunt
+other_place: home
+other_place: mudge
+other_place: ONIB
+other_place: house
+other_place: storage room
+other_place: blackchairs
+other_place: Telly's studio
+other_place: kamikazi
+other_place: hunt
+other_place: CFA
+other_place: DTD
+other_place: A Phi O
+other_place: UC garage
+other_place: aphi booth
+other_place: tennis court
+other_place: home
+other_place: class
+other_place: asian market
+other_place: asian market
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: office
+other_place: law school
+other_place: law school
+other_place: hello bistro
+other_place: hello bistro
+other_place: Hello bistro
+other_place: hello
+other_place: hello bistro
+other_place: Fuku
+other_place: Hello
+other_place: Next to The Porch,
+other_place: home
+other_place: busstop
+other_place: mw,
+other_place: @ bus stop
+other_place: morewood bus stop
+other_place: at bus stop
+other_place: MW bus stop
+other_place: the art store
+other_place: Mellon Institute
+other_place: home
+other_place: home
+other_place: 5th Idella apartments
+other_place: your floor
+other_place: Patrons
+other_place: campus
+other_place: uc
+other_place: UC
+other_place: silk road
+other_place: uc
+other_place: studio
+other_place: Uc
+other_place: UC
+other_place: UC
+other_place: Morewood
+other_place: stairway
+other_place: cmu
+other_place: uc
+other_place: outside
+other_place: OH
+other_place: OH
+other_place: campus
+other_place: OH
+other_place: In the cart
+other_place: room
+other_place: class
+other_place: Seoul Mary
+other_place: storage room
+other_place: home
+other_place: Control Arch hills
+other_place: Utils
+other_place: lab
+other_place: lafarge
+other_place: base station
+other_place: HCI kitchen
+other_place: Basement
+other_place: B Level
+other_place: Chipotle
+other_place: beach
+other_place: sbpl
+other_place: office
+other_place: class
+other_place: work
+other_place: robolounge?,
+other_place: CMU soccer fields
+other_place: my house
+other_place: campus
+other_place: your place
+other_place: Chipotle
+other_place: subway
+other_place: campus
+other_place: college
+other_place: movies
+other_place: movies
+other_place: class
+other_place: class
+other_place: campus
+other_place: home
+other_place: men's restrooms
+other_place: men's room
+other_place: restroom
+other_place: urinal
+other_place: urinal
+other_place: urinals
+other_place: urinals
+other_place: urinals
+other_place: restroom
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: restroom
+other_place: stall
+other_place: Bathroom
+other_place: upstairs
+other_place: class
+other_place: basement
+other_place: PRL
+other_place: prl
+other_place: nsh
+other_place: prl
+other_place: grad school
+other_place: grad school
+other_place: Argo
+other_place: Subway
+other_place: campus
+other_place: your place
+other_place: NSH
+other_place: inoodles
+other_place: kitchen
+other_place: robotics department
+other_place: tepper
+other_place: on campus
+other_place: campus
+other_place: class
+other_place: basement
+other_place: campus
+other_place: house
+other_place: campus
+other_place: ptl
+other_place: ghc 3rd floor,
+other_place: 4th floro
+other_place: PRL
+other_place: Lennon lounge
+other_place: home
+other_place: basement
+other_place: home
+other_place: bed
+other_place: your place
+other_place: lab
+other_place: basement
+other_place: level B
+other_place: 4th floor,
+other_place: Commons
+other_place: campus
+other_place: Commons
+other_place: Commons
+other_place: Line
+other_place: highland
+other_place: home
+other_place: home
+other_place: the office
+other_place: lab
+other_place: Underground
+other_place: gates
+other_place: 4th floor,
+other_place: my room
+other_place: morewood
+other_place: cut
+other_place: Lab
+other_place: Byrd Cuba
+other_place: Lab
+other_place: lab
+other_place: gates atm
+other_place: 4th floor
+other_place: class
+other_place: class
+other_place: class
+other_place: Wean
+other_place: outside morewood
+other_place: cut
+other_place: Shore
+other_place: Lab
+other_place: the underground
+other_place: the underground
+other_place: home Depot
+other_place: room
+other_place: Gates Hillman Center
+other_place: Gates Hillman Center
+other_place: Supply Station
+other_place: Dayana
+other_place: Viviana
+other_place: uc
+other_place: Byrd Cuba
+other_place: hunt
+other_place: uc
+other_place: hunt
+other_place: studio theatre
+other_place: Backstage
+other_place: Entrance of uc
+other_place: apteka
+other_place: your place
+other_place: Union grill
+other_place: OE
+other_place: office
+other_place: inoodle
+other_place: office
+other_place: morewood
+other_place: top shelf
+other_place: la prima
+other_place: Midway
+other_place: studio theatre
+other_place: studio theatre
+other_place: My place
+other_place: your place
+other_place: Forbes and more wood
+other_place: nearby
+other_place: the computer lab
+other_place: testing room
+other_place: children's school room
+other_place: computer lab
+other_place: building
+other_place: psych computer lab
+other_place: Byrd Cuba A411
+other_place: town
+other_place: home
+other_place: chipotle
+other_place: chipotle
+other_place: uc
+other_place: airport
+other_place: Campus
+other_place: airport
+other_place: airport
+other_place: MPK
+other_place: Mpk
+other_place: Comedos tacos
+other_place: Ascend
+other_place: Mr smalls
+other_place: home
+other_place: the great Allegheny passage
+other_place: restaurant
+other_place: country
+other_place: Lilly's room
+other_place: repair shop
+other_place: bio department
+other_place: europe
+other_place: MARS
+other_place: mars
+other_place: Dayana
+other_place: middle east
+other_place: gym
+other_place: Market
+other_place: market
+other_place: basement of trees
+other_place: basement of trees
+other_place: pool
+other_place: Lothrop
+other_place: downstairs
+other_place: CVS
+other_place: bacl corner
+other_place: market
+other_place: Jammie
+other_place: market
+other_place: market
+other_place: Peterson
+other_place: peterson events center
+other_place: Lothrop
+other_place: Lothrop
+other_place: Lothrop
+other_place: market
+other_place: Market rn
+other_place: market
+other_place: market
+other_place: market
+other_place: Lawrence computer lab
+other_place: lower lounge
+other_place: class
+other_place: market
+other_place: room
+other_place: The Capital Grille
+other_place: market
+other_place: gym class
+other_place: earth
+other_place: market
+other_place: Market
+other_place: market
+other_place: campus
+other_place: Dayana
+other_place: Popeyes
+other_place: Science museum
+other_place: Waterfront
+other_place: back alley
+other_place: gym
+other_place: gym
+other_place: gym
+other_place: fulll weight gym
+other_place: highschool
+other_place: arby's
+other_place: arbys
+other_place: noodle uchi
+other_place: oishii
+other_place: hotel
+other_place: southside
+other_place: parlor
+other_place: market
+other_place: jail
+other_place: market
+other_place: market
+other_place: southside
+other_place: market
+other_place: Asia
+other_place: market
+other_place: laundry
+other_place: Moldova
+other_place: Dayana
+other_place: Post 1
+other_place: southside
+other_place: city
+other_place: council
+other_place: city
+other_place: west
+other_place: west
+other_place: capitol
+other_place: Capitol
+other_place: north into the forest
+other_place: city
+other_place: North
+other_place: city
+other_place: 200 ft further
+other_place: city,
+other_place: city
+other_place: city
+other_place: the west
+other_place: west
+other_place: capitol
+other_place: market
+other_place: dungeon
+other_place: dungeon
+other_place: MARS
+other_place: route 3
+other_place: high school
+other_place: room
+other_place: trees
+other_place: Ascend
+other_place: trees
+other_place: work
+other_place: living room
+other_place: Purdue
+other_place: class
+other_place: Africa
+other_place: CMU
+other_place: therapy
+other_place: my own space
+other_place: space
+other_place: there
+other_place: Vintage fair,
+other_place: 102
+other_place: 403
+other_place: abp
+other_place: class
+other_place: homw
+other_place: home
+other_place: home
+other_place: home
+other_place: up
+other_place: down
+other_place: Morewoo
+other_place: west wing cluster
+other_place: the uc
+other_place: Evgefstos
+other_place: Purnell
+other_place: food trucks
+other_place: Tartan truck
+other_place: Tartan truck
+other_place: class
+other_place: class
+other_place: class
+other_place: the uc
+other_place: UC
+other_place: in line
+other_place: evgefstos
+other_place: in line
+other_place: room
+other_place: poolside
+other_place: by the window
+other_place: in class
+other_place: Anderson Playground
+other_place: lounge
+other_place: UG
+other_place: school
+other_place: morewood
+other_place: IS
+other_place: salud juicery
+other_place: mudge
+other_place: Idella
+other_place: Idella
+other_place: hello bistro
+other_place: campus
+other_place: home
+other_place: Stephenie hall
+other_place: uc wean commons
+other_place: uc wean commons,
+other_place: room
+other_place: Morewood
+other_place: room
+other_place: house
+other_place: cuc 11
+other_place: praews house
+other_place: studio
+other_place: UC
+other_place: uc
+other_place: uc storage
+other_place: praews house
+other_place: UC
+other_place: UC
+other_place: uc
+other_place: city of angels
+other_place: design studio
+other_place: door
+other_place: campus
+other_place: design studio
+other_place: uc
+other_place: uc
+other_place: uc blackchairs
+other_place: home
+other_place: school
+other_place: school
+other_place: hallway
+other_place: campus
+other_place: chute
+other_place: xhute
+other_place: home
+other_place: place
+other_place: place
+other_place: home
+other_place: home
+other_place: uc
+other_place: cia garage,
+other_place: home
+other_place: OH
+other_place: chute
+other_place: home
+other_place: home
+other_place: home
+other_place: class
+other_place: hunt
+other_place: Donde
+other_place: cluster
+other_place: basement
+other_place: campus
+other_place: liquor store
+other_place: booth
+other_place: 2nd floor
+other_place: vhairmans
+other_place: 5th Idella apartments
+other_place: gesling
+other_place: uc
+other_place: campus
+other_place: home
+other_place: cqmpus
+other_place: uc
+other_place: home
+other_place: house
+other_place: hunt
+other_place: uc
+other_place: home
+other_place: People stick
+other_place: uc
+other_place: beep.bop
+other_place: uc
+other_place: mcconomy
+other_place: my apartment
+other_place: Campus
+other_place: school
+other_place: school
+other_place: school
+other_place: room
+other_place: basements
+other_place: in the back,
+other_place: home
+other_place: Lorrie park mall,
+other_place: boat
+other_place: sake bar
+other_place: lawrenceville
+other_place: door
+other_place: 309
+other_place: door
+other_place: basement
+other_place: downstairs
+other_place: geagle
+other_place: 2008
+other_place: venues
+other_place: Large church
+other_place: church
+other_place: home
+other_place: car
+other_place: UC
+other_place: uc and praews
+other_place: lab
+other_place: rolls
+other_place: district
+other_place: french quarter
+other_place: home
+other_place: campus
+other_place: storage room
+other_place: UC
+other_place: school
+other_place: class
+other_place: bookstore
+other_place: silk road
+other_place: UC
+other_place: UC- storage
+other_place: Cristine
+other_place: restaurant
+other_place: office
+other_place: uc
+other_place: UC
+other_place: room
+other_place: uc storage
+other_place: benedom
+other_place: The Trust's theaters
+other_place: bus stop
+other_place: Hailee
+other_place: MM bus stop
+other_place: my place
+other_place: My house
+other_place: campus
+other_place: stever
+other_place: Wean 5302
+other_place: Hill 4
+other_place: buggy showcase
+other_place: tri delt
+other_place: burgatory
+other_place: Osborn
+other_place: HOUSE
+other_place: drawing class
+other_place: Osborn
+other_place: office
+other_place: class
+other_place: Tepper 227
+other_place: Classroom
+other_place: wean
+other_place: scaife
+other_place: basement
+other_place: studios
+other_place: home
+District: 
+other_place: office
+other_place: Seoul Mary
+other_place: storage room
+other_place: house
+other_place: house
+other_place: house
+other_place: school
+other_place: house
+other_place: buggy
+other_place: 1043
+other_place: campus
+other_place: office
+other_place: uc storage
+other_place: office
+location: exit row
+other_place: pattaya
+other_place: pedestrian cross walk
+other_place: bitec
+other_place: 6500
+other_place: home
+other_place: home
+other_place: world
+other_place: Mid city
+other_place: Coop's place
+other_place: Jenifer Imo's cafe
+other_place: restaurant
+other_place: outside
+other_place: outside
+other_place: home
+other_place: Siam
+other_place: buggy
+other_place: sdc
+other_place: sdc
+other_place: home
+other_place: phils
+other_place: health services
+other_place: home
+other_place: home
+other_place: beeler
+other_place: Lorene's house
+other_place: on campus
+other_place: Byrd Cuba
+other_place: tako
+other_place: box office
+other_place: pamelas
+other_place: pamela's
+other_place: Hailee
+other_place: Chipotle
+other_place: little asia
+other_place: Hailee,
+other_place: gym
+other_place: gym
+other_place: UC
+other_place: praew
+other_place: asia
+other_place: home,
+other_place: tent
+other_place: tent
+other_place: bus stop
+other_place: bk
+other_place: eden bistro
+other_place: hello bistro
+other_place: salud
+other_place: hello
+other_place: eden
+other_place: beeler
+other_place: morewood
+other_place: morewood
+other_place: morewood
+other_place: class 430
+other_place: campus
+other_place: mudge
+other_place: hunt
+other_place: home
+other_place: mudge
+other_place: ONIB
+other_place: house
+other_place: storage room
+other_place: blackchairs
+other_place: Telly's studio
+other_place: kamikazi
+other_place: hunt
+other_place: CFA
+other_place: DTD
+other_place: A Phi O
+other_place: UC garage
+other_place: aphi booth
+other_place: tennis court
+other_place: home
+other_place: class
+other_place: asian market
+other_place: asian market
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: office
+other_place: law school
+other_place: law school
+other_place: hello bistro
+other_place: hello bistro
+other_place: Hello bistro
+other_place: hello
+other_place: hello bistro
+other_place: Fuku
+other_place: Hello
+other_place: Next to The Porch,
+other_place: home
+other_place: busstop
+other_place: mw,
+other_place: @ bus stop
+other_place: morewood bus stop
+other_place: at bus stop
+other_place: MW bus stop
+other_place: the art store
+other_place: Mellon Institute
+other_place: home
+other_place: home
+other_place: 5th Idella apartments
+other_place: your floor
+other_place: Patrons
+other_place: campus
+other_place: uc
+other_place: UC
+other_place: silk road
+other_place: uc
+other_place: studio
+other_place: Uc
+other_place: UC
+other_place: UC
+other_place: Morewood
+other_place: stairway
+other_place: cmu
+other_place: uc
+other_place: outside
+other_place: OH
+other_place: OH
+other_place: campus
+other_place: OH
+other_place: In the cart
+other_place: room
+other_place: class
+other_place: Seoul Mary
+other_place: storage room
+other_place: home
+other_place: Control Arch hills
+other_place: Utils
+other_place: lab
+other_place: lafarge
+other_place: base station
+other_place: HCI kitchen
+other_place: Basement
+other_place: B Level
+other_place: Chipotle
+other_place: beach
+other_place: sbpl
+other_place: office
+other_place: class
+other_place: work
+other_place: robolounge?,
+other_place: CMU soccer fields
+other_place: my house
+other_place: campus
+other_place: your place
+other_place: Chipotle
+other_place: subway
+other_place: campus
+other_place: college
+other_place: movies
+other_place: movies
+other_place: class
+other_place: class
+other_place: campus
+other_place: home
+other_place: men's restrooms
+other_place: men's room
+other_place: restroom
+other_place: urinal
+other_place: urinal
+other_place: urinals
+other_place: urinals
+other_place: urinals
+other_place: restroom
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: restroom
+other_place: stall
+other_place: Bathroom
+other_place: upstairs
+other_place: class
+other_place: basement
+other_place: PRL
+other_place: prl
+other_place: nsh
+other_place: prl
+other_place: grad school
+other_place: grad school
+other_place: Argo
+other_place: Subway
+other_place: campus
+other_place: your place
+other_place: NSH
+other_place: inoodles
+other_place: kitchen
+other_place: robotics department
+other_place: tepper
+other_place: on campus
+other_place: campus
+other_place: class
+other_place: basement
+other_place: campus
+other_place: house
+other_place: campus
+other_place: ptl
+other_place: ghc 3rd floor,
+other_place: 4th floro
+other_place: PRL
+other_place: Lennon lounge
+other_place: home
+other_place: basement
+other_place: home
+other_place: bed
+other_place: your place
+other_place: lab
+other_place: basement
+other_place: level B
+other_place: 4th floor,
+other_place: Commons
+other_place: campus
+other_place: Commons
+other_place: Commons
+other_place: Line
+other_place: highland
+other_place: home
+other_place: home
+other_place: the office
+other_place: lab
+other_place: Underground
+other_place: gates
+other_place: 4th floor,
+other_place: my room
+other_place: morewood
+other_place: cut
+other_place: Lab
+other_place: Byrd Cuba
+other_place: Lab
+other_place: lab
+other_place: gates atm
+other_place: 4th floor
+other_place: class
+other_place: class
+other_place: class
+other_place: Wean
+other_place: outside morewood
+other_place: cut
+other_place: Shore
+other_place: Lab
+other_place: the underground
+other_place: the underground
+other_place: home Depot
+other_place: room
+other_place: Gates Hillman Center
+other_place: Gates Hillman Center
+other_place: Supply Station
+other_place: Dayana
+other_place: Viviana
+other_place: uc
+other_place: Byrd Cuba
+other_place: hunt
+other_place: uc
+other_place: hunt
+other_place: studio theatre
+other_place: Backstage
+other_place: Entrance of uc
+other_place: apteka
+other_place: your place
+other_place: Union grill
+other_place: OE
+other_place: office
+other_place: inoodle
+other_place: office
+other_place: morewood
+other_place: top shelf
+other_place: la prima
+other_place: Midway
+other_place: studio theatre
+other_place: studio theatre
+other_place: My place
+other_place: your place
+other_place: Forbes and more wood
+other_place: nearby
+other_place: the computer lab
+other_place: testing room
+other_place: children's school room
+other_place: computer lab
+other_place: building
+other_place: psych computer lab
+other_place: Byrd Cuba A411
+other_place: town
+other_place: home
+other_place: chipotle
+other_place: chipotle
+other_place: uc
+other_place: airport
+other_place: Campus
+other_place: airport
+other_place: airport
+other_place: MPK
+other_place: Mpk
+other_place: Comedos tacos
+other_place: Ascend
+other_place: Mr smalls
+other_place: home
+other_place: the great Allegheny passage
+other_place: restaurant
+other_place: country
+other_place: Lilly's room
+other_place: repair shop
+other_place: bio department
+other_place: europe
+other_place: MARS
+other_place: mars
+other_place: Dayana
+other_place: middle east
+other_place: gym
+other_place: Market
+other_place: market
+other_place: basement of trees
+other_place: basement of trees
+other_place: pool
+other_place: Lothrop
+other_place: downstairs
+other_place: CVS
+other_place: bacl corner
+other_place: market
+other_place: Jammie
+other_place: market
+other_place: market
+other_place: Peterson
+other_place: peterson events center
+other_place: Lothrop
+other_place: Lothrop
+other_place: Lothrop
+other_place: market
+other_place: Market rn
+other_place: market
+other_place: market
+other_place: market
+other_place: Lawrence computer lab
+other_place: lower lounge
+other_place: class
+other_place: market
+other_place: room
+other_place: The Capital Grille
+other_place: market
+other_place: gym class
+other_place: earth
+other_place: market
+other_place: Market
+other_place: market
+other_place: campus
+other_place: Dayana
+other_place: Popeyes
+other_place: Science museum
+other_place: Waterfront
+other_place: back alley
+other_place: gym
+other_place: gym
+other_place: gym
+other_place: fulll weight gym
+other_place: highschool
+other_place: arby's
+other_place: arbys
+other_place: noodle uchi
+other_place: oishii
+other_place: hotel
+other_place: southside
+other_place: parlor
+other_place: market
+other_place: jail
+other_place: market
+other_place: market
+other_place: southside
+other_place: market
+other_place: Asia
+other_place: market
+other_place: laundry
+other_place: Moldova
+other_place: Dayana
+other_place: Post 1
+other_place: southside
+other_place: city
+other_place: council
+other_place: city
+other_place: west
+other_place: west
+other_place: capitol
+other_place: Capitol
+other_place: north into the forest
+other_place: city
+other_place: North
+other_place: city
+other_place: 200 ft further
+other_place: city,
+other_place: city
+other_place: city
+other_place: the west
+other_place: west
+other_place: capitol
+other_place: market
+other_place: dungeon
+other_place: dungeon
+other_place: MARS
+other_place: route 3
+other_place: high school
+other_place: room
+other_place: trees
+other_place: Ascend
+other_place: trees
+other_place: work
+other_place: living room
+other_place: Purdue
+other_place: class
+other_place: Africa
+other_place: CMU
+other_place: therapy
+other_place: my own space
+other_place: space
+other_place: there
+other_place: Vintage fair,
+other_place: 102
+other_place: 403
+other_place: abp
+other_place: class
+other_place: homw
+other_place: home
+other_place: home
+other_place: home
+other_place: up
+other_place: down
+other_place: Morewoo
+other_place: west wing cluster
+other_place: the uc
+other_place: Evgefstos
+other_place: Purnell
+other_place: food trucks
+other_place: Tartan truck
+other_place: Tartan truck
+other_place: class
+other_place: class
+other_place: class
+other_place: the uc
+other_place: UC
+other_place: in line
+other_place: evgefstos
+other_place: in line
+other_place: room
+other_place: poolside
+other_place: by the window
+other_place: in class
+other_place: Anderson Playground
+other_place: lounge
+other_place: UG
+other_place: school
+other_place: morewood
+other_place: IS
+other_place: salud juicery
+other_place: mudge
+other_place: Idella
+other_place: Idella
+other_place: hello bistro
+other_place: campus
+other_place: home
+other_place: Stephenie hall
+other_place: uc wean commons
+other_place: uc wean commons,
+other_place: room
+other_place: Morewood
+other_place: room
+other_place: house
+other_place: cuc 11
+other_place: praews house
+other_place: studio
+other_place: UC
+other_place: uc
+other_place: uc storage
+other_place: praews house
+other_place: UC
+other_place: UC
+other_place: uc
+other_place: city of angels
+other_place: design studio
+other_place: door
+other_place: campus
+other_place: design studio
+other_place: uc
+other_place: uc
+other_place: uc blackchairs
+other_place: home
+other_place: school
+other_place: school
+other_place: hallway
+other_place: campus
+other_place: chute
+other_place: xhute
+other_place: home
+other_place: place
+other_place: place
+other_place: home
+other_place: home
+other_place: uc
+other_place: cia garage,
+other_place: home
+other_place: OH
+other_place: chute
+other_place: home
+other_place: home
+other_place: home
+other_place: class
+other_place: hunt
+other_place: Donde
+other_place: cluster
+other_place: basement
+other_place: campus
+other_place: liquor store
+other_place: booth
+other_place: 2nd floor
+other_place: vhairmans
+other_place: 5th Idella apartments
+other_place: gesling
+other_place: uc
+other_place: campus
+other_place: home
+other_place: cqmpus
+other_place: uc
+other_place: home
+other_place: house
+other_place: hunt
+other_place: uc
+other_place: home
+other_place: People stick
+other_place: uc
+other_place: beep.bop
+other_place: uc
+other_place: mcconomy
+other_place: my apartment
+other_place: Campus
+other_place: school
+other_place: school
+other_place: school
+other_place: room
+other_place: basements
+other_place: in the back,
+other_place: home
+other_place: Lorrie park mall,
+other_place: boat
+other_place: sake bar
+other_place: lawrenceville
+other_place: door
+other_place: 309
+other_place: door
+other_place: basement
+other_place: downstairs
+other_place: geagle
+other_place: 2008
+other_place: venues
+other_place: Large church
+other_place: church
+other_place: home
+other_place: car
+other_place: UC
+other_place: uc and praews
+other_place: lab
+other_place: rolls
+other_place: district
+other_place: french quarter
+other_place: home
+other_place: campus
+other_place: storage room
+other_place: UC
+other_place: school
+other_place: class
+other_place: bookstore
+other_place: silk road
+other_place: UC
+other_place: UC- storage
+other_place: Cristine
+other_place: restaurant
+other_place: office
+other_place: uc
+other_place: UC
+other_place: room
+other_place: uc storage
+other_place: benedom
+other_place: The Trust's theaters
+other_place: bus stop
+other_place: Hailee
+other_place: MM bus stop
+other_place: my place
+other_place: My house
+other_place: campus
+other_place: stever
+other_place: Wean 5302
+other_place: Hill 4
+other_place: buggy showcase
+other_place: tri delt
+other_place: burgatory
+other_place: Osborn
+other_place: HOUSE
+other_place: drawing class
+other_place: Osborn
+other_place: office
+other_place: class
+other_place: Tepper 227
+other_place: Classroom
+other_place: wean
+other_place: scaife
+other_place: basement
+other_place: studios
+other_place: home
+District: 
+other_place: office
+other_place: Seoul Mary
+other_place: storage room
+other_place: house
+other_place: house
+other_place: house
+other_place: school
+other_place: house
+other_place: buggy
+other_place: 1043
+other_place: campus
+other_place: office
+other_place: uc storage
+other_place: office
+location: exit row
+other_place: pattaya
+other_place: pedestrian cross walk
+other_place: bitec
+other_place: 6500
+other_place: home
+other_place: home
+other_place: world
+other_place: Mid city
+other_place: Coop's place
+other_place: Jenifer Imo's cafe
+other_place: restaurant
+other_place: outside
+other_place: outside
+other_place: home
+other_place: Siam
+other_place: buggy
+other_place: sdc
+other_place: sdc
+other_place: home
+other_place: phils
+other_place: health services
+other_place: home
+other_place: home
+other_place: beeler
+other_place: Lorene's house
+other_place: on campus
+other_place: Byrd Cuba
+other_place: tako
+other_place: box office
+other_place: pamelas
+other_place: pamela's
+other_place: Hailee
+other_place: Chipotle
+other_place: little asia
+other_place: Hailee,
+other_place: gym
+other_place: gym
+other_place: UC
+other_place: praew
+other_place: asia
+other_place: home,
+other_place: tent
+other_place: tent
+other_place: bus stop
+other_place: bk
+other_place: eden bistro
+other_place: hello bistro
+other_place: salud
+other_place: hello
+other_place: eden
+other_place: beeler
+other_place: morewood
+other_place: morewood
+other_place: morewood
+other_place: class 430
+other_place: campus
+other_place: mudge
+other_place: hunt
+other_place: home
+other_place: mudge
+other_place: ONIB
+other_place: house
+other_place: storage room
+other_place: blackchairs
+other_place: Telly's studio
+other_place: kamikazi
+other_place: hunt
+other_place: CFA
+other_place: DTD
+other_place: A Phi O
+other_place: UC garage
+other_place: aphi booth
+other_place: tennis court
+other_place: home
+other_place: class
+other_place: asian market
+other_place: asian market
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: office
+other_place: law school
+other_place: law school
+other_place: hello bistro
+other_place: hello bistro
+other_place: Hello bistro
+other_place: hello
+other_place: hello bistro
+other_place: Fuku
+other_place: Hello
+other_place: Next to The Porch,
+other_place: home
+other_place: busstop
+other_place: mw,
+other_place: @ bus stop
+other_place: morewood bus stop
+other_place: at bus stop
+other_place: MW bus stop
+other_place: the art store
+other_place: Mellon Institute
+other_place: home
+other_place: home
+other_place: 5th Idella apartments
+other_place: your floor
+other_place: Patrons
+other_place: campus
+other_place: uc
+other_place: UC
+other_place: silk road
+other_place: uc
+other_place: studio
+other_place: Uc
+other_place: UC
+other_place: UC
+other_place: Morewood
+other_place: stairway
+other_place: cmu
+other_place: uc
+other_place: outside
+other_place: OH
+other_place: OH
+other_place: campus
+other_place: OH
+other_place: In the cart
+other_place: room
+other_place: class
+other_place: Seoul Mary
+other_place: storage room
+other_place: home
+other_place: Control Arch hills
+other_place: Utils
+other_place: lab
+other_place: lafarge
+other_place: base station
+other_place: HCI kitchen
+other_place: Basement
+other_place: B Level
+other_place: Chipotle
+other_place: beach
+other_place: sbpl
+other_place: office
+other_place: class
+other_place: work
+other_place: robolounge?,
+other_place: CMU soccer fields
+other_place: my house
+other_place: campus
+other_place: your place
+other_place: Chipotle
+other_place: subway
+other_place: campus
+other_place: college
+other_place: movies
+other_place: movies
+other_place: class
+other_place: class
+other_place: campus
+other_place: home
+other_place: men's restrooms
+other_place: men's room
+other_place: restroom
+other_place: urinal
+other_place: urinal
+other_place: urinals
+other_place: urinals
+other_place: urinals
+other_place: restroom
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: restroom
+other_place: stall
+other_place: Bathroom
+other_place: upstairs
+other_place: class
+other_place: basement
+other_place: PRL
+other_place: prl
+other_place: nsh
+other_place: prl
+other_place: grad school
+other_place: grad school
+other_place: Argo
+other_place: Subway
+other_place: campus
+other_place: your place
+other_place: NSH
+other_place: inoodles
+other_place: kitchen
+other_place: robotics department
+other_place: tepper
+other_place: on campus
+other_place: campus
+other_place: class
+other_place: basement
+other_place: campus
+other_place: house
+other_place: campus
+other_place: ptl
+other_place: ghc 3rd floor,
+other_place: 4th floro
+other_place: PRL
+other_place: Lennon lounge
+other_place: home
+other_place: basement
+other_place: home
+other_place: bed
+other_place: your place
+other_place: lab
+other_place: basement
+other_place: level B
+other_place: 4th floor,
+other_place: Commons
+other_place: campus
+other_place: Commons
+other_place: Commons
+other_place: Line
+other_place: highland
+other_place: home
+other_place: home
+other_place: the office
+other_place: lab
+other_place: Underground
+other_place: gates
+other_place: 4th floor,
+other_place: my room
+other_place: morewood
+other_place: cut
+other_place: Lab
+other_place: Byrd Cuba
+other_place: Lab
+other_place: lab
+other_place: gates atm
+other_place: 4th floor
+other_place: class
+other_place: class
+other_place: class
+other_place: Wean
+other_place: outside morewood
+other_place: cut
+other_place: Shore
+other_place: Lab
+other_place: the underground
+other_place: the underground
+other_place: home Depot
+other_place: room
+other_place: Gates Hillman Center
+other_place: Gates Hillman Center
+other_place: Supply Station
+other_place: Dayana
+other_place: Viviana
+other_place: uc
+other_place: Byrd Cuba
+other_place: hunt
+other_place: uc
+other_place: hunt
+other_place: studio theatre
+other_place: Backstage
+other_place: Entrance of uc
+other_place: apteka
+other_place: your place
+other_place: Union grill
+other_place: OE
+other_place: office
+other_place: inoodle
+other_place: office
+other_place: morewood
+other_place: top shelf
+other_place: la prima
+other_place: Midway
+other_place: studio theatre
+other_place: studio theatre
+other_place: My place
+other_place: your place
+other_place: Forbes and more wood
+other_place: nearby
+other_place: the computer lab
+other_place: testing room
+other_place: children's school room
+other_place: computer lab
+other_place: building
+other_place: psych computer lab
+other_place: Byrd Cuba A411
+other_place: town
+other_place: home
+other_place: chipotle
+other_place: chipotle
+other_place: uc
+other_place: airport
+other_place: Campus
+other_place: airport
+other_place: airport
+other_place: MPK
+other_place: Mpk
+other_place: Comedos tacos
+other_place: Ascend
+other_place: Mr smalls
+other_place: home
+other_place: the great Allegheny passage
+other_place: restaurant
+other_place: country
+other_place: Lilly's room
+other_place: repair shop
+other_place: bio department
+other_place: europe
+other_place: MARS
+other_place: mars
+other_place: Dayana
+other_place: middle east
+other_place: gym
+other_place: Market
+other_place: market
+other_place: basement of trees
+other_place: basement of trees
+other_place: pool
+other_place: Lothrop
+other_place: downstairs
+other_place: CVS
+other_place: bacl corner
+other_place: market
+other_place: Jammie
+other_place: market
+other_place: market
+other_place: Peterson
+other_place: peterson events center
+other_place: Lothrop
+other_place: Lothrop
+other_place: Lothrop
+other_place: market
+other_place: Market rn
+other_place: market
+other_place: market
+other_place: market
+other_place: Lawrence computer lab
+other_place: lower lounge
+other_place: class
+other_place: market
+other_place: room
+other_place: The Capital Grille
+other_place: market
+other_place: gym class
+other_place: earth
+other_place: market
+other_place: Market
+other_place: market
+other_place: campus
+other_place: Dayana
+other_place: Popeyes
+other_place: Science museum
+other_place: Waterfront
+other_place: back alley
+other_place: gym
+other_place: gym
+other_place: gym
+other_place: fulll weight gym
+other_place: highschool
+other_place: arby's
+other_place: arbys
+other_place: noodle uchi
+other_place: oishii
+other_place: hotel
+other_place: southside
+other_place: parlor
+other_place: market
+other_place: jail
+other_place: market
+other_place: market
+other_place: southside
+other_place: market
+other_place: Asia
+other_place: market
+other_place: laundry
+other_place: Moldova
+other_place: Dayana
+other_place: Post 1
+other_place: southside
+other_place: city
+other_place: council
+other_place: city
+other_place: west
+other_place: west
+other_place: capitol
+other_place: Capitol
+other_place: north into the forest
+other_place: city
+other_place: North
+other_place: city
+other_place: 200 ft further
+other_place: city,
+other_place: city
+other_place: city
+other_place: the west
+other_place: west
+other_place: capitol
+other_place: market
+other_place: dungeon
+other_place: dungeon
+other_place: MARS
+other_place: route 3
+other_place: high school
+other_place: room
+other_place: trees
+other_place: Ascend
+other_place: trees
+other_place: work
+other_place: living room
+other_place: Purdue
+other_place: class
+other_place: Africa
+other_place: CMU
+other_place: therapy
+other_place: my own space
+other_place: space
+other_place: there
+other_place: Vintage fair,
+other_place: 102
+other_place: 403
+other_place: abp
+other_place: class
+other_place: homw
+other_place: home
+other_place: home
+other_place: home
+other_place: up
+other_place: down
+other_place: Morewoo
+other_place: west wing cluster
+other_place: the uc
+other_place: Evgefstos
+other_place: Purnell
+other_place: food trucks
+other_place: Tartan truck
+other_place: Tartan truck
+other_place: class
+other_place: class
+other_place: class
+other_place: the uc
+other_place: UC
+other_place: in line
+other_place: evgefstos
+other_place: in line
+other_place: room
+other_place: poolside
+other_place: by the window
+other_place: in class
+other_place: Anderson Playground
+other_place: lounge
+other_place: UG
+other_place: school
+other_place: morewood
+other_place: IS
+other_place: salud juicery
+other_place: mudge
+other_place: Idella
+other_place: Idella
+other_place: hello bistro
+other_place: campus
+other_place: home
+other_place: Stephenie hall
+other_place: uc wean commons
+other_place: uc wean commons,
+other_place: room
+other_place: Morewood
+other_place: room
+other_place: house
+other_place: cuc 11
+other_place: praews house
+other_place: studio
+other_place: UC
+other_place: uc
+other_place: uc storage
+other_place: praews house
+other_place: UC
+other_place: UC
+other_place: uc
+other_place: city of angels
+other_place: design studio
+other_place: door
+other_place: campus
+other_place: design studio
+other_place: uc
+other_place: uc
+other_place: uc blackchairs
+other_place: home
+other_place: school
+other_place: school
+other_place: hallway
+other_place: campus
+other_place: chute
+other_place: xhute
+other_place: home
+other_place: place
+other_place: place
+other_place: home
+other_place: home
+other_place: uc
+other_place: cia garage,
+other_place: home
+other_place: OH
+other_place: chute
+other_place: home
+other_place: home
+other_place: home
+other_place: class
+other_place: hunt
+other_place: Donde
+other_place: cluster
+other_place: basement
+other_place: campus
+other_place: liquor store
+other_place: booth
+other_place: 2nd floor
+other_place: vhairmans
+other_place: 5th Idella apartments
+other_place: gesling
+other_place: uc
+other_place: campus
+other_place: home
+other_place: cqmpus
+other_place: uc
+other_place: home
+other_place: house
+other_place: hunt
+other_place: uc
+other_place: home
+other_place: People stick
+other_place: uc
+other_place: beep.bop
+other_place: uc
+other_place: mcconomy
+other_place: my apartment
+other_place: Campus
+other_place: school
+other_place: school
+other_place: school
+other_place: room
+other_place: basements
+other_place: in the back,
+other_place: home
+other_place: Lorrie park mall,
+other_place: boat
+other_place: sake bar
+other_place: lawrenceville
+other_place: door
+other_place: 309
+other_place: door
+other_place: basement
+other_place: downstairs
+other_place: geagle
+other_place: 2008
+other_place: venues
+other_place: Large church
+other_place: church
+other_place: home
+other_place: car
+other_place: UC
+other_place: uc and praews
+other_place: lab
+other_place: rolls
+other_place: district
+other_place: french quarter
+other_place: home
+other_place: campus
+other_place: storage room
+other_place: UC
+other_place: school
+other_place: class
+other_place: bookstore
+other_place: silk road
+other_place: UC
+other_place: UC- storage
+other_place: Cristine
+other_place: restaurant
+other_place: office
+other_place: uc
+other_place: UC
+other_place: room
+other_place: uc storage
+other_place: benedom
+other_place: The Trust's theaters
+other_place: bus stop
+other_place: Hailee
+other_place: MM bus stop
+other_place: my place
+other_place: My house
+other_place: campus
+other_place: stever
+other_place: Wean 5302
+other_place: Hill 4
+other_place: buggy showcase
+other_place: tri delt
+other_place: burgatory
+other_place: Osborn
+other_place: HOUSE
+other_place: drawing class
+other_place: Osborn
+other_place: office
+other_place: class
+other_place: Tepper 227
+other_place: Classroom
+other_place: wean
+other_place: scaife
+other_place: basement
+other_place: studios
+other_place: home
+District: 
+other_place: office
+other_place: Seoul Mary
+other_place: storage room
+other_place: house
+other_place: house
+other_place: house
+other_place: school
+other_place: house
+other_place: buggy
+other_place: 1043
+other_place: campus
+other_place: office
+other_place: uc storage
+other_place: office
+location: exit row
+other_place: pattaya
+other_place: pedestrian cross walk
+other_place: bitec
+other_place: 6500
+other_place: home
+other_place: home
+other_place: world
+other_place: Mid city
+other_place: Coop's place
+other_place: Jenifer Imo's cafe
+other_place: restaurant
+other_place: outside
+other_place: outside
+other_place: home
+other_place: Siam
+other_place: buggy
+other_place: sdc
+other_place: sdc
+other_place: home
+other_place: phils
+other_place: health services
+other_place: home
+other_place: home
+other_place: beeler
+other_place: Lorene's house
+other_place: on campus
+other_place: Byrd Cuba
+other_place: tako
+other_place: box office
+other_place: pamelas
+other_place: pamela's
+other_place: Hailee
+other_place: Chipotle
+other_place: little asia
+other_place: Hailee,
+other_place: gym
+other_place: gym
+other_place: UC
+other_place: praew
+other_place: asia
+other_place: home,
+other_place: tent
+other_place: tent
+other_place: bus stop
+other_place: bk
+other_place: eden bistro
+other_place: hello bistro
+other_place: salud
+other_place: hello
+other_place: eden
+other_place: beeler
+other_place: morewood
+other_place: morewood
+other_place: morewood
+other_place: class 430
+other_place: campus
+other_place: mudge
+other_place: hunt
+other_place: home
+other_place: mudge
+other_place: ONIB
+other_place: house
+other_place: storage room
+other_place: blackchairs
+other_place: Telly's studio
+other_place: kamikazi
+other_place: hunt
+other_place: CFA
+other_place: DTD
+other_place: A Phi O
+other_place: UC garage
+other_place: aphi booth
+other_place: tennis court
+other_place: home
+other_place: class
+other_place: asian market
+other_place: asian market
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: office
+other_place: law school
+other_place: law school
+other_place: hello bistro
+other_place: hello bistro
+other_place: Hello bistro
+other_place: hello
+other_place: hello bistro
+other_place: Fuku
+other_place: Hello
+other_place: Next to The Porch,
+other_place: home
+other_place: busstop
+other_place: mw,
+other_place: @ bus stop
+other_place: morewood bus stop
+other_place: at bus stop
+other_place: MW bus stop
+other_place: the art store
+other_place: Mellon Institute
+other_place: home
+other_place: home
+other_place: 5th Idella apartments
+other_place: your floor
+other_place: Patrons
+other_place: campus
+other_place: uc
+other_place: UC
+other_place: silk road
+other_place: uc
+other_place: studio
+other_place: Uc
+other_place: UC
+other_place: UC
+other_place: Morewood
+other_place: stairway
+other_place: cmu
+other_place: uc
+other_place: outside
+other_place: OH
+other_place: OH
+other_place: campus
+other_place: OH
+other_place: In the cart
+other_place: room
+other_place: class
+other_place: Seoul Mary
+other_place: storage room
+other_place: home
+other_place: Control Arch hills
+other_place: Utils
+other_place: lab
+other_place: lafarge
+other_place: base station
+other_place: HCI kitchen
+other_place: Basement
+other_place: B Level
+other_place: Chipotle
+other_place: beach
+other_place: sbpl
+other_place: office
+other_place: class
+other_place: work
+other_place: robolounge?,
+other_place: CMU soccer fields
+other_place: my house
+other_place: campus
+other_place: your place
+other_place: Chipotle
+other_place: subway
+other_place: campus
+other_place: college
+other_place: movies
+other_place: movies
+other_place: class
+other_place: class
+other_place: campus
+other_place: home
+other_place: men's restrooms
+other_place: men's room
+other_place: restroom
+other_place: urinal
+other_place: urinal
+other_place: urinals
+other_place: urinals
+other_place: urinals
+other_place: restroom
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: stall
+other_place: restroom
+other_place: stall
+other_place: Bathroom
+other_place: upstairs
+other_place: class
+other_place: basement
+other_place: PRL
+other_place: prl
+other_place: nsh
+other_place: prl
+other_place: grad school
+other_place: grad school
+other_place: Argo
+other_place: Subway
+other_place: campus
+other_place: your place
+other_place: NSH
+other_place: inoodles
+other_place: kitchen
+other_place: robotics department
+other_place: tepper
+other_place: on campus
+other_place: campus
+other_place: class
+other_place: basement
+other_place: campus
+other_place: house
+other_place: campus
+other_place: ptl
+other_place: ghc 3rd floor,
+other_place: 4th floro
+other_place: PRL
+other_place: Lennon lounge
+other_place: home
+other_place: basement
+other_place: home
+other_place: bed
+other_place: your place
+other_place: lab
+other_place: basement
+other_place: level B
+other_place: 4th floor,
+other_place: Commons
+other_place: campus
+other_place: Commons
+other_place: Commons
+other_place: Line
+other_place: highland
+other_place: home
+other_place: home
+other_place: the office
+other_place: lab
+other_place: Underground
+other_place: gates
+other_place: 4th floor,
+other_place: my room
+other_place: morewood
+other_place: cut
+other_place: Lab
+other_place: Byrd Cuba
+other_place: Lab
+other_place: lab
+other_place: gates atm
+other_place: 4th floor
+other_place: class
+other_place: class
+other_place: class
+other_place: Wean
+other_place: outside morewood
+other_place: cut
+other_place: Shore
+other_place: Lab
+other_place: the underground
+other_place: the underground
+other_place: home Depot
+other_place: room
+other_place: Gates Hillman Center
+other_place: Gates Hillman Center
+other_place: Supply Station
+other_place: Dayana
+other_place: Viviana
+other_place: uc
+other_place: Byrd Cuba
+other_place: hunt
+other_place: uc
+other_place: hunt
+other_place: studio theatre
+other_place: Backstage
+other_place: Entrance of uc
+other_place: apteka
+other_place: your place
+other_place: Union grill
+other_place: OE
+other_place: office
+other_place: inoodle
+other_place: office
+other_place: morewood
+other_place: top shelf
+other_place: la prima
+other_place: Midway
+other_place: studio theatre
+other_place: studio theatre
+other_place: My place
+other_place: your place
+other_place: Forbes and more wood
+other_place: nearby
+other_place: the computer lab
+other_place: testing room
+other_place: children's school room
+other_place: computer lab
+other_place: building
+other_place: psych computer lab
+other_place: Byrd Cuba A411
+other_place: town
+other_place: home
+other_place: chipotle
+other_place: chipotle
+other_place: uc
+other_place: airport
+other_place: Campus
+other_place: airport
+other_place: airport
+other_place: MPK
+other_place: Mpk
+other_place: Comedos tacos
+other_place: Ascend
+other_place: Mr smalls
+other_place: home
+other_place: the great Allegheny passage
+other_place: restaurant
+other_place: country
+other_place: Lilly's room
+other_place: repair shop
+other_place: bio department
+other_place: europe
+other_place: MARS
+other_place: mars
+other_place: Dayana
+other_place: middle east
+other_place: gym
+other_place: Market
+other_place: market
+other_place: basement of trees
+other_place: basement of trees
+other_place: pool
+other_place: Lothrop
+other_place: downstairs
+other_place: CVS
+other_place: bacl corner
+other_place: market
+other_place: Jammie
+other_place: market
+other_place: market
+other_place: Peterson
+other_place: peterson events center
+other_place: Lothrop
+other_place: Lothrop
+other_place: Lothrop
+other_place: market
+other_place: Market rn
+other_place: market
+other_place: market
+other_place: market
+other_place: Lawrence computer lab
+other_place: lower lounge
+other_place: class
+other_place: market
+other_place: room
+other_place: The Capital Grille
+other_place: market
+other_place: gym class
+other_place: earth
+other_place: market
+other_place: Market
+other_place: market
+other_place: campus
+other_place: Dayana
+other_place: Popeyes
+other_place: Science museum
+other_place: Waterfront
+other_place: back alley
+other_place: gym
+other_place: gym
+other_place: gym
+other_place: fulll weight gym
+other_place: highschool
+other_place: arby's
+other_place: arbys
+other_place: noodle uchi
+other_place: oishii
+other_place: hotel
+other_place: southside
+other_place: parlor
+other_place: market
+other_place: jail
+other_place: market
+other_place: market
+other_place: southside
+other_place: market
+other_place: Asia
+other_place: market
+other_place: laundry
+other_place: Moldova
+other_place: Dayana
+other_place: Post 1
+other_place: southside
+other_place: city
+other_place: council
+other_place: city
+other_place: west
+other_place: west
+other_place: capitol
+other_place: Capitol
+other_place: north into the forest
+other_place: city
+other_place: North
+other_place: city
+other_place: 200 ft further
+other_place: city,
+other_place: city
+other_place: city
+other_place: the west
+other_place: west
+other_place: capitol
+other_place: market
+other_place: dungeon
+other_place: dungeon
+other_place: MARS
+other_place: route 3
+other_place: high school
+other_place: room
+other_place: trees
+other_place: Ascend
+other_place: trees
+other_place: work
+other_place: living room
+other_place: Purdue
+other_place: class
+other_place: Africa
+other_place: CMU
+other_place: therapy
+other_place: my own space
+other_place: space
+other_place: there
+other_place: Vintage fair,
+other_place: 102
+other_place: 403
+other_place: abp
+other_place: class
+other_place: homw
+other_place: home
+other_place: home
+other_place: home
+other_place: up
+other_place: down
+other_place: Morewoo
+other_place: west wing cluster
+other_place: the uc
+other_place: Evgefstos
+other_place: Purnell
+other_place: food trucks
+other_place: Tartan truck
+other_place: Tartan truck
+other_place: class
+other_place: class
+other_place: class
+other_place: the uc
+other_place: UC
+other_place: in line
+other_place: evgefstos
+other_place: in line
+other_place: room
+other_place: poolside
+other_place: by the window
+other_place: in class
+other_place: Anderson Playground
+other_place: lounge
+other_place: UG
+other_place: school
+other_place: morewood
+other_place: IS
+other_place: salud juicery
+other_place: mudge
+other_place: Idella
+other_place: Idella
+other_place: hello bistro
+other_place: campus
+other_place: home
+other_place: Stephenie hall
+other_place: uc wean commons
+other_place: uc wean commons,
+other_place: room
+other_place: Morewood
+other_place: room
+other_place: house
+other_place: cuc 11
+other_place: praews house
+other_place: studio
+other_place: UC
+other_place: uc
+other_place: uc storage
+other_place: praews house
+other_place: UC
+other_place: UC
+other_place: uc
+other_place: city of angels
+other_place: design studio
+other_place: door
+other_place: campus
+other_place: design studio
+other_place: uc
+other_place: uc
+other_place: uc blackchairs
+other_place: home
+other_place: school
+other_place: school
+other_place: hallway
+other_place: campus
+other_place: chute
+other_place: xhute
+other_place: home
+other_place: place
+other_place: place
+other_place: home
+other_place: home
+other_place: uc
+other_place: cia garage,
+other_place: home
+other_place: OH
+other_place: chute
+other_place: home
+other_place: home
+other_place: home
+other_place: class
+other_place: hunt
+other_place: Donde
+other_place: cluster
+other_place: basement
+other_place: campus
+other_place: liquor store
+other_place: booth
+other_place: 2nd floor
+other_place: vhairmans
+other_place: 5th Idella apartments
+other_place: gesling
+other_place: uc
+other_place: campus
+other_place: home
+other_place: cqmpus
+other_place: uc
+other_place: home
+other_place: house
+other_place: hunt
+other_place: uc
+other_place: home
+other_place: People stick
+other_place: uc
+other_place: beep.bop
+other_place: uc
+other_place: mcconomy
+other_place: my apartment
+other_place: Campus
+other_place: school
+other_place: school
+other_place: school
+other_place: room
+other_place: basements
+other_place: in the back,
+other_place: home
+other_place: Lorrie park mall,
+other_place: boat
+other_place: sake bar
+other_place: lawrenceville
+other_place: door
+other_place: 309
+other_place: door
+other_place: basement
+other_place: downstairs
+other_place: geagle
+other_place: 2008
+other_place: venues
+other_place: Large church
+other_place: church
+other_place: home
+other_place: car
+other_place: UC
+other_place: uc and praews
+other_place: lab
+other_place: rolls
+other_place: district
+other_place: french quarter
+other_place: home
+other_place: campus
+other_place: storage room
+other_place: UC
+other_place: school
+other_place: class
+other_place: bookstore
+other_place: silk road
+other_place: UC
+other_place: UC- storage
+other_place: Cristine
+other_place: restaurant
+other_place: office
+other_place: uc
+other_place: UC
+other_place: room
+other_place: uc storage
+other_place: benedom
+other_place: The Trust's theaters
+other_place: bus stop
+other_place: Hailee
+other_place: MM bus stop
+other_place: my place
+other_place: My house
+other_place: campus
+other_place: stever
+other_place: Wean 5302
+other_place: Hill 4
+other_place: buggy showcase
+other_place: tri delt
+other_place: burgatory
+other_place: Osborn
+other_place: HOUSE
+other_place: drawing class
+other_place: Osborn
+other_place: office
+other_place: class
+other_place: Tepper 227
+other_place: Classroom
+other_place: wean
+other_place: scaife
+other_place: basement
+other_place: studios
+other_place: home
+District: 
+other_place: office
+other_place: Seoul Mary
+other_place: storage room
+other_place: house
+other_place: house
+other_place: house
+other_place: school
+other_place: house
+other_place: buggy
+other_place: 1043
+other_place: campus
+other_place: office
+other_place: uc storage
+other_place: office
+location: exit row
+other_place: pattaya
+other_place: pedestrian cross walk
+other_place: bitec
+other_place: 6500
+other_place: home
+other_place: home
+other_place: world
+other_place: Mid city
+other_place: Coop's place
+other_place: Jenifer Imo's cafe
+other_place: restaurant
+other_place: outside
+other_place: outside
+other_place: home
+other_place: Siam
+other_place: buggy
+other_place: sdc
+other_place: sdc
+other_place: home
+other_place: phils
+other_place: health services
+other_place: home
+other_place: home
+other_place: beeler
+other_place: Lorene's house
+other_place: on campus
+other_place: Byrd Cuba
+other_place: tako
+other_place: box office
+other_place: pamelas
+other_place: pamela's
+other_place: Hailee
+other_place: Chipotle
+other_place: little asia
+other_place: Hailee,
+other_place: gym
+other_place: gym
+other_place: UC
+other_place: praew
+other_place: asia
+other_place: home,
+other_place: tent
+other_place: tent
+other_place: bus stop
+other_place: bk
+other_place: eden bistro
+other_place: hello bistro
+other_place: salud
+other_place: hello
+other_place: eden
+other_place: beeler
+other_place: morewood
+other_place: morewood
+other_place: morewood
+other_place: class 430
+other_place: campus
+other_place: mudge
+other_place: hunt
+other_place: home
+other_place: mudge
+other_place: ONIB
+other_place: house
+other_place: storage room
+other_place: blackchairs
+other_place: Telly's studio
+other_place: kamikazi
+other_place: hunt
+other_place: CFA
+other_place: DTD
+other_place: A Phi O
+other_place: UC garage
+other_place: aphi booth
+other_place: tennis court
+other_place: home
+other_place: class
+other_place: asian market
+other_place: asian market
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: lotus
+other_place: office
+other_place: law school
+other_place: law school
+other_place: hello bistro
+other_place: hello bistro
+other_place: Hello bistro
+other_place: hello
+other_place: hello bistro
+other_place: Fuku
+other_place: Hello
+other_place: Next to The Porch,
+other_place: home
+other_place: busstop
+other_place: mw,
+other_place: @ bus stop
+other_place: morewood bus stop
+other_place: at bus stop
+other_place: MW bus stop
+other_place: the art store
+other_place: Mellon Institute
+other_place: home
+other_place: home
+other_place: 5th Idella apartments
+other_place: your floor
+other_place: Patrons
+other_place: campus
+other_place: uc
+other_place: UC
+other_place: silk road
+other_place: uc
+other_place: studio
+other_place: Uc
+other_place: UC
+other_place: UC
+other_place: Morewood
+other_place: stairway
+other_place: cmu
+other_place: uc
+other_place: outside
+other_place: OH
+other_place: OH
+other_place: campus
+other_place: OH
+other_place: In the cart
+other_place: room
+other_place: class
+other_place: Seoul Mary
+other_place: storage room
+other_place: home

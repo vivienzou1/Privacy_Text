@@ -1,0 +1,1227 @@
+animal: dog
+animal: bug
+animal: bug
+credit: credit card number
+songname: sunrise
+food item: cheese
+character name: akira
+activity: shopping
+language: deutsch
+ABBREVIATION: lmao
+other: sparklines
+Colors: black
+Color: black
+Colors: white
+quote: in order to change we must be sick and tired of being sick and tired
+quote: \"real change\"
+other: rape
+charactername: poison ivy
+charactername: poison ivy
+charactername: batman
+action: nap
+sport: baseball
+format: ca
+other: maximum moe
+other: wore them properly
+action: cancelled
+action: stack up
+Workplaceharrasment: it's particularly alarming when you catch her reflection in the med cabinet
+verse: hosea 13:9
+meal: lunch
+identifyinggroupclothing/uniform: green, home jerseys
+thing: dictionaries
+classification: girls
+action: stab
+action: stabbed
+thing: echoed sentiments
+medicalinformation: i have a herniated disc in my neck
+business: grom
+business: grom
+sport: brazilian jiu
+creaturename: cthulhu
+gamecharacter: hippogryph with hydraulics
+gamecharacter: hippogryph
+fooditems: snack
+fooditems: grapes
+qualities: intelligent
+insict: ant.
+occurrence: threat
+idontknowwhatthisis,butitseemslikeitshouldbeprivatized: zotry
+song: wanna fuck you
+name: jaat
+song: controlla
+medicalcondition: concussion
+Activity: adventure trip
+beverage: soda
+subject: ap
+subject: vo in legion
+process: decarbonization
+title: head of product management
+Description: camo cap or santa hat
+Description: camo cap
+physicalcondition: hiv
+physicalcondition: hiv
+crime: premeditated rape
+Disease: gonorrhea
+Substance: alcohol
+medicalinformation: 28 overdoses
+medicalinformation: 2 deaths
+degree: doctorate
+songname: dangerous woman
+sport: football
+televisionchannel: ny1
+fictionalcharacter: big feet, sasquatches, yetis, &amp; abominable snowmen
+action: bug you created
+abbreviatedname: hrc
+color: white
+color: black
+color: black
+action: praying
+medicalcondition: microcephaly
+medicalcondition: microcephaly
+articlename: the curious case of jill stein and liberal misogyny
+title: yoyoer
+songname: \"everybody dance now
+title: a cloud in a box
+language: japanese
+language: japanese
+initials: rdj
+thing: rain
+title: prop 13
+title: breaking bad
+title: breaking bad
+collegedegree: organic chem
+language: spanish
+language: english
+transportation: trains
+politicalname: republican
+sport: football
+politics: alt-rw
+trafficinformation: ground stop
+trafficinformation: ground stop
+Continent: africa
+sport: football
+ranking: 31st
+Degree: mba
+character: pepe
+crime: slashed this man
+crime: sexual assault
+diety: allah
+title: mother
+emotion: outraged
+songname: like jesus
+bookcharacters: power man &amp; iron fist
+ABBREVIATION: lmao
+Definition: idek
+title: ngr pres
+animal: shark
+animal: shark
+animal: shark
+God: god's
+monument: russian statue of liberty
+sports: uw
+governmentidentification: photo id
+object: alamo cube
+object: cube
+activity: dancing
+emotionalstate: happy
+possiblysensitive: cancer
+Object: koran
+descriptive: super hero/ magical
+action: throw green chile in there
+language: spanish
+language: latin
+ReadingArticleName: things have escalated once again
+screenname: ig/shannnaya
+BibleVerse: etc: hebrews9:13
+BibleVerse: hebrews9:13-17
+name: booty show
+internationaldeal: paris agreement
+thing: blackbird
+action: singin
+medicalcondition: drunk
+sport: football
+action: constitutional protection
+phrase: night cereal
+thing: data
+action: identify which concept(s)
+thing: [xml] elements with no subelements will test as false
+zodiacsign: pisces
+courtcase: terry v. ohio
+charactername: aggron
+charactername: aggron
+animal: rat
+directquote: \"why does continue to publish his crap?\"
+crime: tax fraud
+ReligiousText: quran
+religioustext: quran
+topic: desert, &amp; on omer fast
+namedlegislature: 11th amendment
+namedlegislation: amendment number 12
+legislation: amendment number 15
+legislation: amendment number 16
+language: chinese
+performancename: hairspray live
+deityname: god
+othername: staryu
+deityname: god
+animal: dog
+animal: bug
+animal: bug
+credit: credit card number
+songname: sunrise
+food item: cheese
+character name: akira
+activity: shopping
+language: deutsch
+ABBREVIATION: lmao
+other: sparklines
+Colors: black
+Color: black
+Colors: white
+quote: in order to change we must be sick and tired of being sick and tired
+quote: \"real change\"
+other: rape
+charactername: poison ivy
+charactername: poison ivy
+charactername: batman
+action: nap
+sport: baseball
+format: ca
+other: maximum moe
+other: wore them properly
+action: cancelled
+action: stack up
+Workplaceharrasment: it's particularly alarming when you catch her reflection in the med cabinet
+verse: hosea 13:9
+meal: lunch
+identifyinggroupclothing/uniform: green, home jerseys
+thing: dictionaries
+classification: girls
+action: stab
+action: stabbed
+thing: echoed sentiments
+medicalinformation: i have a herniated disc in my neck
+business: grom
+business: grom
+sport: brazilian jiu
+creaturename: cthulhu
+gamecharacter: hippogryph with hydraulics
+gamecharacter: hippogryph
+fooditems: snack
+fooditems: grapes
+qualities: intelligent
+insict: ant.
+occurrence: threat
+idontknowwhatthisis,butitseemslikeitshouldbeprivatized: zotry
+song: wanna fuck you
+name: jaat
+song: controlla
+medicalcondition: concussion
+Activity: adventure trip
+beverage: soda
+subject: ap
+subject: vo in legion
+process: decarbonization
+title: head of product management
+Description: camo cap or santa hat
+Description: camo cap
+physicalcondition: hiv
+physicalcondition: hiv
+crime: premeditated rape
+Disease: gonorrhea
+Substance: alcohol
+medicalinformation: 28 overdoses
+medicalinformation: 2 deaths
+degree: doctorate
+songname: dangerous woman
+sport: football
+televisionchannel: ny1
+fictionalcharacter: big feet, sasquatches, yetis, &amp; abominable snowmen
+action: bug you created
+abbreviatedname: hrc
+color: white
+color: black
+color: black
+action: praying
+medicalcondition: microcephaly
+medicalcondition: microcephaly
+articlename: the curious case of jill stein and liberal misogyny
+title: yoyoer
+songname: \"everybody dance now
+title: a cloud in a box
+language: japanese
+language: japanese
+initials: rdj
+thing: rain
+title: prop 13
+title: breaking bad
+title: breaking bad
+collegedegree: organic chem
+language: spanish
+language: english
+transportation: trains
+politicalname: republican
+sport: football
+politics: alt-rw
+trafficinformation: ground stop
+trafficinformation: ground stop
+Continent: africa
+sport: football
+ranking: 31st
+Degree: mba
+character: pepe
+crime: slashed this man
+crime: sexual assault
+diety: allah
+title: mother
+emotion: outraged
+songname: like jesus
+bookcharacters: power man &amp; iron fist
+ABBREVIATION: lmao
+Definition: idek
+title: ngr pres
+animal: shark
+animal: shark
+animal: shark
+God: god's
+monument: russian statue of liberty
+sports: uw
+governmentidentification: photo id
+object: alamo cube
+object: cube
+activity: dancing
+emotionalstate: happy
+possiblysensitive: cancer
+Object: koran
+descriptive: super hero/ magical
+action: throw green chile in there
+language: spanish
+language: latin
+ReadingArticleName: things have escalated once again
+screenname: ig/shannnaya
+BibleVerse: etc: hebrews9:13
+BibleVerse: hebrews9:13-17
+name: booty show
+internationaldeal: paris agreement
+thing: blackbird
+action: singin
+medicalcondition: drunk
+sport: football
+action: constitutional protection
+phrase: night cereal
+thing: data
+action: identify which concept(s)
+thing: [xml] elements with no subelements will test as false
+zodiacsign: pisces
+courtcase: terry v. ohio
+charactername: aggron
+charactername: aggron
+animal: rat
+directquote: \"why does continue to publish his crap?\"
+crime: tax fraud
+ReligiousText: quran
+religioustext: quran
+topic: desert, &amp; on omer fast
+namedlegislature: 11th amendment
+namedlegislation: amendment number 12
+legislation: amendment number 15
+legislation: amendment number 16
+language: chinese
+performancename: hairspray live
+deityname: god
+othername: staryu
+deityname: god
+animal: dog
+animal: bug
+animal: bug
+credit: credit card number
+songname: sunrise
+food item: cheese
+character name: akira
+activity: shopping
+language: deutsch
+ABBREVIATION: lmao
+other: sparklines
+Colors: black
+Color: black
+Colors: white
+quote: in order to change we must be sick and tired of being sick and tired
+quote: \"real change\"
+other: rape
+charactername: poison ivy
+charactername: poison ivy
+charactername: batman
+action: nap
+sport: baseball
+format: ca
+other: maximum moe
+other: wore them properly
+action: cancelled
+action: stack up
+Workplaceharrasment: it's particularly alarming when you catch her reflection in the med cabinet
+verse: hosea 13:9
+meal: lunch
+identifyinggroupclothing/uniform: green, home jerseys
+thing: dictionaries
+classification: girls
+action: stab
+action: stabbed
+thing: echoed sentiments
+medicalinformation: i have a herniated disc in my neck
+business: grom
+business: grom
+sport: brazilian jiu
+creaturename: cthulhu
+gamecharacter: hippogryph with hydraulics
+gamecharacter: hippogryph
+fooditems: snack
+fooditems: grapes
+qualities: intelligent
+insict: ant.
+occurrence: threat
+idontknowwhatthisis,butitseemslikeitshouldbeprivatized: zotry
+song: wanna fuck you
+name: jaat
+song: controlla
+medicalcondition: concussion
+Activity: adventure trip
+beverage: soda
+subject: ap
+subject: vo in legion
+process: decarbonization
+title: head of product management
+Description: camo cap or santa hat
+Description: camo cap
+physicalcondition: hiv
+physicalcondition: hiv
+crime: premeditated rape
+Disease: gonorrhea
+Substance: alcohol
+medicalinformation: 28 overdoses
+medicalinformation: 2 deaths
+degree: doctorate
+songname: dangerous woman
+sport: football
+televisionchannel: ny1
+fictionalcharacter: big feet, sasquatches, yetis, &amp; abominable snowmen
+action: bug you created
+abbreviatedname: hrc
+color: white
+color: black
+color: black
+action: praying
+medicalcondition: microcephaly
+medicalcondition: microcephaly
+articlename: the curious case of jill stein and liberal misogyny
+title: yoyoer
+songname: \"everybody dance now
+title: a cloud in a box
+language: japanese
+language: japanese
+initials: rdj
+thing: rain
+title: prop 13
+title: breaking bad
+title: breaking bad
+collegedegree: organic chem
+language: spanish
+language: english
+transportation: trains
+politicalname: republican
+sport: football
+politics: alt-rw
+trafficinformation: ground stop
+trafficinformation: ground stop
+Continent: africa
+sport: football
+ranking: 31st
+Degree: mba
+character: pepe
+crime: slashed this man
+crime: sexual assault
+diety: allah
+title: mother
+emotion: outraged
+songname: like jesus
+bookcharacters: power man &amp; iron fist
+ABBREVIATION: lmao
+Definition: idek
+title: ngr pres
+animal: shark
+animal: shark
+animal: shark
+God: god's
+monument: russian statue of liberty
+sports: uw
+governmentidentification: photo id
+object: alamo cube
+object: cube
+activity: dancing
+emotionalstate: happy
+possiblysensitive: cancer
+Object: koran
+descriptive: super hero/ magical
+action: throw green chile in there
+language: spanish
+language: latin
+ReadingArticleName: things have escalated once again
+screenname: ig/shannnaya
+BibleVerse: etc: hebrews9:13
+BibleVerse: hebrews9:13-17
+name: booty show
+internationaldeal: paris agreement
+thing: blackbird
+action: singin
+medicalcondition: drunk
+sport: football
+action: constitutional protection
+phrase: night cereal
+thing: data
+action: identify which concept(s)
+thing: [xml] elements with no subelements will test as false
+zodiacsign: pisces
+courtcase: terry v. ohio
+charactername: aggron
+charactername: aggron
+animal: rat
+directquote: \"why does continue to publish his crap?\"
+crime: tax fraud
+ReligiousText: quran
+religioustext: quran
+topic: desert, &amp; on omer fast
+namedlegislature: 11th amendment
+namedlegislation: amendment number 12
+legislation: amendment number 15
+legislation: amendment number 16
+language: chinese
+performancename: hairspray live
+deityname: god
+othername: staryu
+deityname: god
+animal: dog
+animal: bug
+animal: bug
+credit: credit card number
+songname: sunrise
+food item: cheese
+character name: akira
+activity: shopping
+language: deutsch
+ABBREVIATION: lmao
+other: sparklines
+Colors: black
+Color: black
+Colors: white
+quote: in order to change we must be sick and tired of being sick and tired
+quote: \"real change\"
+other: rape
+charactername: poison ivy
+charactername: poison ivy
+charactername: batman
+action: nap
+sport: baseball
+format: ca
+other: maximum moe
+other: wore them properly
+action: cancelled
+action: stack up
+Workplaceharrasment: it's particularly alarming when you catch her reflection in the med cabinet
+verse: hosea 13:9
+meal: lunch
+identifyinggroupclothing/uniform: green, home jerseys
+thing: dictionaries
+classification: girls
+action: stab
+action: stabbed
+thing: echoed sentiments
+medicalinformation: i have a herniated disc in my neck
+business: grom
+business: grom
+sport: brazilian jiu
+creaturename: cthulhu
+gamecharacter: hippogryph with hydraulics
+gamecharacter: hippogryph
+fooditems: snack
+fooditems: grapes
+qualities: intelligent
+insict: ant.
+occurrence: threat
+idontknowwhatthisis,butitseemslikeitshouldbeprivatized: zotry
+song: wanna fuck you
+name: jaat
+song: controlla
+medicalcondition: concussion
+Activity: adventure trip
+beverage: soda
+subject: ap
+subject: vo in legion
+process: decarbonization
+title: head of product management
+Description: camo cap or santa hat
+Description: camo cap
+physicalcondition: hiv
+physicalcondition: hiv
+crime: premeditated rape
+Disease: gonorrhea
+Substance: alcohol
+medicalinformation: 28 overdoses
+medicalinformation: 2 deaths
+degree: doctorate
+songname: dangerous woman
+sport: football
+televisionchannel: ny1
+fictionalcharacter: big feet, sasquatches, yetis, &amp; abominable snowmen
+action: bug you created
+abbreviatedname: hrc
+color: white
+color: black
+color: black
+action: praying
+medicalcondition: microcephaly
+medicalcondition: microcephaly
+articlename: the curious case of jill stein and liberal misogyny
+title: yoyoer
+songname: \"everybody dance now
+title: a cloud in a box
+language: japanese
+language: japanese
+initials: rdj
+thing: rain
+title: prop 13
+title: breaking bad
+title: breaking bad
+collegedegree: organic chem
+language: spanish
+language: english
+transportation: trains
+politicalname: republican
+sport: football
+politics: alt-rw
+trafficinformation: ground stop
+trafficinformation: ground stop
+Continent: africa
+sport: football
+ranking: 31st
+Degree: mba
+character: pepe
+crime: slashed this man
+crime: sexual assault
+diety: allah
+title: mother
+emotion: outraged
+songname: like jesus
+bookcharacters: power man &amp; iron fist
+ABBREVIATION: lmao
+Definition: idek
+title: ngr pres
+animal: shark
+animal: shark
+animal: shark
+God: god's
+monument: russian statue of liberty
+sports: uw
+governmentidentification: photo id
+object: alamo cube
+object: cube
+activity: dancing
+emotionalstate: happy
+possiblysensitive: cancer
+Object: koran
+descriptive: super hero/ magical
+action: throw green chile in there
+language: spanish
+language: latin
+ReadingArticleName: things have escalated once again
+screenname: ig/shannnaya
+BibleVerse: etc: hebrews9:13
+BibleVerse: hebrews9:13-17
+name: booty show
+internationaldeal: paris agreement
+thing: blackbird
+action: singin
+medicalcondition: drunk
+sport: football
+action: constitutional protection
+phrase: night cereal
+thing: data
+action: identify which concept(s)
+thing: [xml] elements with no subelements will test as false
+zodiacsign: pisces
+courtcase: terry v. ohio
+charactername: aggron
+charactername: aggron
+animal: rat
+directquote: \"why does continue to publish his crap?\"
+crime: tax fraud
+ReligiousText: quran
+religioustext: quran
+topic: desert, &amp; on omer fast
+namedlegislature: 11th amendment
+namedlegislation: amendment number 12
+legislation: amendment number 15
+legislation: amendment number 16
+language: chinese
+performancename: hairspray live
+deityname: god
+othername: staryu
+deityname: god
+animal: dog
+animal: bug
+animal: bug
+credit: credit card number
+songname: sunrise
+food item: cheese
+character name: akira
+activity: shopping
+language: deutsch
+ABBREVIATION: lmao
+other: sparklines
+Colors: black
+Color: black
+Colors: white
+quote: in order to change we must be sick and tired of being sick and tired
+quote: \"real change\"
+other: rape
+charactername: poison ivy
+charactername: poison ivy
+charactername: batman
+action: nap
+sport: baseball
+format: ca
+other: maximum moe
+other: wore them properly
+action: cancelled
+action: stack up
+Workplaceharrasment: it's particularly alarming when you catch her reflection in the med cabinet
+verse: hosea 13:9
+meal: lunch
+identifyinggroupclothing/uniform: green, home jerseys
+thing: dictionaries
+classification: girls
+action: stab
+action: stabbed
+thing: echoed sentiments
+medicalinformation: i have a herniated disc in my neck
+business: grom
+business: grom
+sport: brazilian jiu
+creaturename: cthulhu
+gamecharacter: hippogryph with hydraulics
+gamecharacter: hippogryph
+fooditems: snack
+fooditems: grapes
+qualities: intelligent
+insict: ant.
+occurrence: threat
+idontknowwhatthisis,butitseemslikeitshouldbeprivatized: zotry
+song: wanna fuck you
+name: jaat
+song: controlla
+medicalcondition: concussion
+Activity: adventure trip
+beverage: soda
+subject: ap
+subject: vo in legion
+process: decarbonization
+animal: dog
+animal: bug
+animal: bug
+credit: credit card number
+songname: sunrise
+food item: cheese
+character name: akira
+activity: shopping
+language: deutsch
+ABBREVIATION: lmao
+other: sparklines
+Colors: black
+Color: black
+Colors: white
+quote: in order to change we must be sick and tired of being sick and tired
+quote: \"real change\"
+other: rape
+charactername: poison ivy
+charactername: poison ivy
+charactername: batman
+action: nap
+sport: baseball
+format: ca
+other: maximum moe
+other: wore them properly
+action: cancelled
+action: stack up
+Workplaceharrasment: it's particularly alarming when you catch her reflection in the med cabinet
+verse: hosea 13:9
+meal: lunch
+identifyinggroupclothing/uniform: green, home jerseys
+thing: dictionaries
+classification: girls
+action: stab
+action: stabbed
+thing: echoed sentiments
+medicalinformation: i have a herniated disc in my neck
+business: grom
+business: grom
+sport: brazilian jiu
+creaturename: cthulhu
+gamecharacter: hippogryph with hydraulics
+gamecharacter: hippogryph
+fooditems: snack
+fooditems: grapes
+qualities: intelligent
+insict: ant.
+occurrence: threat
+idontknowwhatthisis,butitseemslikeitshouldbeprivatized: zotry
+song: wanna fuck you
+name: jaat
+song: controlla
+medicalcondition: concussion
+Activity: adventure trip
+beverage: soda
+subject: ap
+subject: vo in legion
+process: decarbonization
+title: head of product management
+Description: camo cap or santa hat
+Description: camo cap
+physicalcondition: hiv
+physicalcondition: hiv
+crime: premeditated rape
+Disease: gonorrhea
+Substance: alcohol
+medicalinformation: 28 overdoses
+medicalinformation: 2 deaths
+degree: doctorate
+songname: dangerous woman
+sport: football
+televisionchannel: ny1
+fictionalcharacter: big feet, sasquatches, yetis, &amp; abominable snowmen
+action: bug you created
+abbreviatedname: hrc
+color: white
+color: black
+color: black
+action: praying
+medicalcondition: microcephaly
+medicalcondition: microcephaly
+articlename: the curious case of jill stein and liberal misogyny
+title: yoyoer
+songname: \"everybody dance now
+title: a cloud in a box
+language: japanese
+language: japanese
+initials: rdj
+thing: rain
+title: prop 13
+title: breaking bad
+title: breaking bad
+collegedegree: organic chem
+language: spanish
+language: english
+transportation: trains
+politicalname: republican
+sport: football
+politics: alt-rw
+trafficinformation: ground stop
+trafficinformation: ground stop
+Continent: africa
+sport: football
+ranking: 31st
+Degree: mba
+character: pepe
+crime: slashed this man
+crime: sexual assault
+diety: allah
+title: mother
+emotion: outraged
+songname: like jesus
+bookcharacters: power man &amp; iron fist
+ABBREVIATION: lmao
+Definition: idek
+title: ngr pres
+animal: shark
+animal: shark
+animal: shark
+God: god's
+monument: russian statue of liberty
+sports: uw
+governmentidentification: photo id
+object: alamo cube
+object: cube
+activity: dancing
+emotionalstate: happy
+possiblysensitive: cancer
+Object: koran
+descriptive: super hero/ magical
+action: throw green chile in there
+language: spanish
+language: latin
+ReadingArticleName: things have escalated once again
+screenname: ig/shannnaya
+BibleVerse: etc: hebrews9:13
+BibleVerse: hebrews9:13-17
+name: booty show
+internationaldeal: paris agreement
+thing: blackbird
+action: singin
+medicalcondition: drunk
+sport: football
+action: constitutional protection
+phrase: night cereal
+thing: data
+action: identify which concept(s)
+thing: [xml] elements with no subelements will test as false
+zodiacsign: pisces
+courtcase: terry v. ohio
+charactername: aggron
+charactername: aggron
+animal: rat
+directquote: \"why does continue to publish his crap?\"
+crime: tax fraud
+ReligiousText: quran
+religioustext: quran
+topic: desert, &amp; on omer fast
+namedlegislature: 11th amendment
+namedlegislation: amendment number 12
+legislation: amendment number 15
+legislation: amendment number 16
+language: chinese
+performancename: hairspray live
+deityname: god
+othername: staryu
+deityname: god
+animal: dog
+animal: bug
+animal: bug
+credit: credit card number
+songname: sunrise
+food item: cheese
+character name: akira
+activity: shopping
+language: deutsch
+ABBREVIATION: lmao
+other: sparklines
+Colors: black
+Color: black
+Colors: white
+quote: in order to change we must be sick and tired of being sick and tired
+quote: \"real change\"
+other: rape
+charactername: poison ivy
+charactername: poison ivy
+charactername: batman
+action: nap
+sport: baseball
+format: ca
+other: maximum moe
+other: wore them properly
+action: cancelled
+action: stack up
+Workplaceharrasment: it's particularly alarming when you catch her reflection in the med cabinet
+verse: hosea 13:9
+meal: lunch
+identifyinggroupclothing/uniform: green, home jerseys
+thing: dictionaries
+classification: girls
+action: stab
+action: stabbed
+thing: echoed sentiments
+medicalinformation: i have a herniated disc in my neck
+business: grom
+business: grom
+sport: brazilian jiu
+creaturename: cthulhu
+gamecharacter: hippogryph with hydraulics
+gamecharacter: hippogryph
+fooditems: snack
+fooditems: grapes
+qualities: intelligent
+insict: ant.
+occurrence: threat
+idontknowwhatthisis,butitseemslikeitshouldbeprivatized: zotry
+song: wanna fuck you
+name: jaat
+song: controlla
+medicalcondition: concussion
+Activity: adventure trip
+beverage: soda
+subject: ap
+subject: vo in legion
+process: decarbonization
+title: head of product management
+Description: camo cap or santa hat
+Description: camo cap
+physicalcondition: hiv
+physicalcondition: hiv
+crime: premeditated rape
+Disease: gonorrhea
+Substance: alcohol
+medicalinformation: 28 overdoses
+medicalinformation: 2 deaths
+degree: doctorate
+songname: dangerous woman
+sport: football
+televisionchannel: ny1
+fictionalcharacter: big feet, sasquatches, yetis, &amp; abominable snowmen
+action: bug you created
+abbreviatedname: hrc
+color: white
+color: black
+color: black
+action: praying
+medicalcondition: microcephaly
+medicalcondition: microcephaly
+articlename: the curious case of jill stein and liberal misogyny
+title: yoyoer
+songname: \"everybody dance now
+title: a cloud in a box
+language: japanese
+language: japanese
+initials: rdj
+thing: rain
+title: prop 13
+title: breaking bad
+title: breaking bad
+collegedegree: organic chem
+language: spanish
+language: english
+transportation: trains
+politicalname: republican
+sport: football
+politics: alt-rw
+trafficinformation: ground stop
+trafficinformation: ground stop
+Continent: africa
+sport: football
+ranking: 31st
+Degree: mba
+character: pepe
+crime: slashed this man
+crime: sexual assault
+diety: allah
+title: mother
+emotion: outraged
+songname: like jesus
+bookcharacters: power man &amp; iron fist
+ABBREVIATION: lmao
+Definition: idek
+title: ngr pres
+animal: shark
+animal: shark
+animal: shark
+God: god's
+monument: russian statue of liberty
+sports: uw
+governmentidentification: photo id
+object: alamo cube
+object: cube
+activity: dancing
+emotionalstate: happy
+possiblysensitive: cancer
+Object: koran
+descriptive: super hero/ magical
+action: throw green chile in there
+language: spanish
+language: latin
+ReadingArticleName: things have escalated once again
+screenname: ig/shannnaya
+BibleVerse: etc: hebrews9:13
+BibleVerse: hebrews9:13-17
+name: booty show
+internationaldeal: paris agreement
+thing: blackbird
+action: singin
+medicalcondition: drunk
+sport: football
+action: constitutional protection
+phrase: night cereal
+thing: data
+action: identify which concept(s)
+thing: [xml] elements with no subelements will test as false
+zodiacsign: pisces
+courtcase: terry v. ohio
+charactername: aggron
+charactername: aggron
+animal: rat
+directquote: \"why does continue to publish his crap?\"
+crime: tax fraud
+ReligiousText: quran
+religioustext: quran
+topic: desert, &amp; on omer fast
+namedlegislature: 11th amendment
+namedlegislation: amendment number 12
+legislation: amendment number 15
+legislation: amendment number 16
+language: chinese
+performancename: hairspray live
+deityname: god
+othername: staryu
+deityname: god
+animal: dog
+animal: bug
+animal: bug
+credit: credit card number
+songname: sunrise
+food item: cheese
+character name: akira
+activity: shopping
+language: deutsch
+ABBREVIATION: lmao
+other: sparklines
+Colors: black
+Color: black
+Colors: white
+quote: in order to change we must be sick and tired of being sick and tired
+quote: \"real change\"
+other: rape
+charactername: poison ivy
+charactername: poison ivy
+charactername: batman
+action: nap
+sport: baseball
+format: ca
+other: maximum moe
+other: wore them properly
+action: cancelled
+action: stack up
+Workplaceharrasment: it's particularly alarming when you catch her reflection in the med cabinet
+verse: hosea 13:9
+meal: lunch
+identifyinggroupclothing/uniform: green, home jerseys
+thing: dictionaries
+classification: girls
+action: stab
+action: stabbed
+thing: echoed sentiments
+medicalinformation: i have a herniated disc in my neck
+business: grom
+business: grom
+sport: brazilian jiu
+creaturename: cthulhu
+gamecharacter: hippogryph with hydraulics
+gamecharacter: hippogryph
+fooditems: snack
+fooditems: grapes
+qualities: intelligent
+insict: ant.
+occurrence: threat
+idontknowwhatthisis,butitseemslikeitshouldbeprivatized: zotry
+song: wanna fuck you
+name: jaat
+song: controlla
+medicalcondition: concussion
+Activity: adventure trip
+beverage: soda
+subject: ap
+subject: vo in legion
+process: decarbonization
+title: head of product management
+Description: camo cap or santa hat
+Description: camo cap
+physicalcondition: hiv
+physicalcondition: hiv
+crime: premeditated rape
+Disease: gonorrhea
+Substance: alcohol
+medicalinformation: 28 overdoses
+medicalinformation: 2 deaths
+degree: doctorate
+songname: dangerous woman
+sport: football
+televisionchannel: ny1
+fictionalcharacter: big feet, sasquatches, yetis, &amp; abominable snowmen
+action: bug you created
+abbreviatedname: hrc
+color: white
+color: black
+color: black
+action: praying
+medicalcondition: microcephaly
+medicalcondition: microcephaly
+articlename: the curious case of jill stein and liberal misogyny
+title: yoyoer
+songname: \"everybody dance now
+title: a cloud in a box
+language: japanese
+language: japanese
+initials: rdj
+thing: rain
+title: prop 13
+title: breaking bad
+title: breaking bad
+collegedegree: organic chem
+language: spanish
+language: english
+transportation: trains
+politicalname: republican
+sport: football
+politics: alt-rw
+trafficinformation: ground stop
+trafficinformation: ground stop
+Continent: africa
+sport: football
+ranking: 31st
+Degree: mba
+character: pepe
+crime: slashed this man
+crime: sexual assault
+diety: allah
+title: mother
+emotion: outraged
+songname: like jesus
+bookcharacters: power man &amp; iron fist
+ABBREVIATION: lmao
+Definition: idek
+title: ngr pres
+animal: shark
+animal: shark
+animal: shark
+God: god's
+monument: russian statue of liberty
+sports: uw
+governmentidentification: photo id
+object: alamo cube
+object: cube
+activity: dancing
+emotionalstate: happy
+possiblysensitive: cancer
+Object: koran
+descriptive: super hero/ magical
+action: throw green chile in there
+language: spanish
+language: latin
+ReadingArticleName: things have escalated once again
+screenname: ig/shannnaya
+BibleVerse: etc: hebrews9:13
+BibleVerse: hebrews9:13-17
+name: booty show
+internationaldeal: paris agreement
+thing: blackbird
+action: singin
+medicalcondition: drunk
+sport: football
+action: constitutional protection
+phrase: night cereal
+thing: data
+action: identify which concept(s)
+thing: [xml] elements with no subelements will test as false
+zodiacsign: pisces
+courtcase: terry v. ohio
+charactername: aggron
+charactername: aggron
+animal: rat
+directquote: \"why does continue to publish his crap?\"
+crime: tax fraud
+ReligiousText: quran
+religioustext: quran
+topic: desert, &amp; on omer fast
+namedlegislature: 11th amendment
+namedlegislation: amendment number 12
+legislation: amendment number 15
+legislation: amendment number 16
+language: chinese
+performancename: hairspray live
+deityname: god
+othername: staryu
+deityname: god

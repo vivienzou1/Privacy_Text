@@ -1,0 +1,2268 @@
+event: class
+event: Yankees game
+event: pj party
+event: pj party
+event: Soccer
+event: exam
+event: Finals
+event: meeting
+event: sensing and sensors
+event: class
+event: negaotiation class
+event: slam
+event: ceremony
+event: this event
+event: speech
+event: public speeches
+event: class
+event: robot autonomy lecture
+event: demo
+event: this class
+event: Class
+event: class
+event: your class
+event: class
+event: lunch
+event: 51
+event: 51 52 53
+event: 61 62 63
+event: class
+event: class
+event: party
+event: class
+event: dietician appointment
+event: tartan party
+event: housewarming party
+event: kdsap meeting
+event: grappling
+event: Dinner plans?,
+event: dinner
+event: Carnival
+event: grappling seminar,
+event: carnival,
+event: grappling
+event: concert
+event: the booths
+event: the party
+event: carnival
+event: todays class
+event: the vacuum
+event: cognitive science meet and greet thing
+event: Cog Sci thing
+event: my class
+event: drinking game
+event: Drinking game
+event: class
+event: the party
+event: Heathers
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: paintball
+event: bacon's \"bday party\"
+event: a show
+event: funeral
+event: fyre festival
+event: event
+event: Business school event
+event: Easter
+event: Easter
+event: finals week
+event: WWII
+event: meeting
+event: Easter
+event: muslim womens day
+event: campaign
+event: another session
+event: campaign
+event: class
+event: class
+event: protests
+event: revolution
+event: rock climbing
+event: club
+event: WoW
+event: physics
+event: vintage fair
+event: classes
+event: coding classes
+event: 1 coding course
+event: Test
+event: 2 hw
+event: Poster
+event: exam
+event: class
+event: SOCIAL STUDIES
+event: appointment
+event: watch TV
+event: watch tv,
+event: club
+event: clubs
+event: club
+event: KGB
+event: DnD
+event: kgb
+event: radio show
+event: emergency
+event: Lab
+event: photo shoot
+event: Review
+event: lab
+event: exam review
+event: eboard
+event: event
+event: side quests
+event: dress rehearsal
+event: meeting
+event: meeting
+event: call
+event: 5k
+event: event like this
+event: Birthday
+event: the game
+event: Playoffs
+event: elections
+event: catering
+event: movie
+event: musical
+event: practice
+event: movie
+event: game
+event: Rebekah
+event: Rebekah
+event: Rebekah
+event: songkran
+event: Rebekah
+event: Songkran
+event: songkran
+event: songkran
+event: family dinner
+event: balloon tossing
+event: re-elction
+event: Carnival
+event: carnival party
+event: Carnival
+event: Spring Carnival
+event: Spring Carnival
+event: carnival
+event: day drink party!,
+event: Happy birthday
+event: Happy birthday
+event: happy birthday
+event: pant selling event
+event: push practice
+event: classes
+event: survey
+event: work
+event: musical
+event: work
+event: survey
+event: study
+event: exhibition
+event: lunch
+event: class
+event: lunch
+event: phone chat
+event: work
+event: team projext
+event: class
+event: lunch
+event: trip
+event: trip
+event: trip
+event: lunch
+event: dinner
+event: frisbee tournament
+event: conversation
+event: conversation
+event: interview
+event: interview
+event: project
+event: group meetings
+event: logan
+event: movie
+event: movie
+event: napped
+event: napped
+event: flights
+event: philo class
+event: exams
+event: exams
+event: exam
+event: presidential election,
+event: carnival
+event: ob thing
+event: lunch
+event: lunch
+event: lunch
+event: tests and finals
+event: brunch
+event: breakfast
+event: classes
+event: upper division classes
+event: sessions
+event: Practice
+event: breakfast
+event: playoff
+event: game
+event: games
+event: wedding
+event: honeymoon
+event: catholic wedding
+event: game
+event: meeting
+event: OH
+event: OH
+event: business computing
+event: business computing
+event: own president meeting
+event: CULTURAL event
+event: CULTURAL event
+event: king and I
+event: pso performance
+event: play
+event: presentation
+event: buggy meeting
+event: Raceday preview
+event: raceday
+event: bday dinner
+event: bonfire
+event: rehearsal
+event: cooking
+event: cooking
+event: cooking
+event: practice
+event: rain
+event: exams
+event: Practice
+event: Q&A
+event: team meeting
+event: team meeting
+event: practice
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: tri delta formal
+event: praising session
+event: songkran
+event: songkran
+event: cooking
+event: school trip
+event: meeting
+event: class
+event: Rice interview
+event: practice
+event: party
+event: exams
+event: Songkran
+event: transition practice
+event: ROLLS
+event: pasta dinner
+event: king and i play
+event: songkran
+event: party
+event: buggy thing
+event: silk road meeting
+event: meeting
+event: silk road
+event: Silk Road
+event: spring break
+event: birthday
+event: spring break
+event: class
+event: class
+event: group meeting
+event: recitation
+event: rolls
+event: rolls
+event: race
+event: Raceday
+event: carnival buggy
+event: carnival buggy
+event: buggy
+event: Buggy
+event: buggy
+event: Raceday
+event: booth
+event: buggy
+event: lunch
+event: class
+event: class
+event: class
+event: carnival
+event: race
+event: buggy
+event: praising session
+event: buggy
+event: dinner
+event: office hours
+event: flight
+event: carnival party
+event: carnival
+event: class
+event: class
+event: class
+event: wedding
+event: cocktail party
+event: 3 hour studio
+event: SA meeting
+event: SA meeting
+event: class
+event: midterms
+event: psyc
+event: raceday
+event: race
+event: eat dinner
+event: people stick
+event: people stick
+event: class
+event: Yankees game
+event: pj party
+event: pj party
+event: Soccer
+event: exam
+event: Finals
+event: meeting
+event: sensing and sensors
+event: class
+event: negaotiation class
+event: slam
+event: ceremony
+event: this event
+event: speech
+event: public speeches
+event: class
+event: robot autonomy lecture
+event: demo
+event: this class
+event: Class
+event: class
+event: your class
+event: class
+event: lunch
+event: 51
+event: 51 52 53
+event: 61 62 63
+event: class
+event: class
+event: party
+event: class
+event: dietician appointment
+event: tartan party
+event: housewarming party
+event: kdsap meeting
+event: grappling
+event: Dinner plans?,
+event: dinner
+event: Carnival
+event: grappling seminar,
+event: carnival,
+event: grappling
+event: concert
+event: the booths
+event: the party
+event: carnival
+event: todays class
+event: the vacuum
+event: cognitive science meet and greet thing
+event: Cog Sci thing
+event: my class
+event: drinking game
+event: Drinking game
+event: class
+event: the party
+event: Heathers
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: paintball
+event: bacon's \"bday party\"
+event: a show
+event: funeral
+event: fyre festival
+event: event
+event: Business school event
+event: Easter
+event: Easter
+event: finals week
+event: WWII
+event: meeting
+event: Easter
+event: muslim womens day
+event: campaign
+event: another session
+event: campaign
+event: class
+event: class
+event: protests
+event: revolution
+event: rock climbing
+event: club
+event: WoW
+event: physics
+event: vintage fair
+event: classes
+event: coding classes
+event: 1 coding course
+event: Test
+event: 2 hw
+event: Poster
+event: exam
+event: class
+event: SOCIAL STUDIES
+event: appointment
+event: watch TV
+event: watch tv,
+event: club
+event: clubs
+event: club
+event: KGB
+event: DnD
+event: kgb
+event: radio show
+event: emergency
+event: Lab
+event: photo shoot
+event: Review
+event: lab
+event: exam review
+event: eboard
+event: event
+event: side quests
+event: dress rehearsal
+event: meeting
+event: meeting
+event: call
+event: 5k
+event: event like this
+event: Birthday
+event: the game
+event: Playoffs
+event: elections
+event: catering
+event: movie
+event: musical
+event: practice
+event: movie
+event: game
+event: Rebekah
+event: Rebekah
+event: Rebekah
+event: songkran
+event: Rebekah
+event: Songkran
+event: songkran
+event: songkran
+event: family dinner
+event: balloon tossing
+event: re-elction
+event: Carnival
+event: carnival party
+event: Carnival
+event: Spring Carnival
+event: Spring Carnival
+event: carnival
+event: day drink party!,
+event: Happy birthday
+event: Happy birthday
+event: happy birthday
+event: pant selling event
+event: push practice
+event: classes
+event: survey
+event: work
+event: musical
+event: work
+event: survey
+event: study
+event: exhibition
+event: lunch
+event: class
+event: lunch
+event: phone chat
+event: work
+event: team projext
+event: class
+event: lunch
+event: trip
+event: trip
+event: trip
+event: lunch
+event: dinner
+event: frisbee tournament
+event: conversation
+event: conversation
+event: interview
+event: interview
+event: project
+event: group meetings
+event: logan
+event: movie
+event: movie
+event: napped
+event: napped
+event: flights
+event: philo class
+event: exams
+event: exams
+event: exam
+event: presidential election,
+event: carnival
+event: ob thing
+event: lunch
+event: lunch
+event: lunch
+event: tests and finals
+event: brunch
+event: breakfast
+event: classes
+event: upper division classes
+event: sessions
+event: Practice
+event: breakfast
+event: playoff
+event: game
+event: games
+event: wedding
+event: honeymoon
+event: catholic wedding
+event: game
+event: meeting
+event: OH
+event: OH
+event: business computing
+event: business computing
+event: own president meeting
+event: CULTURAL event
+event: CULTURAL event
+event: king and I
+event: pso performance
+event: play
+event: presentation
+event: buggy meeting
+event: Raceday preview
+event: raceday
+event: bday dinner
+event: bonfire
+event: rehearsal
+event: cooking
+event: cooking
+event: cooking
+event: practice
+event: rain
+event: exams
+event: Practice
+event: Q&A
+event: team meeting
+event: team meeting
+event: practice
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: tri delta formal
+event: praising session
+event: songkran
+event: songkran
+event: cooking
+event: school trip
+event: meeting
+event: class
+event: Rice interview
+event: practice
+event: party
+event: exams
+event: Songkran
+event: transition practice
+event: ROLLS
+event: pasta dinner
+event: king and i play
+event: songkran
+event: party
+event: buggy thing
+event: silk road meeting
+event: meeting
+event: silk road
+event: Silk Road
+event: spring break
+event: birthday
+event: spring break
+event: class
+event: class
+event: group meeting
+event: recitation
+event: rolls
+event: rolls
+event: race
+event: Raceday
+event: carnival buggy
+event: carnival buggy
+event: buggy
+event: Buggy
+event: buggy
+event: Raceday
+event: booth
+event: buggy
+event: lunch
+event: class
+event: class
+event: class
+event: carnival
+event: race
+event: buggy
+event: praising session
+event: buggy
+event: dinner
+event: office hours
+event: flight
+event: carnival party
+event: carnival
+event: class
+event: class
+event: class
+event: wedding
+event: cocktail party
+event: 3 hour studio
+event: SA meeting
+event: SA meeting
+event: class
+event: midterms
+event: psyc
+event: raceday
+event: race
+event: eat dinner
+event: people stick
+event: people stick
+event: class
+event: Yankees game
+event: pj party
+event: pj party
+event: Soccer
+event: exam
+event: Finals
+event: meeting
+event: sensing and sensors
+event: class
+event: negaotiation class
+event: slam
+event: ceremony
+event: this event
+event: speech
+event: public speeches
+event: class
+event: robot autonomy lecture
+event: demo
+event: this class
+event: Class
+event: class
+event: your class
+event: class
+event: lunch
+event: 51
+event: 51 52 53
+event: 61 62 63
+event: class
+event: class
+event: party
+event: class
+event: dietician appointment
+event: tartan party
+event: housewarming party
+event: kdsap meeting
+event: grappling
+event: Dinner plans?,
+event: dinner
+event: Carnival
+event: grappling seminar,
+event: carnival,
+event: grappling
+event: concert
+event: the booths
+event: the party
+event: carnival
+event: todays class
+event: the vacuum
+event: cognitive science meet and greet thing
+event: Cog Sci thing
+event: my class
+event: drinking game
+event: Drinking game
+event: class
+event: the party
+event: Heathers
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: paintball
+event: bacon's \"bday party\"
+event: a show
+event: funeral
+event: fyre festival
+event: event
+event: Business school event
+event: Easter
+event: Easter
+event: finals week
+event: WWII
+event: meeting
+event: Easter
+event: muslim womens day
+event: campaign
+event: another session
+event: campaign
+event: class
+event: class
+event: protests
+event: revolution
+event: rock climbing
+event: club
+event: WoW
+event: physics
+event: vintage fair
+event: classes
+event: coding classes
+event: 1 coding course
+event: Test
+event: 2 hw
+event: Poster
+event: exam
+event: class
+event: SOCIAL STUDIES
+event: appointment
+event: watch TV
+event: watch tv,
+event: club
+event: clubs
+event: club
+event: KGB
+event: DnD
+event: kgb
+event: radio show
+event: emergency
+event: Lab
+event: photo shoot
+event: Review
+event: lab
+event: exam review
+event: eboard
+event: event
+event: side quests
+event: dress rehearsal
+event: meeting
+event: meeting
+event: call
+event: 5k
+event: event like this
+event: Birthday
+event: the game
+event: Playoffs
+event: elections
+event: catering
+event: movie
+event: musical
+event: practice
+event: movie
+event: game
+event: Rebekah
+event: Rebekah
+event: Rebekah
+event: songkran
+event: Rebekah
+event: Songkran
+event: songkran
+event: songkran
+event: family dinner
+event: balloon tossing
+event: re-elction
+event: Carnival
+event: carnival party
+event: Carnival
+event: Spring Carnival
+event: Spring Carnival
+event: carnival
+event: day drink party!,
+event: Happy birthday
+event: Happy birthday
+event: happy birthday
+event: pant selling event
+event: push practice
+event: classes
+event: survey
+event: work
+event: musical
+event: work
+event: survey
+event: study
+event: exhibition
+event: lunch
+event: class
+event: lunch
+event: phone chat
+event: work
+event: team projext
+event: class
+event: lunch
+event: trip
+event: trip
+event: trip
+event: lunch
+event: dinner
+event: frisbee tournament
+event: conversation
+event: conversation
+event: interview
+event: interview
+event: project
+event: group meetings
+event: logan
+event: movie
+event: movie
+event: napped
+event: napped
+event: flights
+event: philo class
+event: exams
+event: exams
+event: exam
+event: presidential election,
+event: carnival
+event: ob thing
+event: lunch
+event: lunch
+event: lunch
+event: tests and finals
+event: brunch
+event: breakfast
+event: classes
+event: upper division classes
+event: sessions
+event: Practice
+event: breakfast
+event: playoff
+event: game
+event: games
+event: wedding
+event: honeymoon
+event: catholic wedding
+event: game
+event: meeting
+event: OH
+event: OH
+event: business computing
+event: business computing
+event: own president meeting
+event: CULTURAL event
+event: CULTURAL event
+event: king and I
+event: pso performance
+event: play
+event: presentation
+event: buggy meeting
+event: Raceday preview
+event: raceday
+event: bday dinner
+event: bonfire
+event: rehearsal
+event: cooking
+event: cooking
+event: cooking
+event: practice
+event: rain
+event: exams
+event: Practice
+event: Q&A
+event: team meeting
+event: team meeting
+event: practice
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: tri delta formal
+event: praising session
+event: songkran
+event: songkran
+event: cooking
+event: school trip
+event: meeting
+event: class
+event: Rice interview
+event: practice
+event: party
+event: exams
+event: Songkran
+event: transition practice
+event: ROLLS
+event: pasta dinner
+event: king and i play
+event: songkran
+event: party
+event: buggy thing
+event: silk road meeting
+event: meeting
+event: silk road
+event: Silk Road
+event: spring break
+event: birthday
+event: spring break
+event: class
+event: class
+event: group meeting
+event: recitation
+event: rolls
+event: rolls
+event: race
+event: Raceday
+event: carnival buggy
+event: carnival buggy
+event: buggy
+event: Buggy
+event: buggy
+event: Raceday
+event: booth
+event: buggy
+event: lunch
+event: class
+event: class
+event: class
+event: carnival
+event: race
+event: buggy
+event: praising session
+event: buggy
+event: dinner
+event: office hours
+event: flight
+event: carnival party
+event: carnival
+event: class
+event: class
+event: class
+event: wedding
+event: cocktail party
+event: 3 hour studio
+event: SA meeting
+event: SA meeting
+event: class
+event: midterms
+event: psyc
+event: raceday
+event: race
+event: eat dinner
+event: people stick
+event: people stick
+event: class
+event: Yankees game
+event: pj party
+event: pj party
+event: Soccer
+event: exam
+event: Finals
+event: meeting
+event: sensing and sensors
+event: class
+event: negaotiation class
+event: slam
+event: ceremony
+event: this event
+event: speech
+event: public speeches
+event: class
+event: robot autonomy lecture
+event: demo
+event: this class
+event: Class
+event: class
+event: your class
+event: class
+event: lunch
+event: 51
+event: 51 52 53
+event: 61 62 63
+event: class
+event: class
+event: party
+event: class
+event: dietician appointment
+event: tartan party
+event: housewarming party
+event: kdsap meeting
+event: grappling
+event: Dinner plans?,
+event: dinner
+event: Carnival
+event: grappling seminar,
+event: carnival,
+event: grappling
+event: concert
+event: the booths
+event: the party
+event: carnival
+event: todays class
+event: the vacuum
+event: cognitive science meet and greet thing
+event: Cog Sci thing
+event: my class
+event: drinking game
+event: Drinking game
+event: class
+event: the party
+event: Heathers
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: paintball
+event: bacon's \"bday party\"
+event: a show
+event: funeral
+event: fyre festival
+event: event
+event: Business school event
+event: Easter
+event: Easter
+event: finals week
+event: WWII
+event: meeting
+event: Easter
+event: muslim womens day
+event: campaign
+event: another session
+event: campaign
+event: class
+event: class
+event: protests
+event: revolution
+event: rock climbing
+event: club
+event: WoW
+event: physics
+event: vintage fair
+event: classes
+event: coding classes
+event: 1 coding course
+event: Test
+event: 2 hw
+event: Poster
+event: exam
+event: class
+event: SOCIAL STUDIES
+event: appointment
+event: watch TV
+event: watch tv,
+event: club
+event: clubs
+event: club
+event: KGB
+event: DnD
+event: kgb
+event: radio show
+event: emergency
+event: Lab
+event: photo shoot
+event: Review
+event: lab
+event: exam review
+event: eboard
+event: event
+event: side quests
+event: dress rehearsal
+event: meeting
+event: meeting
+event: call
+event: 5k
+event: event like this
+event: Birthday
+event: the game
+event: Playoffs
+event: elections
+event: catering
+event: movie
+event: musical
+event: practice
+event: movie
+event: game
+event: Rebekah
+event: Rebekah
+event: Rebekah
+event: songkran
+event: Rebekah
+event: Songkran
+event: songkran
+event: songkran
+event: family dinner
+event: balloon tossing
+event: re-elction
+event: Carnival
+event: carnival party
+event: Carnival
+event: Spring Carnival
+event: Spring Carnival
+event: carnival
+event: day drink party!,
+event: Happy birthday
+event: Happy birthday
+event: happy birthday
+event: pant selling event
+event: push practice
+event: classes
+event: survey
+event: work
+event: musical
+event: work
+event: survey
+event: study
+event: exhibition
+event: lunch
+event: class
+event: lunch
+event: phone chat
+event: work
+event: team projext
+event: class
+event: lunch
+event: trip
+event: trip
+event: trip
+event: lunch
+event: dinner
+event: frisbee tournament
+event: conversation
+event: conversation
+event: interview
+event: interview
+event: project
+event: group meetings
+event: logan
+event: movie
+event: movie
+event: napped
+event: napped
+event: flights
+event: philo class
+event: exams
+event: exams
+event: exam
+event: presidential election,
+event: carnival
+event: ob thing
+event: lunch
+event: lunch
+event: lunch
+event: tests and finals
+event: brunch
+event: breakfast
+event: classes
+event: upper division classes
+event: sessions
+event: Practice
+event: breakfast
+event: playoff
+event: game
+event: games
+event: wedding
+event: honeymoon
+event: catholic wedding
+event: game
+event: meeting
+event: OH
+event: OH
+event: business computing
+event: business computing
+event: own president meeting
+event: CULTURAL event
+event: CULTURAL event
+event: king and I
+event: pso performance
+event: play
+event: presentation
+event: buggy meeting
+event: Raceday preview
+event: raceday
+event: bday dinner
+event: bonfire
+event: rehearsal
+event: cooking
+event: cooking
+event: cooking
+event: practice
+event: rain
+event: exams
+event: Practice
+event: Q&A
+event: team meeting
+event: team meeting
+event: practice
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: tri delta formal
+event: praising session
+event: songkran
+event: songkran
+event: cooking
+event: school trip
+event: meeting
+event: class
+event: Rice interview
+event: practice
+event: party
+event: exams
+event: Songkran
+event: transition practice
+event: ROLLS
+event: pasta dinner
+event: king and i play
+event: songkran
+event: party
+event: buggy thing
+event: silk road meeting
+event: meeting
+event: silk road
+event: Silk Road
+event: spring break
+event: birthday
+event: spring break
+event: class
+event: class
+event: group meeting
+event: recitation
+event: rolls
+event: rolls
+event: race
+event: Raceday
+event: carnival buggy
+event: carnival buggy
+event: buggy
+event: Buggy
+event: buggy
+event: Raceday
+event: booth
+event: buggy
+event: lunch
+event: class
+event: class
+event: class
+event: carnival
+event: race
+event: buggy
+event: praising session
+event: buggy
+event: dinner
+event: office hours
+event: flight
+event: carnival party
+event: carnival
+event: class
+event: class
+event: class
+event: wedding
+event: cocktail party
+event: 3 hour studio
+event: SA meeting
+event: SA meeting
+event: class
+event: midterms
+event: psyc
+event: raceday
+event: race
+event: eat dinner
+event: people stick
+event: people stick
+event: class
+event: Yankees game
+event: pj party
+event: pj party
+event: Soccer
+event: exam
+event: Finals
+event: meeting
+event: sensing and sensors
+event: class
+event: negaotiation class
+event: slam
+event: ceremony
+event: this event
+event: speech
+event: public speeches
+event: class
+event: robot autonomy lecture
+event: demo
+event: this class
+event: Class
+event: class
+event: your class
+event: class
+event: lunch
+event: 51
+event: 51 52 53
+event: 61 62 63
+event: class
+event: class
+event: party
+event: class
+event: dietician appointment
+event: tartan party
+event: housewarming party
+event: kdsap meeting
+event: grappling
+event: Dinner plans?,
+event: dinner
+event: Carnival
+event: grappling seminar,
+event: carnival,
+event: grappling
+event: concert
+event: the booths
+event: the party
+event: carnival
+event: todays class
+event: the vacuum
+event: cognitive science meet and greet thing
+event: Cog Sci thing
+event: my class
+event: drinking game
+event: Drinking game
+event: class
+event: the party
+event: Heathers
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: paintball
+event: bacon's \"bday party\"
+event: a show
+event: funeral
+event: fyre festival
+event: event
+event: Business school event
+event: Easter
+event: Easter
+event: finals week
+event: WWII
+event: meeting
+event: Easter
+event: muslim womens day
+event: campaign
+event: another session
+event: campaign
+event: class
+event: class
+event: protests
+event: revolution
+event: rock climbing
+event: club
+event: WoW
+event: physics
+event: vintage fair
+event: classes
+event: coding classes
+event: 1 coding course
+event: Test
+event: 2 hw
+event: Poster
+event: exam
+event: class
+event: SOCIAL STUDIES
+event: appointment
+event: watch TV
+event: watch tv,
+event: club
+event: clubs
+event: club
+event: KGB
+event: DnD
+event: kgb
+event: radio show
+event: emergency
+event: Lab
+event: photo shoot
+event: Review
+event: lab
+event: exam review
+event: eboard
+event: event
+event: side quests
+event: dress rehearsal
+event: meeting
+event: meeting
+event: call
+event: 5k
+event: event like this
+event: Birthday
+event: the game
+event: Playoffs
+event: elections
+event: catering
+event: movie
+event: musical
+event: practice
+event: movie
+event: game
+event: Rebekah
+event: Rebekah
+event: Rebekah
+event: songkran
+event: Rebekah
+event: Songkran
+event: songkran
+event: songkran
+event: family dinner
+event: balloon tossing
+event: re-elction
+event: Carnival
+event: carnival party
+event: Carnival
+event: Spring Carnival
+event: Spring Carnival
+event: carnival
+event: day drink party!,
+event: Happy birthday
+event: Happy birthday
+event: happy birthday
+event: pant selling event
+event: push practice
+event: classes
+event: survey
+event: work
+event: musical
+event: work
+event: survey
+event: study
+event: exhibition
+event: lunch
+event: class
+event: lunch
+event: phone chat
+event: work
+event: team projext
+event: class
+event: lunch
+event: trip
+event: trip
+event: trip
+event: lunch
+event: dinner
+event: frisbee tournament
+event: conversation
+event: conversation
+event: interview
+event: interview
+event: project
+event: group meetings
+event: logan
+event: movie
+event: movie
+event: napped
+event: napped
+event: flights
+event: philo class
+event: exams
+event: exams
+event: exam
+event: presidential election,
+event: carnival
+event: ob thing
+event: lunch
+event: lunch
+event: lunch
+event: tests and finals
+event: brunch
+event: breakfast
+event: classes
+event: upper division classes
+event: sessions
+event: Practice
+event: breakfast
+event: playoff
+event: game
+event: games
+event: wedding
+event: honeymoon
+event: catholic wedding
+event: game
+event: meeting
+event: OH
+event: OH
+event: business computing
+event: business computing
+event: own president meeting
+event: CULTURAL event
+event: CULTURAL event
+event: king and I
+event: pso performance
+event: play
+event: presentation
+event: buggy meeting
+event: Raceday preview
+event: raceday
+event: bday dinner
+event: bonfire
+event: rehearsal
+event: cooking
+event: cooking
+event: cooking
+event: practice
+event: rain
+event: exams
+event: Practice
+event: Q&A
+event: team meeting
+event: team meeting
+event: practice
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: tri delta formal
+event: praising session
+event: songkran
+event: songkran
+event: cooking
+event: school trip
+event: meeting
+event: class
+event: Rice interview
+event: practice
+event: party
+event: exams
+event: Songkran
+event: transition practice
+event: ROLLS
+event: pasta dinner
+event: king and i play
+event: songkran
+event: party
+event: buggy thing
+event: silk road meeting
+event: meeting
+event: silk road
+event: Silk Road
+event: spring break
+event: birthday
+event: spring break
+event: class
+event: class
+event: group meeting
+event: recitation
+event: rolls
+event: rolls
+event: race
+event: Raceday
+event: carnival buggy
+event: carnival buggy
+event: buggy
+event: Buggy
+event: buggy
+event: Raceday
+event: booth
+event: buggy
+event: lunch
+event: class
+event: class
+event: class
+event: carnival
+event: race
+event: buggy
+event: praising session
+event: buggy
+event: dinner
+event: office hours
+event: flight
+event: carnival party
+event: carnival
+event: class
+event: class
+event: class
+event: wedding
+event: cocktail party
+event: 3 hour studio
+event: SA meeting
+event: SA meeting
+event: class
+event: midterms
+event: psyc
+event: raceday
+event: race
+event: eat dinner
+event: people stick
+event: people stick
+event: class
+event: Yankees game
+event: pj party
+event: pj party
+event: Soccer
+event: exam
+event: Finals
+event: meeting
+event: sensing and sensors
+event: class
+event: negaotiation class
+event: slam
+event: ceremony
+event: this event
+event: speech
+event: public speeches
+event: class
+event: robot autonomy lecture
+event: demo
+event: this class
+event: Class
+event: class
+event: your class
+event: class
+event: lunch
+event: 51
+event: 51 52 53
+event: 61 62 63
+event: class
+event: class
+event: party
+event: class
+event: dietician appointment
+event: tartan party
+event: housewarming party
+event: kdsap meeting
+event: grappling
+event: Dinner plans?,
+event: dinner
+event: Carnival
+event: grappling seminar,
+event: carnival,
+event: grappling
+event: concert
+event: the booths
+event: the party
+event: carnival
+event: todays class
+event: the vacuum
+event: cognitive science meet and greet thing
+event: Cog Sci thing
+event: my class
+event: drinking game
+event: Drinking game
+event: class
+event: the party
+event: Heathers
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: paintball
+event: bacon's \"bday party\"
+event: a show
+event: funeral
+event: fyre festival
+event: event
+event: Business school event
+event: Easter
+event: Easter
+event: finals week
+event: WWII
+event: meeting
+event: Easter
+event: muslim womens day
+event: campaign
+event: another session
+event: campaign
+event: class
+event: class
+event: protests
+event: revolution
+event: rock climbing
+event: club
+event: WoW
+event: physics
+event: vintage fair
+event: classes
+event: coding classes
+event: 1 coding course
+event: Test
+event: 2 hw
+event: Poster
+event: exam
+event: class
+event: SOCIAL STUDIES
+event: appointment
+event: watch TV
+event: watch tv,
+event: club
+event: clubs
+event: club
+event: KGB
+event: DnD
+event: kgb
+event: radio show
+event: emergency
+event: Lab
+event: photo shoot
+event: Review
+event: lab
+event: exam review
+event: eboard
+event: event
+event: side quests
+event: dress rehearsal
+event: meeting
+event: meeting
+event: call
+event: 5k
+event: event like this
+event: Birthday
+event: the game
+event: Playoffs
+event: elections
+event: catering
+event: movie
+event: musical
+event: practice
+event: movie
+event: game
+event: Rebekah
+event: Rebekah
+event: Rebekah
+event: songkran
+event: Rebekah
+event: Songkran
+event: songkran
+event: songkran
+event: family dinner
+event: balloon tossing
+event: re-elction
+event: Carnival
+event: carnival party
+event: Carnival
+event: Spring Carnival
+event: Spring Carnival
+event: carnival
+event: day drink party!,
+event: Happy birthday
+event: Happy birthday
+event: happy birthday
+event: pant selling event
+event: push practice
+event: classes
+event: survey
+event: work
+event: musical
+event: work
+event: survey
+event: study
+event: exhibition
+event: lunch
+event: class
+event: lunch
+event: phone chat
+event: work
+event: team projext
+event: class
+event: lunch
+event: trip
+event: trip
+event: trip
+event: lunch
+event: dinner
+event: frisbee tournament
+event: conversation
+event: conversation
+event: interview
+event: interview
+event: project
+event: group meetings
+event: logan
+event: movie
+event: movie
+event: napped
+event: napped
+event: flights
+event: philo class
+event: exams
+event: exams
+event: exam
+event: presidential election,
+event: carnival
+event: ob thing
+event: lunch
+event: lunch
+event: lunch
+event: tests and finals
+event: brunch
+event: breakfast
+event: classes
+event: upper division classes
+event: sessions
+event: Practice
+event: breakfast
+event: playoff
+event: game
+event: games
+event: wedding
+event: honeymoon
+event: catholic wedding
+event: game
+event: meeting
+event: OH
+event: OH
+event: business computing
+event: business computing
+event: own president meeting
+event: CULTURAL event
+event: CULTURAL event
+event: king and I
+event: pso performance
+event: play
+event: presentation
+event: buggy meeting
+event: Raceday preview
+event: raceday
+event: bday dinner
+event: bonfire
+event: rehearsal
+event: cooking
+event: cooking
+event: cooking
+event: practice
+event: rain
+event: exams
+event: Practice
+event: Q&A
+event: team meeting
+event: team meeting
+event: practice
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: tri delta formal
+event: praising session
+event: songkran
+event: songkran
+event: cooking
+event: school trip
+event: meeting
+event: class
+event: Rice interview
+event: practice
+event: party
+event: exams
+event: Songkran
+event: transition practice
+event: ROLLS
+event: pasta dinner
+event: king and i play
+event: songkran
+event: party
+event: buggy thing
+event: silk road meeting
+event: meeting
+event: silk road
+event: Silk Road
+event: spring break
+event: birthday
+event: spring break
+event: class
+event: class
+event: group meeting
+event: recitation
+event: rolls
+event: rolls
+event: race
+event: Raceday
+event: carnival buggy
+event: carnival buggy
+event: buggy
+event: Buggy
+event: buggy
+event: Raceday
+event: booth
+event: buggy
+event: lunch
+event: class
+event: class
+event: class
+event: carnival
+event: race
+event: buggy
+event: praising session
+event: buggy
+event: dinner
+event: office hours
+event: flight
+event: carnival party
+event: carnival
+event: class
+event: class
+event: class
+event: wedding
+event: cocktail party
+event: 3 hour studio
+event: SA meeting
+event: SA meeting
+event: class
+event: midterms
+event: psyc
+event: raceday
+event: race
+event: eat dinner
+event: people stick
+event: people stick
+event: class
+event: Yankees game
+event: pj party
+event: pj party
+event: Soccer
+event: exam
+event: Finals
+event: meeting
+event: sensing and sensors
+event: class
+event: negaotiation class
+event: slam
+event: ceremony
+event: this event
+event: speech
+event: public speeches
+event: class
+event: robot autonomy lecture
+event: demo
+event: this class
+event: Class
+event: class
+event: your class
+event: class
+event: lunch
+event: 51
+event: 51 52 53
+event: 61 62 63
+event: class
+event: class
+event: party
+event: class
+event: dietician appointment
+event: tartan party
+event: housewarming party
+event: kdsap meeting
+event: grappling
+event: Dinner plans?,
+event: dinner
+event: Carnival
+event: grappling seminar,
+event: carnival,
+event: grappling
+event: concert
+event: the booths
+event: the party
+event: carnival
+event: todays class
+event: the vacuum
+event: cognitive science meet and greet thing
+event: Cog Sci thing
+event: my class
+event: drinking game
+event: Drinking game
+event: class
+event: the party
+event: Heathers
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: paintball
+event: bacon's \"bday party\"
+event: a show
+event: funeral
+event: fyre festival
+event: event
+event: Business school event
+event: Easter
+event: Easter
+event: finals week
+event: WWII
+event: meeting
+event: Easter
+event: muslim womens day
+event: campaign
+event: another session
+event: campaign
+event: class
+event: class
+event: protests
+event: revolution
+event: rock climbing
+event: club
+event: WoW
+event: physics
+event: vintage fair
+event: classes
+event: coding classes
+event: 1 coding course
+event: Test
+event: 2 hw
+event: Poster
+event: exam
+event: class
+event: SOCIAL STUDIES
+event: appointment
+event: watch TV
+event: watch tv,
+event: club
+event: clubs
+event: club
+event: KGB
+event: DnD
+event: kgb
+event: radio show
+event: emergency
+event: Lab
+event: photo shoot
+event: Review
+event: lab
+event: exam review
+event: eboard
+event: event
+event: side quests
+event: dress rehearsal
+event: meeting
+event: meeting
+event: call
+event: 5k
+event: event like this
+event: Birthday
+event: the game
+event: Playoffs
+event: elections
+event: catering
+event: movie
+event: musical
+event: practice
+event: movie
+event: game
+event: Rebekah
+event: Rebekah
+event: Rebekah
+event: songkran
+event: Rebekah
+event: Songkran
+event: songkran
+event: songkran
+event: family dinner
+event: balloon tossing
+event: re-elction
+event: Carnival
+event: carnival party
+event: Carnival
+event: Spring Carnival
+event: Spring Carnival
+event: carnival
+event: day drink party!,
+event: Happy birthday
+event: Happy birthday
+event: happy birthday
+event: pant selling event
+event: push practice
+event: classes
+event: survey
+event: work
+event: musical
+event: work
+event: survey
+event: study
+event: exhibition
+event: lunch
+event: class
+event: lunch
+event: phone chat
+event: work
+event: team projext
+event: class
+event: lunch
+event: trip
+event: trip
+event: trip
+event: lunch
+event: dinner
+event: frisbee tournament
+event: conversation
+event: conversation
+event: interview
+event: interview
+event: project
+event: group meetings
+event: logan
+event: movie
+event: movie
+event: napped
+event: napped
+event: flights
+event: philo class
+event: exams
+event: exams
+event: exam
+event: presidential election,
+event: carnival
+event: ob thing
+event: lunch
+event: lunch
+event: lunch
+event: tests and finals
+event: brunch
+event: breakfast
+event: classes
+event: upper division classes
+event: sessions
+event: Practice
+event: breakfast
+event: playoff
+event: game
+event: games
+event: wedding
+event: honeymoon
+event: catholic wedding
+event: game
+event: meeting
+event: OH
+event: OH
+event: business computing
+event: business computing
+event: own president meeting
+event: CULTURAL event
+event: CULTURAL event
+event: king and I
+event: pso performance
+event: play
+event: presentation
+event: buggy meeting
+event: Raceday preview
+event: raceday
+event: bday dinner
+event: bonfire
+event: rehearsal
+event: cooking
+event: cooking
+event: cooking
+event: practice
+event: rain
+event: exams
+event: Practice
+event: Q&A
+event: team meeting
+event: team meeting
+event: practice
+event: class
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: meeting
+event: tri delta formal
+event: praising session
+event: songkran
+event: songkran
+event: cooking
+event: school trip
+event: meeting
+event: class
+event: Rice interview
+event: practice
+event: party
+event: exams
+event: Songkran
+event: transition practice
+event: ROLLS
+event: pasta dinner
+event: king and i play
+event: songkran
+event: party
+event: buggy thing
+event: silk road meeting
+event: meeting
+event: silk road
+event: Silk Road
+event: spring break
+event: birthday
+event: spring break
+event: class
+event: class
+event: group meeting
+event: recitation
+event: rolls
+event: rolls
+event: race
+event: Raceday
+event: carnival buggy
+event: carnival buggy
+event: buggy
+event: Buggy
+event: buggy
+event: Raceday
+event: booth
+event: buggy
+event: lunch
+event: class
+event: class
+event: class
+event: carnival
+event: race
+event: buggy
+event: praising session
+event: buggy
+event: dinner
+event: office hours
+event: flight
+event: carnival party
+event: carnival
+event: class
+event: class
+event: class
+event: wedding
+event: cocktail party
+event: 3 hour studio
+event: SA meeting
+event: SA meeting
+event: class
+event: midterms
+event: psyc
+event: raceday
+event: race
+event: eat dinner
+event: people stick
+event: people stick

@@ -1,0 +1,5200 @@
+state: Texas
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: New York
+state: State of New York
+state: California
+state: Montana
+state: California
+state: New York
+state: Texas
+state: NJ
+state: California
+state: California
+state: NY
+state: Ca
+state: Houston
+state: North Carolina
+state: California
+state: California
+state: Pennsylvania
+state: NY
+state: California
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: Tennessee
+state: comparing the California
+state: academic (and California
+state: Florida
+state: California's
+state: NM
+state: Calif
+state: California
+state: California
+state: california
+state: california
+state: DC
+state: California
+state: DC
+state: California
+state: SD
+state: SD
+state: Ontario
+state: Ontario
+state: Houston
+state: Texas
+state: Houston
+state: california
+state: denver
+state: denver
+state: florida
+state: florida
+state: north dakota
+state: new orleans
+state: mississippi
+state: UT
+state: New York
+state: California
+state: SoCal
+state: Louisiana
+state: California
+state: California
+state: Texas
+state: Omaha
+state: California
+state: Georgia
+state: Palm Beach County, Fla
+state: Virginia
+state: Virginia
+state: Georgia
+state: Florida
+state: Georgia
+state: FW
+state: San Antonio
+state: Georgetown
+state: Connecticut
+state: New York
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: Chicago
+state: Illinois
+state: New
+state: NY
+state: Florida
+state: Florida
+state: New York
+state: North Carolina
+state: Hawaiian
+state: Florida
+state: Florida
+state: New York
+state: Montana
+state: CA
+state: Mississippi
+state: CA
+state: Delaware
+state: Florida
+state: Arizona
+state: Conn
+state: Florida
+state: Maryland
+state: GA
+state: Wisconsin
+state: NY
+state: VA
+state: UT
+state: Texas
+state: Texas
+state: Houston
+state: Tennessee
+state: state of NJ
+state: California
+state: NY
+state: New York
+state: Colorado
+state: Wyoming
+state: Wyoming
+state: Texas
+state: Houston
+state: CO
+state: Wyoming
+state: California
+state: North Carolina
+state: North Carolina
+state: SA
+state: Wyoming
+state: Texas
+state: Texas
+state: Arizona
+state: New York
+state: Ark
+state: Tennessee
+state: New England
+state: Chicago?
+state: West Virginia
+state: Colorado
+state: Colorado
+state: Arizona
+state: Arizona
+state: Colorado
+state: Florida
+state: Colorado
+state: Illinois
+state: TEXAS
+state: New Mexico
+state: Minnesota
+state: New Mexico
+state: UT
+state: Arizona
+state: Arizona
+state: New Mexico
+state: New Mexico
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: New York
+state: B.C
+state: Illlinois
+state: New Mexico
+state: New Mexico
+state: New Mexico
+state: New Albany
+state: California
+state: Illinois
+state: Lone Star State
+state: Indiana
+state: Jersey
+state: texas
+state: California
+state: Florida
+state: Hawaii
+state: NY
+state: Calif.
+state: California
+state: New York
+state: CA
+state: California
+state: New York
+state: CA
+state: CA
+state: Texas
+state: Alabama
+state: New York
+state: Minnesota
+state: Colorado
+state: Nebraska
+state: California
+state: Texas
+state: Texas
+state: TX
+state: TX
+state: California
+state: Texas
+state: State of Texas
+state: New York
+state: Charleston
+state: New York
+state: Arkansas
+state: N.Y.
+state: New York
+state: NY
+state: New York
+state: New York
+state: Florida
+state: Arizona
+state: Florida
+state: British Columbia
+state: New York State
+state: Hawaii
+state: Hawaii
+state: HAWAII
+state: Texas
+state: Utah
+state: Utah
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: Houston
+state: NY
+state: NY
+state: NY
+state: California
+state: Michigan
+state: California
+state: Oregon
+state: California
+state: Illinois
+state: MI
+state: Georgia
+state: California
+state: NY
+state: NY
+state: Portland
+state: Texas
+state: California
+state: State of California
+state: Idaho's
+state: Montana
+state: California
+state: California
+state: PA
+state: FL
+state: CA
+state: LA
+state: TX
+state: CA
+state: New York
+state: New York
+state: Texas
+state: DC
+state: California
+state: Tennessee
+state: california
+state: ca
+state: New York
+state: California
+state: Texas
+state: California
+state: CA
+state: NY
+state: Texas
+state: CA
+state: California
+state: Montana
+state: California
+state: California
+state: Florida
+state: California
+state: Texas
+state: Florida
+state: CA
+state: CA
+state: California
+state: California
+state: Louisiana
+state: California
+state: Texas
+state: Texas
+state: TEXAS
+state: Cal
+state: ca
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: connecticutt
+state: Arizona
+state: California
+state: California
+state: California
+state: D.C.
+state: CA
+state: CA
+state: Californian
+state: CA
+state: california's
+state: Colorado.
+state: California
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Texas
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Montana
+state: California
+state: California's
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Colorado
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: New York
+state: California's
+state: California
+state: California
+state: Colorahdee
+state: Colorada
+state: California/Washington/Texas/Alaska/Kansas
+state: California
+state: Idaho
+state: Oregon
+state: Rhode Island
+state: Rhode Island
+state: California
+state: California
+state: California
+state: California
+state: California
+state: MA
+state: MA
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: Texas
+state: California
+state: California
+state: California
+state: California
+state: South Carolina
+state: CA
+state: California
+state: NY
+state: Texas
+state: California
+state: TX
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: Texas
+state: california
+state: California
+state: Wa
+state: Wa
+state: WA
+state: California
+state: Colorado
+state: CA
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: California
+state: California
+state: Houston
+state: California
+state: california
+state: California
+state: california
+state: California
+state: California
+state: Illinois
+state: California
+state: Conneticut
+state: California
+state: Georgia
+state: Texas
+state: New Jersey
+state: Texas
+state: Texas
+state: Alabama
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: UT
+state: Tennessee
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Georgia
+state: Washington DC
+state: Texas
+state: Texas
+state: Louisiana
+state: South Dakota
+state: Texas
+state: New York or D.C
+state: Texas
+state: TX
+state: montana
+state: New Mexico
+state: Minnesota
+state: Washington
+state: California
+state: NY
+state: Texas
+state: West Virginia
+state: Tennessee
+state: Texas
+state: Texas
+state: East Ohio
+state: East Ohio
+state: East Ohio
+state: Ohio
+state: Tennessee
+state: Tennesse
+state: Florida
+state: Florida
+state: Florida
+state: TX
+state: Texas
+state: New York
+state: Tennessee
+state: Tennessee
+state: Colorado
+state: CO
+state: Texas
+state: Kansas
+state: Socal
+state: CA.
+state: California
+state: Portland
+state: Montana
+state: Cali
+state: Cali
+state: Oregon
+state: Idaho
+state: California
+state: Idaho
+state: California
+state: Seattle
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Portland
+state: Houston
+state: Rio Negro
+state: Rio Negro
+state: Washington, D.C.
+state: Texas
+state: C.A
+state: C.A
+state: Fl
+state: Ohio
+state: New York
+state: Ohio
+state: Florida
+state: Cal
+state: Texas
+state: Maine
+state: California
+state: California
+state: Texas
+state: Wyoming
+state: TEXAS
+state: Texas
+state: south texas
+state: Texas
+state: New York
+state: New York
+state: Texas
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: New York
+state: State of New York
+state: California
+state: Montana
+state: California
+state: New York
+state: Texas
+state: NJ
+state: California
+state: California
+state: NY
+state: Ca
+state: Houston
+state: North Carolina
+state: California
+state: California
+state: Pennsylvania
+state: NY
+state: California
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: Tennessee
+state: comparing the California
+state: academic (and California
+state: Florida
+state: California's
+state: NM
+state: Calif
+state: California
+state: California
+state: california
+state: california
+state: DC
+state: California
+state: DC
+state: California
+state: SD
+state: SD
+state: Ontario
+state: Ontario
+state: Houston
+state: Texas
+state: Houston
+state: california
+state: denver
+state: denver
+state: florida
+state: florida
+state: north dakota
+state: new orleans
+state: mississippi
+state: UT
+state: New York
+state: California
+state: SoCal
+state: Louisiana
+state: California
+state: California
+state: Texas
+state: Omaha
+state: California
+state: Georgia
+state: Palm Beach County, Fla
+state: Virginia
+state: Virginia
+state: Georgia
+state: Florida
+state: Georgia
+state: FW
+state: San Antonio
+state: Georgetown
+state: Connecticut
+state: New York
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: Chicago
+state: Illinois
+state: New
+state: NY
+state: Florida
+state: Florida
+state: New York
+state: North Carolina
+state: Hawaiian
+state: Florida
+state: Florida
+state: New York
+state: Montana
+state: CA
+state: Mississippi
+state: CA
+state: Delaware
+state: Florida
+state: Arizona
+state: Conn
+state: Florida
+state: Maryland
+state: GA
+state: Wisconsin
+state: NY
+state: VA
+state: UT
+state: Texas
+state: Texas
+state: Houston
+state: Tennessee
+state: state of NJ
+state: California
+state: NY
+state: New York
+state: Colorado
+state: Wyoming
+state: Wyoming
+state: Texas
+state: Houston
+state: CO
+state: Wyoming
+state: California
+state: North Carolina
+state: North Carolina
+state: SA
+state: Wyoming
+state: Texas
+state: Texas
+state: Arizona
+state: New York
+state: Ark
+state: Tennessee
+state: New England
+state: Chicago?
+state: West Virginia
+state: Colorado
+state: Colorado
+state: Arizona
+state: Arizona
+state: Colorado
+state: Florida
+state: Colorado
+state: Illinois
+state: TEXAS
+state: New Mexico
+state: Minnesota
+state: New Mexico
+state: UT
+state: Arizona
+state: Arizona
+state: New Mexico
+state: New Mexico
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: New York
+state: B.C
+state: Illlinois
+state: New Mexico
+state: New Mexico
+state: New Mexico
+state: New Albany
+state: California
+state: Illinois
+state: Lone Star State
+state: Indiana
+state: Jersey
+state: texas
+state: California
+state: Florida
+state: Hawaii
+state: NY
+state: Calif.
+state: California
+state: New York
+state: CA
+state: California
+state: New York
+state: CA
+state: CA
+state: Texas
+state: Alabama
+state: New York
+state: Minnesota
+state: Colorado
+state: Nebraska
+state: California
+state: Texas
+state: Texas
+state: TX
+state: TX
+state: California
+state: Texas
+state: State of Texas
+state: New York
+state: Charleston
+state: New York
+state: Arkansas
+state: N.Y.
+state: New York
+state: NY
+state: New York
+state: New York
+state: Florida
+state: Arizona
+state: Florida
+state: British Columbia
+state: New York State
+state: Hawaii
+state: Hawaii
+state: HAWAII
+state: Texas
+state: Utah
+state: Utah
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: Houston
+state: NY
+state: NY
+state: NY
+state: California
+state: Michigan
+state: California
+state: Oregon
+state: California
+state: Illinois
+state: MI
+state: Georgia
+state: California
+state: NY
+state: NY
+state: Portland
+state: Texas
+state: California
+state: State of California
+state: Idaho's
+state: Montana
+state: California
+state: California
+state: PA
+state: FL
+state: CA
+state: LA
+state: TX
+state: CA
+state: New York
+state: New York
+state: Texas
+state: DC
+state: California
+state: Tennessee
+state: california
+state: ca
+state: New York
+state: California
+state: Texas
+state: California
+state: CA
+state: NY
+state: Texas
+state: CA
+state: California
+state: Montana
+state: California
+state: California
+state: Florida
+state: California
+state: Texas
+state: Florida
+state: CA
+state: CA
+state: California
+state: California
+state: Louisiana
+state: California
+state: Texas
+state: Texas
+state: TEXAS
+state: Cal
+state: ca
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: connecticutt
+state: Arizona
+state: California
+state: California
+state: California
+state: D.C.
+state: CA
+state: CA
+state: Californian
+state: CA
+state: california's
+state: Colorado.
+state: California
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Texas
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Montana
+state: California
+state: California's
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Colorado
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: New York
+state: California's
+state: California
+state: California
+state: Colorahdee
+state: Colorada
+state: California/Washington/Texas/Alaska/Kansas
+state: California
+state: Idaho
+state: Oregon
+state: Rhode Island
+state: Rhode Island
+state: California
+state: California
+state: California
+state: California
+state: California
+state: MA
+state: MA
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: Texas
+state: California
+state: California
+state: California
+state: California
+state: South Carolina
+state: CA
+state: California
+state: NY
+state: Texas
+state: California
+state: TX
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: Texas
+state: california
+state: California
+state: Wa
+state: Wa
+state: WA
+state: California
+state: Colorado
+state: CA
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: California
+state: California
+state: Houston
+state: California
+state: california
+state: California
+state: california
+state: California
+state: California
+state: Illinois
+state: California
+state: Conneticut
+state: California
+state: Georgia
+state: Texas
+state: New Jersey
+state: Texas
+state: Texas
+state: Alabama
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: UT
+state: Tennessee
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Georgia
+state: Washington DC
+state: Texas
+state: Texas
+state: Louisiana
+state: South Dakota
+state: Texas
+state: New York or D.C
+state: Texas
+state: TX
+state: montana
+state: New Mexico
+state: Minnesota
+state: Washington
+state: California
+state: NY
+state: Texas
+state: West Virginia
+state: Tennessee
+state: Texas
+state: Texas
+state: East Ohio
+state: East Ohio
+state: East Ohio
+state: Ohio
+state: Tennessee
+state: Tennesse
+state: Florida
+state: Florida
+state: Florida
+state: TX
+state: Texas
+state: New York
+state: Tennessee
+state: Tennessee
+state: Colorado
+state: CO
+state: Texas
+state: Kansas
+state: Socal
+state: CA.
+state: California
+state: Portland
+state: Montana
+state: Cali
+state: Cali
+state: Oregon
+state: Idaho
+state: California
+state: Idaho
+state: California
+state: Seattle
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Portland
+state: Houston
+state: Rio Negro
+state: Rio Negro
+state: Washington, D.C.
+state: Texas
+state: C.A
+state: C.A
+state: Fl
+state: Ohio
+state: New York
+state: Ohio
+state: Florida
+state: Cal
+state: Texas
+state: Maine
+state: California
+state: California
+state: Texas
+state: Wyoming
+state: TEXAS
+state: Texas
+state: south texas
+state: Texas
+state: New York
+state: New York
+state: Texas
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: New York
+state: State of New York
+state: California
+state: Montana
+state: California
+state: New York
+state: Texas
+state: NJ
+state: California
+state: California
+state: NY
+state: Ca
+state: Houston
+state: North Carolina
+state: California
+state: California
+state: Pennsylvania
+state: NY
+state: California
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: Tennessee
+state: comparing the California
+state: academic (and California
+state: Florida
+state: California's
+state: NM
+state: Calif
+state: California
+state: California
+state: california
+state: california
+state: DC
+state: California
+state: DC
+state: California
+state: SD
+state: SD
+state: Ontario
+state: Ontario
+state: Houston
+state: Texas
+state: Houston
+state: california
+state: denver
+state: denver
+state: florida
+state: florida
+state: north dakota
+state: new orleans
+state: mississippi
+state: UT
+state: New York
+state: California
+state: SoCal
+state: Louisiana
+state: California
+state: California
+state: Texas
+state: Omaha
+state: California
+state: Georgia
+state: Palm Beach County, Fla
+state: Virginia
+state: Virginia
+state: Georgia
+state: Florida
+state: Georgia
+state: FW
+state: San Antonio
+state: Georgetown
+state: Connecticut
+state: New York
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: Chicago
+state: Illinois
+state: New
+state: NY
+state: Florida
+state: Florida
+state: New York
+state: North Carolina
+state: Hawaiian
+state: Florida
+state: Florida
+state: New York
+state: Montana
+state: CA
+state: Mississippi
+state: CA
+state: Delaware
+state: Florida
+state: Arizona
+state: Conn
+state: Florida
+state: Maryland
+state: GA
+state: Wisconsin
+state: NY
+state: VA
+state: UT
+state: Texas
+state: Texas
+state: Houston
+state: Tennessee
+state: state of NJ
+state: California
+state: NY
+state: New York
+state: Colorado
+state: Wyoming
+state: Wyoming
+state: Texas
+state: Houston
+state: CO
+state: Wyoming
+state: California
+state: North Carolina
+state: North Carolina
+state: SA
+state: Wyoming
+state: Texas
+state: Texas
+state: Arizona
+state: New York
+state: Ark
+state: Tennessee
+state: New England
+state: Chicago?
+state: West Virginia
+state: Colorado
+state: Colorado
+state: Arizona
+state: Arizona
+state: Colorado
+state: Florida
+state: Colorado
+state: Illinois
+state: TEXAS
+state: New Mexico
+state: Minnesota
+state: New Mexico
+state: UT
+state: Arizona
+state: Arizona
+state: New Mexico
+state: New Mexico
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: New York
+state: B.C
+state: Illlinois
+state: New Mexico
+state: New Mexico
+state: New Mexico
+state: New Albany
+state: California
+state: Illinois
+state: Lone Star State
+state: Indiana
+state: Jersey
+state: texas
+state: California
+state: Florida
+state: Hawaii
+state: NY
+state: Calif.
+state: California
+state: New York
+state: CA
+state: California
+state: New York
+state: CA
+state: CA
+state: Texas
+state: Alabama
+state: New York
+state: Minnesota
+state: Colorado
+state: Nebraska
+state: California
+state: Texas
+state: Texas
+state: TX
+state: TX
+state: California
+state: Texas
+state: State of Texas
+state: New York
+state: Charleston
+state: New York
+state: Arkansas
+state: N.Y.
+state: New York
+state: NY
+state: New York
+state: New York
+state: Florida
+state: Arizona
+state: Florida
+state: British Columbia
+state: New York State
+state: Hawaii
+state: Hawaii
+state: HAWAII
+state: Texas
+state: Utah
+state: Utah
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: Houston
+state: NY
+state: NY
+state: NY
+state: California
+state: Michigan
+state: California
+state: Oregon
+state: California
+state: Illinois
+state: MI
+state: Georgia
+state: California
+state: NY
+state: NY
+state: Portland
+state: Texas
+state: California
+state: State of California
+state: Idaho's
+state: Montana
+state: California
+state: California
+state: PA
+state: FL
+state: CA
+state: LA
+state: TX
+state: CA
+state: New York
+state: New York
+state: Texas
+state: DC
+state: California
+state: Tennessee
+state: california
+state: ca
+state: New York
+state: California
+state: Texas
+state: California
+state: CA
+state: NY
+state: Texas
+state: CA
+state: California
+state: Montana
+state: California
+state: California
+state: Florida
+state: California
+state: Texas
+state: Florida
+state: CA
+state: CA
+state: California
+state: California
+state: Louisiana
+state: California
+state: Texas
+state: Texas
+state: TEXAS
+state: Cal
+state: ca
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: connecticutt
+state: Arizona
+state: California
+state: California
+state: California
+state: D.C.
+state: CA
+state: CA
+state: Californian
+state: CA
+state: california's
+state: Colorado.
+state: California
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Texas
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Montana
+state: California
+state: California's
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Colorado
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: New York
+state: California's
+state: California
+state: California
+state: Colorahdee
+state: Colorada
+state: California/Washington/Texas/Alaska/Kansas
+state: California
+state: Idaho
+state: Oregon
+state: Rhode Island
+state: Rhode Island
+state: California
+state: California
+state: California
+state: California
+state: California
+state: MA
+state: MA
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: Texas
+state: California
+state: California
+state: California
+state: California
+state: South Carolina
+state: CA
+state: California
+state: NY
+state: Texas
+state: California
+state: TX
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: Texas
+state: california
+state: California
+state: Wa
+state: Wa
+state: WA
+state: California
+state: Colorado
+state: CA
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: California
+state: California
+state: Houston
+state: California
+state: california
+state: California
+state: california
+state: California
+state: California
+state: Illinois
+state: California
+state: Conneticut
+state: California
+state: Georgia
+state: Texas
+state: New Jersey
+state: Texas
+state: Texas
+state: Alabama
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: UT
+state: Tennessee
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Georgia
+state: Washington DC
+state: Texas
+state: Texas
+state: Louisiana
+state: South Dakota
+state: Texas
+state: New York or D.C
+state: Texas
+state: TX
+state: montana
+state: New Mexico
+state: Minnesota
+state: Washington
+state: California
+state: NY
+state: Texas
+state: West Virginia
+state: Tennessee
+state: Texas
+state: Texas
+state: East Ohio
+state: East Ohio
+state: East Ohio
+state: Ohio
+state: Tennessee
+state: Tennesse
+state: Florida
+state: Florida
+state: Florida
+state: TX
+state: Texas
+state: New York
+state: Tennessee
+state: Tennessee
+state: Colorado
+state: CO
+state: Texas
+state: Kansas
+state: Socal
+state: CA.
+state: California
+state: Portland
+state: Montana
+state: Cali
+state: Cali
+state: Oregon
+state: Idaho
+state: California
+state: Idaho
+state: California
+state: Seattle
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Portland
+state: Houston
+state: Rio Negro
+state: Rio Negro
+state: Washington, D.C.
+state: Texas
+state: C.A
+state: C.A
+state: Fl
+state: Ohio
+state: New York
+state: Ohio
+state: Florida
+state: Cal
+state: Texas
+state: Maine
+state: California
+state: California
+state: Texas
+state: Wyoming
+state: TEXAS
+state: Texas
+state: south texas
+state: Texas
+state: New York
+state: New York
+state: Texas
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: New York
+state: State of New York
+state: California
+state: Montana
+state: California
+state: New York
+state: Texas
+state: NJ
+state: California
+state: California
+state: NY
+state: Ca
+state: Houston
+state: North Carolina
+state: California
+state: California
+state: Pennsylvania
+state: NY
+state: California
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: Tennessee
+state: comparing the California
+state: academic (and California
+state: Florida
+state: California's
+state: NM
+state: Calif
+state: California
+state: California
+state: california
+state: california
+state: DC
+state: California
+state: DC
+state: California
+state: SD
+state: SD
+state: Ontario
+state: Ontario
+state: Houston
+state: Texas
+state: Houston
+state: california
+state: denver
+state: denver
+state: florida
+state: florida
+state: north dakota
+state: new orleans
+state: mississippi
+state: UT
+state: New York
+state: California
+state: SoCal
+state: Louisiana
+state: California
+state: California
+state: Texas
+state: Omaha
+state: California
+state: Georgia
+state: Palm Beach County, Fla
+state: Virginia
+state: Virginia
+state: Georgia
+state: Florida
+state: Georgia
+state: FW
+state: San Antonio
+state: Georgetown
+state: Connecticut
+state: New York
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: Chicago
+state: Illinois
+state: New
+state: NY
+state: Florida
+state: Florida
+state: New York
+state: North Carolina
+state: Hawaiian
+state: Florida
+state: Florida
+state: New York
+state: Montana
+state: CA
+state: Mississippi
+state: CA
+state: Delaware
+state: Florida
+state: Arizona
+state: Conn
+state: Florida
+state: Maryland
+state: GA
+state: Wisconsin
+state: NY
+state: VA
+state: UT
+state: Texas
+state: Texas
+state: Houston
+state: Tennessee
+state: state of NJ
+state: California
+state: NY
+state: New York
+state: Colorado
+state: Wyoming
+state: Wyoming
+state: Texas
+state: Houston
+state: CO
+state: Wyoming
+state: California
+state: North Carolina
+state: North Carolina
+state: SA
+state: Wyoming
+state: Texas
+state: Texas
+state: Arizona
+state: New York
+state: Ark
+state: Tennessee
+state: New England
+state: Chicago?
+state: West Virginia
+state: Colorado
+state: Colorado
+state: Arizona
+state: Arizona
+state: Colorado
+state: Florida
+state: Colorado
+state: Illinois
+state: TEXAS
+state: New Mexico
+state: Minnesota
+state: New Mexico
+state: UT
+state: Arizona
+state: Arizona
+state: New Mexico
+state: New Mexico
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: New York
+state: B.C
+state: Illlinois
+state: New Mexico
+state: New Mexico
+state: New Mexico
+state: New Albany
+state: California
+state: Illinois
+state: Lone Star State
+state: Indiana
+state: Jersey
+state: texas
+state: California
+state: Florida
+state: Hawaii
+state: NY
+state: Calif.
+state: California
+state: New York
+state: CA
+state: California
+state: New York
+state: CA
+state: CA
+state: Texas
+state: Alabama
+state: New York
+state: Minnesota
+state: Colorado
+state: Nebraska
+state: California
+state: Texas
+state: Texas
+state: TX
+state: TX
+state: California
+state: Texas
+state: State of Texas
+state: New York
+state: Charleston
+state: New York
+state: Arkansas
+state: N.Y.
+state: New York
+state: NY
+state: New York
+state: New York
+state: Florida
+state: Arizona
+state: Florida
+state: British Columbia
+state: New York State
+state: Hawaii
+state: Hawaii
+state: HAWAII
+state: Texas
+state: Utah
+state: Utah
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: Houston
+state: NY
+state: NY
+state: NY
+state: California
+state: Michigan
+state: California
+state: Oregon
+state: California
+state: Illinois
+state: MI
+state: Georgia
+state: California
+state: NY
+state: NY
+state: Portland
+state: Texas
+state: California
+state: State of California
+state: Idaho's
+state: Montana
+state: California
+state: California
+state: PA
+state: FL
+state: CA
+state: LA
+state: TX
+state: CA
+state: New York
+state: New York
+state: Texas
+state: DC
+state: California
+state: Tennessee
+state: california
+state: ca
+state: New York
+state: California
+state: Texas
+state: California
+state: CA
+state: NY
+state: Texas
+state: CA
+state: California
+state: Montana
+state: California
+state: California
+state: Florida
+state: California
+state: Texas
+state: Florida
+state: CA
+state: CA
+state: California
+state: California
+state: Louisiana
+state: California
+state: Texas
+state: Texas
+state: TEXAS
+state: Cal
+state: ca
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: connecticutt
+state: Arizona
+state: California
+state: California
+state: California
+state: D.C.
+state: CA
+state: CA
+state: Californian
+state: CA
+state: california's
+state: Colorado.
+state: California
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Texas
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Montana
+state: California
+state: California's
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Colorado
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: New York
+state: California's
+state: California
+state: California
+state: Colorahdee
+state: Colorada
+state: California/Washington/Texas/Alaska/Kansas
+state: California
+state: Idaho
+state: Oregon
+state: Rhode Island
+state: Rhode Island
+state: California
+state: California
+state: California
+state: California
+state: California
+state: MA
+state: MA
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: Texas
+state: California
+state: California
+state: California
+state: California
+state: South Carolina
+state: CA
+state: California
+state: NY
+state: Texas
+state: California
+state: TX
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: Texas
+state: california
+state: California
+state: Wa
+state: Wa
+state: WA
+state: California
+state: Colorado
+state: CA
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: California
+state: California
+state: Houston
+state: California
+state: california
+state: California
+state: california
+state: California
+state: California
+state: Illinois
+state: California
+state: Conneticut
+state: California
+state: Georgia
+state: Texas
+state: New Jersey
+state: Texas
+state: Texas
+state: Alabama
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: UT
+state: Tennessee
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Georgia
+state: Washington DC
+state: Texas
+state: Texas
+state: Louisiana
+state: South Dakota
+state: Texas
+state: New York or D.C
+state: Texas
+state: TX
+state: montana
+state: New Mexico
+state: Minnesota
+state: Washington
+state: California
+state: NY
+state: Texas
+state: West Virginia
+state: Tennessee
+state: Texas
+state: Texas
+state: East Ohio
+state: East Ohio
+state: East Ohio
+state: Ohio
+state: Tennessee
+state: Tennesse
+state: Florida
+state: Florida
+state: Florida
+state: TX
+state: Texas
+state: New York
+state: Tennessee
+state: Tennessee
+state: Colorado
+state: CO
+state: Texas
+state: Kansas
+state: Socal
+state: CA.
+state: California
+state: Portland
+state: Montana
+state: Cali
+state: Cali
+state: Oregon
+state: Idaho
+state: California
+state: Idaho
+state: California
+state: Seattle
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Portland
+state: Houston
+state: Rio Negro
+state: Rio Negro
+state: Washington, D.C.
+state: Texas
+state: C.A
+state: C.A
+state: Fl
+state: Ohio
+state: New York
+state: Ohio
+state: Florida
+state: Cal
+state: Texas
+state: Maine
+state: California
+state: California
+state: Texas
+state: Wyoming
+state: TEXAS
+state: Texas
+state: south texas
+state: Texas
+state: New York
+state: New York
+state: Texas
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: New York
+state: State of New York
+state: California
+state: Montana
+state: California
+state: New York
+state: Texas
+state: NJ
+state: California
+state: California
+state: NY
+state: Ca
+state: Houston
+state: North Carolina
+state: California
+state: California
+state: Pennsylvania
+state: NY
+state: California
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: Tennessee
+state: comparing the California
+state: academic (and California
+state: Florida
+state: California's
+state: NM
+state: Calif
+state: California
+state: California
+state: california
+state: california
+state: DC
+state: California
+state: DC
+state: California
+state: SD
+state: SD
+state: Ontario
+state: Ontario
+state: Houston
+state: Texas
+state: Houston
+state: california
+state: denver
+state: denver
+state: florida
+state: florida
+state: north dakota
+state: new orleans
+state: mississippi
+state: UT
+state: New York
+state: California
+state: SoCal
+state: Louisiana
+state: California
+state: California
+state: Texas
+state: Omaha
+state: California
+state: Georgia
+state: Palm Beach County, Fla
+state: Virginia
+state: Virginia
+state: Georgia
+state: Florida
+state: Georgia
+state: FW
+state: San Antonio
+state: Georgetown
+state: Connecticut
+state: New York
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: Chicago
+state: Illinois
+state: New
+state: NY
+state: Florida
+state: Florida
+state: New York
+state: North Carolina
+state: Hawaiian
+state: Florida
+state: Florida
+state: New York
+state: Montana
+state: CA
+state: Mississippi
+state: CA
+state: Delaware
+state: Florida
+state: Arizona
+state: Conn
+state: Florida
+state: Maryland
+state: GA
+state: Wisconsin
+state: NY
+state: VA
+state: UT
+state: Texas
+state: Texas
+state: Houston
+state: Tennessee
+state: state of NJ
+state: California
+state: NY
+state: New York
+state: Colorado
+state: Wyoming
+state: Wyoming
+state: Texas
+state: Houston
+state: CO
+state: Wyoming
+state: California
+state: North Carolina
+state: North Carolina
+state: SA
+state: Wyoming
+state: Texas
+state: Texas
+state: Arizona
+state: New York
+state: Ark
+state: Tennessee
+state: New England
+state: Chicago?
+state: West Virginia
+state: Colorado
+state: Colorado
+state: Arizona
+state: Arizona
+state: Colorado
+state: Florida
+state: Colorado
+state: Illinois
+state: TEXAS
+state: New Mexico
+state: Minnesota
+state: New Mexico
+state: UT
+state: Arizona
+state: Arizona
+state: New Mexico
+state: New Mexico
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: New York
+state: B.C
+state: Illlinois
+state: New Mexico
+state: New Mexico
+state: New Mexico
+state: New Albany
+state: California
+state: Illinois
+state: Lone Star State
+state: Indiana
+state: Jersey
+state: texas
+state: California
+state: Florida
+state: Hawaii
+state: NY
+state: Calif.
+state: California
+state: New York
+state: CA
+state: California
+state: New York
+state: CA
+state: CA
+state: Texas
+state: Alabama
+state: New York
+state: Minnesota
+state: Colorado
+state: Nebraska
+state: California
+state: Texas
+state: Texas
+state: TX
+state: TX
+state: California
+state: Texas
+state: State of Texas
+state: New York
+state: Charleston
+state: New York
+state: Arkansas
+state: N.Y.
+state: New York
+state: NY
+state: New York
+state: New York
+state: Florida
+state: Arizona
+state: Florida
+state: British Columbia
+state: New York State
+state: Hawaii
+state: Hawaii
+state: HAWAII
+state: Texas
+state: Utah
+state: Utah
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: Houston
+state: NY
+state: NY
+state: NY
+state: California
+state: Michigan
+state: California
+state: Oregon
+state: California
+state: Illinois
+state: MI
+state: Georgia
+state: California
+state: NY
+state: NY
+state: Portland
+state: Texas
+state: California
+state: State of California
+state: Idaho's
+state: Montana
+state: California
+state: California
+state: PA
+state: FL
+state: CA
+state: LA
+state: TX
+state: CA
+state: New York
+state: New York
+state: Texas
+state: DC
+state: California
+state: Tennessee
+state: california
+state: ca
+state: New York
+state: California
+state: Texas
+state: California
+state: CA
+state: NY
+state: Texas
+state: CA
+state: California
+state: Montana
+state: California
+state: California
+state: Florida
+state: California
+state: Texas
+state: Florida
+state: CA
+state: CA
+state: California
+state: California
+state: Louisiana
+state: California
+state: Texas
+state: Texas
+state: TEXAS
+state: Cal
+state: ca
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: connecticutt
+state: Arizona
+state: California
+state: California
+state: California
+state: D.C.
+state: CA
+state: CA
+state: Californian
+state: CA
+state: california's
+state: Colorado.
+state: California
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Texas
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Montana
+state: California
+state: California's
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Colorado
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: New York
+state: California's
+state: California
+state: California
+state: Colorahdee
+state: Colorada
+state: California/Washington/Texas/Alaska/Kansas
+state: California
+state: Idaho
+state: Oregon
+state: Rhode Island
+state: Rhode Island
+state: California
+state: California
+state: California
+state: California
+state: California
+state: MA
+state: MA
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: Texas
+state: California
+state: California
+state: California
+state: California
+state: South Carolina
+state: CA
+state: California
+state: NY
+state: Texas
+state: California
+state: TX
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: Texas
+state: california
+state: California
+state: Wa
+state: Wa
+state: WA
+state: California
+state: Colorado
+state: CA
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: California
+state: California
+state: Houston
+state: California
+state: california
+state: California
+state: california
+state: California
+state: California
+state: Illinois
+state: California
+state: Conneticut
+state: California
+state: Georgia
+state: Texas
+state: New Jersey
+state: Texas
+state: Texas
+state: Alabama
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: UT
+state: Tennessee
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Georgia
+state: Washington DC
+state: Texas
+state: Texas
+state: Louisiana
+state: South Dakota
+state: Texas
+state: New York or D.C
+state: Texas
+state: TX
+state: montana
+state: New Mexico
+state: Minnesota
+state: Washington
+state: California
+state: NY
+state: Texas
+state: West Virginia
+state: Tennessee
+state: Texas
+state: Texas
+state: East Ohio
+state: East Ohio
+state: East Ohio
+state: Ohio
+state: Tennessee
+state: Tennesse
+state: Florida
+state: Florida
+state: Florida
+state: TX
+state: Texas
+state: New York
+state: Tennessee
+state: Tennessee
+state: Colorado
+state: CO
+state: Texas
+state: Kansas
+state: Socal
+state: CA.
+state: California
+state: Portland
+state: Montana
+state: Cali
+state: Cali
+state: Oregon
+state: Idaho
+state: California
+state: Idaho
+state: California
+state: Seattle
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Portland
+state: Houston
+state: Rio Negro
+state: Rio Negro
+state: Washington, D.C.
+state: Texas
+state: C.A
+state: C.A
+state: Fl
+state: Ohio
+state: New York
+state: Ohio
+state: Florida
+state: Cal
+state: Texas
+state: Maine
+state: California
+state: California
+state: Texas
+state: Wyoming
+state: TEXAS
+state: Texas
+state: south texas
+state: Texas
+state: New York
+state: New York
+state: Texas
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: New York
+state: State of New York
+state: California
+state: Montana
+state: California
+state: New York
+state: Texas
+state: NJ
+state: California
+state: California
+state: NY
+state: Ca
+state: Houston
+state: North Carolina
+state: California
+state: California
+state: Pennsylvania
+state: NY
+state: California
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: Tennessee
+state: comparing the California
+state: academic (and California
+state: Florida
+state: California's
+state: NM
+state: Calif
+state: California
+state: California
+state: california
+state: california
+state: DC
+state: California
+state: DC
+state: California
+state: SD
+state: SD
+state: Ontario
+state: Ontario
+state: Houston
+state: Texas
+state: Houston
+state: california
+state: denver
+state: denver
+state: florida
+state: florida
+state: north dakota
+state: new orleans
+state: mississippi
+state: UT
+state: New York
+state: California
+state: SoCal
+state: Louisiana
+state: California
+state: California
+state: Texas
+state: Omaha
+state: California
+state: Georgia
+state: Palm Beach County, Fla
+state: Virginia
+state: Virginia
+state: Georgia
+state: Florida
+state: Georgia
+state: FW
+state: San Antonio
+state: Georgetown
+state: Connecticut
+state: New York
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: Chicago
+state: Illinois
+state: New
+state: NY
+state: Florida
+state: Florida
+state: New York
+state: North Carolina
+state: Hawaiian
+state: Florida
+state: Florida
+state: New York
+state: Montana
+state: CA
+state: Mississippi
+state: CA
+state: Delaware
+state: Florida
+state: Arizona
+state: Conn
+state: Florida
+state: Maryland
+state: GA
+state: Wisconsin
+state: NY
+state: VA
+state: UT
+state: Texas
+state: Texas
+state: Houston
+state: Tennessee
+state: state of NJ
+state: California
+state: NY
+state: New York
+state: Colorado
+state: Wyoming
+state: Wyoming
+state: Texas
+state: Houston
+state: CO
+state: Wyoming
+state: California
+state: North Carolina
+state: North Carolina
+state: SA
+state: Wyoming
+state: Texas
+state: Texas
+state: Arizona
+state: New York
+state: Ark
+state: Tennessee
+state: New England
+state: Chicago?
+state: West Virginia
+state: Colorado
+state: Colorado
+state: Arizona
+state: Arizona
+state: Colorado
+state: Florida
+state: Colorado
+state: Illinois
+state: TEXAS
+state: New Mexico
+state: Minnesota
+state: New Mexico
+state: UT
+state: Arizona
+state: Arizona
+state: New Mexico
+state: New Mexico
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: New York
+state: B.C
+state: Illlinois
+state: New Mexico
+state: New Mexico
+state: New Mexico
+state: New Albany
+state: California
+state: Illinois
+state: Lone Star State
+state: Indiana
+state: Jersey
+state: texas
+state: California
+state: Florida
+state: Hawaii
+state: NY
+state: Calif.
+state: California
+state: New York
+state: CA
+state: California
+state: New York
+state: CA
+state: CA
+state: Texas
+state: Alabama
+state: New York
+state: Minnesota
+state: Colorado
+state: Nebraska
+state: California
+state: Texas
+state: Texas
+state: TX
+state: TX
+state: California
+state: Texas
+state: State of Texas
+state: New York
+state: Charleston
+state: New York
+state: Arkansas
+state: N.Y.
+state: New York
+state: NY
+state: New York
+state: New York
+state: Florida
+state: Arizona
+state: Florida
+state: British Columbia
+state: New York State
+state: Hawaii
+state: Hawaii
+state: HAWAII
+state: Texas
+state: Utah
+state: Utah
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: Houston
+state: NY
+state: NY
+state: NY
+state: California
+state: Michigan
+state: California
+state: Oregon
+state: California
+state: Illinois
+state: MI
+state: Georgia
+state: California
+state: NY
+state: NY
+state: Portland
+state: Texas
+state: California
+state: State of California
+state: Idaho's
+state: Montana
+state: California
+state: California
+state: PA
+state: FL
+state: CA
+state: LA
+state: TX
+state: CA
+state: New York
+state: New York
+state: Texas
+state: DC
+state: California
+state: Tennessee
+state: california
+state: ca
+state: New York
+state: California
+state: Texas
+state: California
+state: CA
+state: NY
+state: Texas
+state: CA
+state: California
+state: Montana
+state: California
+state: California
+state: Florida
+state: California
+state: Texas
+state: Florida
+state: CA
+state: CA
+state: California
+state: California
+state: Louisiana
+state: California
+state: Texas
+state: Texas
+state: TEXAS
+state: Cal
+state: ca
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: connecticutt
+state: Arizona
+state: California
+state: California
+state: California
+state: D.C.
+state: CA
+state: CA
+state: Californian
+state: CA
+state: california's
+state: Colorado.
+state: California
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Texas
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Montana
+state: California
+state: California's
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Colorado
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: New York
+state: California's
+state: California
+state: California
+state: Colorahdee
+state: Colorada
+state: California/Washington/Texas/Alaska/Kansas
+state: California
+state: Idaho
+state: Oregon
+state: Rhode Island
+state: Rhode Island
+state: California
+state: California
+state: California
+state: California
+state: California
+state: MA
+state: MA
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: Texas
+state: California
+state: California
+state: California
+state: California
+state: South Carolina
+state: CA
+state: California
+state: NY
+state: Texas
+state: California
+state: TX
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: Texas
+state: california
+state: California
+state: Wa
+state: Wa
+state: WA
+state: California
+state: Colorado
+state: CA
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: California
+state: California
+state: Houston
+state: California
+state: california
+state: California
+state: california
+state: California
+state: California
+state: Illinois
+state: California
+state: Conneticut
+state: California
+state: Georgia
+state: Texas
+state: New Jersey
+state: Texas
+state: Texas
+state: Alabama
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: UT
+state: Tennessee
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Georgia
+state: Washington DC
+state: Texas
+state: Texas
+state: Louisiana
+state: South Dakota
+state: Texas
+state: New York or D.C
+state: Texas
+state: TX
+state: montana
+state: New Mexico
+state: Minnesota
+state: Washington
+state: California
+state: NY
+state: Texas
+state: West Virginia
+state: Tennessee
+state: Texas
+state: Texas
+state: East Ohio
+state: East Ohio
+state: East Ohio
+state: Ohio
+state: Tennessee
+state: Tennesse
+state: Florida
+state: Florida
+state: Florida
+state: TX
+state: Texas
+state: New York
+state: Tennessee
+state: Tennessee
+state: Colorado
+state: CO
+state: Texas
+state: Kansas
+state: Socal
+state: CA.
+state: California
+state: Portland
+state: Montana
+state: Cali
+state: Cali
+state: Oregon
+state: Idaho
+state: California
+state: Idaho
+state: California
+state: Seattle
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Portland
+state: Houston
+state: Rio Negro
+state: Rio Negro
+state: Washington, D.C.
+state: Texas
+state: C.A
+state: C.A
+state: Fl
+state: Ohio
+state: New York
+state: Ohio
+state: Florida
+state: Cal
+state: Texas
+state: Maine
+state: California
+state: California
+state: Texas
+state: Wyoming
+state: TEXAS
+state: Texas
+state: south texas
+state: Texas
+state: New York
+state: New York
+state: Texas
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: New York
+state: State of New York
+state: California
+state: Montana
+state: California
+state: New York
+state: Texas
+state: NJ
+state: California
+state: California
+state: NY
+state: Ca
+state: Houston
+state: North Carolina
+state: California
+state: California
+state: Pennsylvania
+state: NY
+state: California
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: Tennessee
+state: comparing the California
+state: academic (and California
+state: Florida
+state: California's
+state: NM
+state: Calif
+state: California
+state: California
+state: california
+state: california
+state: DC
+state: California
+state: DC
+state: California
+state: SD
+state: SD
+state: Ontario
+state: Ontario
+state: Houston
+state: Texas
+state: Houston
+state: california
+state: denver
+state: denver
+state: florida
+state: florida
+state: north dakota
+state: new orleans
+state: mississippi
+state: UT
+state: New York
+state: California
+state: SoCal
+state: Louisiana
+state: California
+state: California
+state: Texas
+state: Omaha
+state: California
+state: Georgia
+state: Palm Beach County, Fla
+state: Virginia
+state: Virginia
+state: Georgia
+state: Florida
+state: Georgia
+state: FW
+state: San Antonio
+state: Georgetown
+state: Connecticut
+state: New York
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: Chicago
+state: Illinois
+state: New
+state: NY
+state: Florida
+state: Florida
+state: New York
+state: North Carolina
+state: Hawaiian
+state: Florida
+state: Florida
+state: New York
+state: Montana
+state: CA
+state: Mississippi
+state: CA
+state: Delaware
+state: Florida
+state: Arizona
+state: Conn
+state: Florida
+state: Maryland
+state: GA
+state: Wisconsin
+state: NY
+state: VA
+state: UT
+state: Texas
+state: Texas
+state: Houston
+state: Tennessee
+state: state of NJ
+state: California
+state: NY
+state: New York
+state: Colorado
+state: Wyoming
+state: Wyoming
+state: Texas
+state: Houston
+state: CO
+state: Wyoming
+state: California
+state: North Carolina
+state: North Carolina
+state: SA
+state: Wyoming
+state: Texas
+state: Texas
+state: Arizona
+state: New York
+state: Ark
+state: Tennessee
+state: New England
+state: Chicago?
+state: West Virginia
+state: Colorado
+state: Colorado
+state: Arizona
+state: Arizona
+state: Colorado
+state: Florida
+state: Colorado
+state: Illinois
+state: TEXAS
+state: New Mexico
+state: Minnesota
+state: New Mexico
+state: UT
+state: Arizona
+state: Arizona
+state: New Mexico
+state: New Mexico
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: New York
+state: B.C
+state: Illlinois
+state: New Mexico
+state: New Mexico
+state: New Mexico
+state: New Albany
+state: California
+state: Illinois
+state: Lone Star State
+state: Indiana
+state: Jersey
+state: texas
+state: California
+state: Florida
+state: Hawaii
+state: NY
+state: Calif.
+state: California
+state: New York
+state: CA
+state: California
+state: New York
+state: CA
+state: CA
+state: Texas
+state: Alabama
+state: New York
+state: Minnesota
+state: Colorado
+state: Nebraska
+state: California
+state: Texas
+state: Texas
+state: TX
+state: TX
+state: California
+state: Texas
+state: State of Texas
+state: New York
+state: Charleston
+state: New York
+state: Arkansas
+state: N.Y.
+state: New York
+state: NY
+state: New York
+state: New York
+state: Florida
+state: Arizona
+state: Florida
+state: British Columbia
+state: New York State
+state: Hawaii
+state: Hawaii
+state: HAWAII
+state: Texas
+state: Utah
+state: Utah
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: Houston
+state: NY
+state: NY
+state: NY
+state: California
+state: Michigan
+state: California
+state: Oregon
+state: California
+state: Illinois
+state: MI
+state: Georgia
+state: California
+state: NY
+state: NY
+state: Portland
+state: Texas
+state: California
+state: State of California
+state: Idaho's
+state: Montana
+state: California
+state: California
+state: PA
+state: FL
+state: CA
+state: LA
+state: TX
+state: CA
+state: New York
+state: New York
+state: Texas
+state: DC
+state: California
+state: Tennessee
+state: california
+state: ca
+state: New York
+state: California
+state: Texas
+state: California
+state: CA
+state: NY
+state: Texas
+state: CA
+state: California
+state: Montana
+state: California
+state: California
+state: Florida
+state: California
+state: Texas
+state: Florida
+state: CA
+state: CA
+state: California
+state: California
+state: Louisiana
+state: California
+state: Texas
+state: Texas
+state: TEXAS
+state: Cal
+state: ca
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: connecticutt
+state: Arizona
+state: California
+state: California
+state: California
+state: D.C.
+state: CA
+state: CA
+state: Californian
+state: CA
+state: california's
+state: Colorado.
+state: California
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Texas
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Montana
+state: California
+state: California's
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Colorado
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: New York
+state: California's
+state: California
+state: California
+state: Colorahdee
+state: Colorada
+state: California/Washington/Texas/Alaska/Kansas
+state: California
+state: Idaho
+state: Oregon
+state: Rhode Island
+state: Rhode Island
+state: California
+state: California
+state: California
+state: California
+state: California
+state: MA
+state: MA
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: Texas
+state: California
+state: California
+state: California
+state: California
+state: South Carolina
+state: CA
+state: California
+state: NY
+state: Texas
+state: California
+state: TX
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: Texas
+state: california
+state: California
+state: Wa
+state: Wa
+state: WA
+state: California
+state: Colorado
+state: CA
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: California
+state: California
+state: Houston
+state: California
+state: california
+state: California
+state: california
+state: California
+state: California
+state: Illinois
+state: California
+state: Conneticut
+state: California
+state: Georgia
+state: Texas
+state: New Jersey
+state: Texas
+state: Texas
+state: Alabama
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: UT
+state: Tennessee
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Georgia
+state: Washington DC
+state: Texas
+state: Texas
+state: Louisiana
+state: South Dakota
+state: Texas
+state: New York or D.C
+state: Texas
+state: TX
+state: montana
+state: New Mexico
+state: Minnesota
+state: Washington
+state: California
+state: NY
+state: Texas
+state: West Virginia
+state: Tennessee
+state: Texas
+state: Texas
+state: East Ohio
+state: East Ohio
+state: East Ohio
+state: Ohio
+state: Tennessee
+state: Tennesse
+state: Florida
+state: Florida
+state: Florida
+state: TX
+state: Texas
+state: New York
+state: Tennessee
+state: Tennessee
+state: Colorado
+state: CO
+state: Texas
+state: Kansas
+state: Socal
+state: CA.
+state: California
+state: Portland
+state: Montana
+state: Cali
+state: Cali
+state: Oregon
+state: Idaho
+state: California
+state: Idaho
+state: California
+state: Seattle
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Portland
+state: Houston
+state: Rio Negro
+state: Rio Negro
+state: Washington, D.C.
+state: Texas
+state: C.A
+state: C.A
+state: Fl
+state: Ohio
+state: New York
+state: Ohio
+state: Florida
+state: Cal
+state: Texas
+state: Maine
+state: California
+state: California
+state: Texas
+state: Wyoming
+state: TEXAS
+state: Texas
+state: south texas
+state: Texas
+state: New York
+state: New York
+state: Texas
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: New York
+state: State of New York
+state: California
+state: Montana
+state: California
+state: New York
+state: Texas
+state: NJ
+state: California
+state: California
+state: NY
+state: Ca
+state: Houston
+state: North Carolina
+state: California
+state: California
+state: Pennsylvania
+state: NY
+state: California
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: Tennessee
+state: comparing the California
+state: academic (and California
+state: Florida
+state: California's
+state: NM
+state: Calif
+state: California
+state: California
+state: california
+state: california
+state: DC
+state: California
+state: DC
+state: California
+state: SD
+state: SD
+state: Ontario
+state: Ontario
+state: Houston
+state: Texas
+state: Houston
+state: california
+state: denver
+state: denver
+state: florida
+state: florida
+state: north dakota
+state: new orleans
+state: mississippi
+state: UT
+state: New York
+state: California
+state: SoCal
+state: Louisiana
+state: California
+state: California
+state: Texas
+state: Omaha
+state: California
+state: Georgia
+state: Palm Beach County, Fla
+state: Virginia
+state: Virginia
+state: Georgia
+state: Florida
+state: Georgia
+state: FW
+state: San Antonio
+state: Georgetown
+state: Connecticut
+state: New York
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: Chicago
+state: Illinois
+state: New
+state: NY
+state: Florida
+state: Florida
+state: New York
+state: North Carolina
+state: Hawaiian
+state: Florida
+state: Florida
+state: New York
+state: Montana
+state: CA
+state: Mississippi
+state: CA
+state: Delaware
+state: Florida
+state: Arizona
+state: Conn
+state: Florida
+state: Maryland
+state: GA
+state: Wisconsin
+state: NY
+state: VA
+state: UT
+state: Texas
+state: Texas
+state: Houston
+state: Tennessee
+state: state of NJ
+state: California
+state: NY
+state: New York
+state: Colorado
+state: Wyoming
+state: Wyoming
+state: Texas
+state: Houston
+state: CO
+state: Wyoming
+state: California
+state: North Carolina
+state: North Carolina
+state: SA
+state: Wyoming
+state: Texas
+state: Texas
+state: Arizona
+state: New York
+state: Ark
+state: Tennessee
+state: New England
+state: Chicago?
+state: West Virginia
+state: Colorado
+state: Colorado
+state: Arizona
+state: Arizona
+state: Colorado
+state: Florida
+state: Colorado
+state: Illinois
+state: TEXAS
+state: New Mexico
+state: Minnesota
+state: New Mexico
+state: UT
+state: Arizona
+state: Arizona
+state: New Mexico
+state: New Mexico
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: New York
+state: B.C
+state: Illlinois
+state: New Mexico
+state: New Mexico
+state: New Mexico
+state: New Albany
+state: California
+state: Illinois
+state: Lone Star State
+state: Indiana
+state: Jersey
+state: texas
+state: California
+state: Florida
+state: Hawaii
+state: NY
+state: Calif.
+state: California
+state: New York
+state: CA
+state: California
+state: New York
+state: CA
+state: CA
+state: Texas
+state: Alabama
+state: New York
+state: Minnesota
+state: Colorado
+state: Nebraska
+state: California
+state: Texas
+state: Texas
+state: TX
+state: TX
+state: California
+state: Texas
+state: State of Texas
+state: New York
+state: Charleston
+state: New York
+state: Arkansas
+state: N.Y.
+state: New York
+state: NY
+state: New York
+state: New York
+state: Florida
+state: Arizona
+state: Florida
+state: British Columbia
+state: New York State
+state: Hawaii
+state: Hawaii
+state: HAWAII
+state: Texas
+state: Utah
+state: Utah
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: Houston
+state: NY
+state: NY
+state: NY
+state: California
+state: Michigan
+state: California
+state: Oregon
+state: California
+state: Illinois
+state: MI
+state: Georgia
+state: California
+state: NY
+state: NY
+state: Portland
+state: Texas
+state: California
+state: State of California
+state: Idaho's
+state: Montana
+state: California
+state: California
+state: PA
+state: FL
+state: CA
+state: LA
+state: TX
+state: CA
+state: New York
+state: New York
+state: Texas
+state: DC
+state: California
+state: Tennessee
+state: california
+state: ca
+state: New York
+state: California
+state: Texas
+state: California
+state: CA
+state: NY
+state: Texas
+state: CA
+state: California
+state: Montana
+state: California
+state: California
+state: Florida
+state: California
+state: Texas
+state: Florida
+state: CA
+state: CA
+state: California
+state: California
+state: Louisiana
+state: California
+state: Texas
+state: Texas
+state: TEXAS
+state: Cal
+state: ca
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: connecticutt
+state: Arizona
+state: California
+state: California
+state: California
+state: D.C.
+state: CA
+state: CA
+state: Californian
+state: CA
+state: california's
+state: Colorado.
+state: California
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Texas
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Montana
+state: California
+state: California's
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Colorado
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: New York
+state: California's
+state: California
+state: California
+state: Colorahdee
+state: Colorada
+state: California/Washington/Texas/Alaska/Kansas
+state: California
+state: Idaho
+state: Oregon
+state: Rhode Island
+state: Rhode Island
+state: California
+state: California
+state: California
+state: California
+state: California
+state: MA
+state: MA
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: Texas
+state: California
+state: California
+state: California
+state: California
+state: South Carolina
+state: CA
+state: California
+state: NY
+state: Texas
+state: California
+state: TX
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: Texas
+state: california
+state: California
+state: Wa
+state: Wa
+state: WA
+state: California
+state: Colorado
+state: CA
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: California
+state: California
+state: Houston
+state: California
+state: california
+state: California
+state: california
+state: California
+state: California
+state: Illinois
+state: California
+state: Conneticut
+state: California
+state: Georgia
+state: Texas
+state: New Jersey
+state: Texas
+state: Texas
+state: Alabama
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: UT
+state: Tennessee
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Georgia
+state: Washington DC
+state: Texas
+state: Texas
+state: Louisiana
+state: South Dakota
+state: Texas
+state: New York or D.C
+state: Texas
+state: TX
+state: montana
+state: New Mexico
+state: Minnesota
+state: Washington
+state: California
+state: NY
+state: Texas
+state: West Virginia
+state: Tennessee
+state: Texas
+state: Texas
+state: East Ohio
+state: East Ohio
+state: East Ohio
+state: Ohio
+state: Tennessee
+state: Tennesse
+state: Florida
+state: Florida
+state: Florida
+state: TX
+state: Texas
+state: New York
+state: Tennessee
+state: Tennessee
+state: Colorado
+state: CO
+state: Texas
+state: Kansas
+state: Socal
+state: CA.
+state: California
+state: Portland
+state: Montana
+state: Cali
+state: Cali
+state: Oregon
+state: Idaho
+state: California
+state: Idaho
+state: California
+state: Seattle
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Portland
+state: Houston
+state: Rio Negro
+state: Rio Negro
+state: Washington, D.C.
+state: Texas
+state: C.A
+state: C.A
+state: Fl
+state: Ohio
+state: New York
+state: Ohio
+state: Florida
+state: Cal
+state: Texas
+state: Maine
+state: California
+state: California
+state: Texas
+state: Wyoming
+state: TEXAS
+state: Texas
+state: south texas
+state: Texas
+state: New York
+state: New York
+state: Texas
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: New York
+state: State of New York
+state: California
+state: Montana
+state: California
+state: New York
+state: Texas
+state: NJ
+state: California
+state: California
+state: NY
+state: Ca
+state: Houston
+state: North Carolina
+state: California
+state: California
+state: Pennsylvania
+state: NY
+state: California
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: Tennessee
+state: comparing the California
+state: academic (and California
+state: Florida
+state: California's
+state: NM
+state: Calif
+state: California
+state: California
+state: california
+state: california
+state: DC
+state: California
+state: DC
+state: California
+state: SD
+state: SD
+state: Ontario
+state: Ontario
+state: Houston
+state: Texas
+state: Houston
+state: california
+state: denver
+state: denver
+state: florida
+state: florida
+state: north dakota
+state: new orleans
+state: mississippi
+state: UT
+state: New York
+state: California
+state: SoCal
+state: Louisiana
+state: California
+state: California
+state: Texas
+state: Omaha
+state: California
+state: Georgia
+state: Palm Beach County, Fla
+state: Virginia
+state: Virginia
+state: Georgia
+state: Florida
+state: Georgia
+state: FW
+state: San Antonio
+state: Georgetown
+state: Connecticut
+state: New York
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: Chicago
+state: Illinois
+state: New
+state: NY
+state: Florida
+state: Florida
+state: New York
+state: North Carolina
+state: Hawaiian
+state: Florida
+state: Florida
+state: New York
+state: Montana
+state: CA
+state: Mississippi
+state: CA
+state: Delaware
+state: Florida
+state: Arizona
+state: Conn
+state: Florida
+state: Maryland
+state: GA
+state: Wisconsin
+state: NY
+state: VA
+state: UT
+state: Texas
+state: Texas
+state: Houston
+state: Tennessee
+state: state of NJ
+state: California
+state: NY
+state: New York
+state: Colorado
+state: Wyoming
+state: Wyoming
+state: Texas
+state: Houston
+state: CO
+state: Wyoming
+state: California
+state: North Carolina
+state: North Carolina
+state: SA
+state: Wyoming
+state: Texas
+state: Texas
+state: Arizona
+state: New York
+state: Ark
+state: Tennessee
+state: New England
+state: Chicago?
+state: West Virginia
+state: Colorado
+state: Colorado
+state: Arizona
+state: Arizona
+state: Colorado
+state: Florida
+state: Colorado
+state: Illinois
+state: TEXAS
+state: New Mexico
+state: Minnesota
+state: New Mexico
+state: UT
+state: Arizona
+state: Arizona
+state: New Mexico
+state: New Mexico
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: New York
+state: B.C
+state: Illlinois
+state: New Mexico
+state: New Mexico
+state: New Mexico
+state: New Albany
+state: California
+state: Illinois
+state: Lone Star State
+state: Indiana
+state: Jersey
+state: texas
+state: California
+state: Florida
+state: Hawaii
+state: NY
+state: Calif.
+state: California
+state: New York
+state: CA
+state: California
+state: New York
+state: CA
+state: CA
+state: Texas
+state: Alabama
+state: New York
+state: Minnesota
+state: Colorado
+state: Nebraska
+state: California
+state: Texas
+state: Texas
+state: TX
+state: TX
+state: California
+state: Texas
+state: State of Texas
+state: New York
+state: Charleston
+state: New York
+state: Arkansas
+state: N.Y.
+state: New York
+state: NY
+state: New York
+state: New York
+state: Florida
+state: Arizona
+state: Florida
+state: British Columbia
+state: New York State
+state: Hawaii
+state: Hawaii
+state: HAWAII
+state: Texas
+state: Utah
+state: Utah
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: Houston
+state: NY
+state: NY
+state: NY
+state: California
+state: Michigan
+state: California
+state: Oregon
+state: California
+state: Illinois
+state: MI
+state: Georgia
+state: California
+state: NY
+state: NY
+state: Portland
+state: Texas
+state: California
+state: State of California
+state: Idaho's
+state: Montana
+state: California
+state: California
+state: PA
+state: FL
+state: CA
+state: LA
+state: TX
+state: CA
+state: New York
+state: New York
+state: Texas
+state: DC
+state: California
+state: Tennessee
+state: california
+state: ca
+state: New York
+state: California
+state: Texas
+state: California
+state: CA
+state: NY
+state: Texas
+state: CA
+state: California
+state: Montana
+state: California
+state: California
+state: Florida
+state: California
+state: Texas
+state: Florida
+state: CA
+state: CA
+state: California
+state: California
+state: Louisiana
+state: California
+state: Texas
+state: Texas
+state: TEXAS
+state: Cal
+state: ca
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: connecticutt
+state: Arizona
+state: California
+state: California
+state: California
+state: D.C.
+state: CA
+state: CA
+state: Californian
+state: CA
+state: california's
+state: Colorado.
+state: California
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Texas
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Montana
+state: California
+state: California's
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Colorado
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: New York
+state: California's
+state: California
+state: California
+state: Colorahdee
+state: Colorada
+state: California/Washington/Texas/Alaska/Kansas
+state: California
+state: Idaho
+state: Oregon
+state: Rhode Island
+state: Rhode Island
+state: California
+state: California
+state: California
+state: California
+state: California
+state: MA
+state: MA
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: Texas
+state: California
+state: California
+state: California
+state: California
+state: South Carolina
+state: CA
+state: California
+state: NY
+state: Texas
+state: California
+state: TX
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: Texas
+state: california
+state: California
+state: Wa
+state: Wa
+state: WA
+state: California
+state: Colorado
+state: CA
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: California
+state: California
+state: Houston
+state: California
+state: california
+state: California
+state: california
+state: California
+state: California
+state: Illinois
+state: California
+state: Conneticut
+state: California
+state: Georgia
+state: Texas
+state: New Jersey
+state: Texas
+state: Texas
+state: Alabama
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: UT
+state: Tennessee
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Georgia
+state: Washington DC
+state: Texas
+state: Texas
+state: Louisiana
+state: South Dakota
+state: Texas
+state: New York or D.C
+state: Texas
+state: TX
+state: montana
+state: New Mexico
+state: Minnesota
+state: Washington
+state: California
+state: NY
+state: Texas
+state: West Virginia
+state: Tennessee
+state: Texas
+state: Texas
+state: East Ohio
+state: East Ohio
+state: East Ohio
+state: Ohio
+state: Tennessee
+state: Tennesse
+state: Florida
+state: Florida
+state: Florida
+state: TX
+state: Texas
+state: New York
+state: Tennessee
+state: Tennessee
+state: Colorado
+state: CO
+state: Texas
+state: Kansas
+state: Socal
+state: CA.
+state: California
+state: Portland
+state: Montana
+state: Cali
+state: Cali
+state: Oregon
+state: Idaho
+state: California
+state: Idaho
+state: California
+state: Seattle
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Portland
+state: Houston
+state: Rio Negro
+state: Rio Negro
+state: Washington, D.C.
+state: Texas
+state: C.A
+state: C.A
+state: Fl
+state: Ohio
+state: New York
+state: Ohio
+state: Florida
+state: Cal
+state: Texas
+state: Maine
+state: California
+state: California
+state: Texas
+state: Wyoming
+state: TEXAS
+state: Texas
+state: south texas
+state: Texas
+state: New York
+state: New York
+state: Texas
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: New York
+state: State of New York
+state: California
+state: Montana
+state: California
+state: New York
+state: Texas
+state: NJ
+state: California
+state: California
+state: NY
+state: Ca
+state: Houston
+state: North Carolina
+state: California
+state: California
+state: Pennsylvania
+state: NY
+state: California
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: Tennessee
+state: comparing the California
+state: academic (and California
+state: Florida
+state: California's
+state: NM
+state: Calif
+state: California
+state: California
+state: california
+state: california
+state: DC
+state: California
+state: DC
+state: California
+state: SD
+state: SD
+state: Ontario
+state: Ontario
+state: Houston
+state: Texas
+state: Houston
+state: california
+state: denver
+state: denver
+state: florida
+state: florida
+state: north dakota
+state: new orleans
+state: mississippi
+state: UT
+state: New York
+state: California
+state: SoCal
+state: Louisiana
+state: California
+state: California
+state: Texas
+state: Omaha
+state: California
+state: Georgia
+state: Palm Beach County, Fla
+state: Virginia
+state: Virginia
+state: Georgia
+state: Florida
+state: Georgia
+state: FW
+state: San Antonio
+state: Georgetown
+state: Connecticut
+state: New York
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: CA
+state: Chicago
+state: Illinois
+state: New
+state: NY
+state: Florida
+state: Florida
+state: New York
+state: North Carolina
+state: Hawaiian
+state: Florida
+state: Florida
+state: New York
+state: Montana
+state: CA
+state: Mississippi
+state: CA
+state: Delaware
+state: Florida
+state: Arizona
+state: Conn
+state: Florida
+state: Maryland
+state: GA
+state: Wisconsin
+state: NY
+state: VA
+state: UT
+state: Texas
+state: Texas
+state: Houston
+state: Tennessee
+state: state of NJ
+state: California
+state: NY
+state: New York
+state: Colorado
+state: Wyoming
+state: Wyoming
+state: Texas
+state: Houston
+state: CO
+state: Wyoming
+state: California
+state: North Carolina
+state: North Carolina
+state: SA
+state: Wyoming
+state: Texas
+state: Texas
+state: Arizona
+state: New York
+state: Ark
+state: Tennessee
+state: New England
+state: Chicago?
+state: West Virginia
+state: Colorado
+state: Colorado
+state: Arizona
+state: Arizona
+state: Colorado
+state: Florida
+state: Colorado
+state: Illinois
+state: TEXAS
+state: New Mexico
+state: Minnesota
+state: New Mexico
+state: UT
+state: Arizona
+state: Arizona
+state: New Mexico
+state: New Mexico
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: New York
+state: B.C
+state: Illlinois
+state: New Mexico
+state: New Mexico
+state: New Mexico
+state: New Albany
+state: California
+state: Illinois
+state: Lone Star State
+state: Indiana
+state: Jersey
+state: texas
+state: California
+state: Florida
+state: Hawaii
+state: NY
+state: Calif.
+state: California
+state: New York
+state: CA
+state: California
+state: New York
+state: CA
+state: CA
+state: Texas
+state: Alabama
+state: New York
+state: Minnesota
+state: Colorado
+state: Nebraska
+state: California
+state: Texas
+state: Texas
+state: TX
+state: TX
+state: California
+state: Texas
+state: State of Texas
+state: New York
+state: Charleston
+state: New York
+state: Arkansas
+state: N.Y.
+state: New York
+state: NY
+state: New York
+state: New York
+state: Florida
+state: Arizona
+state: Florida
+state: British Columbia
+state: New York State
+state: Hawaii
+state: Hawaii
+state: HAWAII
+state: Texas
+state: Utah
+state: Utah
+state: NY
+state: Houston
+state: Houston
+state: New York
+state: Houston
+state: NY
+state: NY
+state: NY
+state: California
+state: Michigan
+state: California
+state: Oregon
+state: California
+state: Illinois
+state: MI
+state: Georgia
+state: California
+state: NY
+state: NY
+state: Portland
+state: Texas
+state: California
+state: State of California
+state: Idaho's
+state: Montana
+state: California
+state: California
+state: PA
+state: FL
+state: CA
+state: LA
+state: TX
+state: CA
+state: New York
+state: New York
+state: Texas
+state: DC
+state: California
+state: Tennessee
+state: california
+state: ca
+state: New York
+state: California
+state: Texas
+state: California
+state: CA
+state: NY
+state: Texas
+state: CA
+state: California
+state: Montana
+state: California
+state: California
+state: Florida
+state: California
+state: Texas
+state: Florida
+state: CA
+state: CA
+state: California
+state: California
+state: Louisiana
+state: California
+state: Texas
+state: Texas
+state: TEXAS
+state: Cal
+state: ca
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: connecticutt
+state: Arizona
+state: California
+state: California
+state: California
+state: D.C.
+state: CA
+state: CA
+state: Californian
+state: CA
+state: california's
+state: Colorado.
+state: California
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Texas
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Montana
+state: California
+state: California's
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Colorado
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: New York
+state: California's
+state: California
+state: California
+state: Colorahdee
+state: Colorada
+state: California/Washington/Texas/Alaska/Kansas
+state: California
+state: Idaho
+state: Oregon
+state: Rhode Island
+state: Rhode Island
+state: California
+state: California
+state: California
+state: California
+state: California
+state: MA
+state: MA
+state: California
+state: california
+state: California
+state: California
+state: California
+state: California
+state: CA
+state: California
+state: Texas
+state: California
+state: California
+state: California
+state: California
+state: South Carolina
+state: CA
+state: California
+state: NY
+state: Texas
+state: California
+state: TX
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: Texas
+state: california
+state: California
+state: Wa
+state: Wa
+state: WA
+state: California
+state: Colorado
+state: CA
+state: California
+state: California
+state: CA
+state: California
+state: California
+state: California
+state: California
+state: Arizona
+state: California
+state: California
+state: California
+state: Houston
+state: California
+state: california
+state: California
+state: california
+state: California
+state: California
+state: Illinois
+state: California
+state: Conneticut
+state: California
+state: Georgia
+state: Texas
+state: New Jersey
+state: Texas
+state: Texas
+state: Alabama
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: UT
+state: Tennessee
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Texas
+state: Georgia
+state: Washington DC
+state: Texas
+state: Texas
+state: Louisiana
+state: South Dakota
+state: Texas
+state: New York or D.C
+state: Texas
+state: TX
+state: montana
+state: New Mexico
+state: Minnesota
+state: Washington
+state: California
+state: NY
+state: Texas
+state: West Virginia
+state: Tennessee
+state: Texas
+state: Texas
+state: East Ohio
+state: East Ohio
+state: East Ohio
+state: Ohio
+state: Tennessee
+state: Tennesse
+state: Florida
+state: Florida
+state: Florida
+state: TX
+state: Texas
+state: New York
+state: Tennessee
+state: Tennessee
+state: Colorado
+state: CO
+state: Texas
+state: Kansas
+state: Socal
+state: CA.
+state: California
+state: Portland
+state: Montana
+state: Cali
+state: Cali
+state: Oregon
+state: Idaho
+state: California
+state: Idaho
+state: California
+state: Seattle
+state: California
+state: California
+state: California
+state: California
+state: California
+state: Portland
+state: Houston
+state: Rio Negro
+state: Rio Negro
+state: Washington, D.C.
+state: Texas
+state: C.A
+state: C.A
+state: Fl
+state: Ohio
+state: New York
+state: Ohio
+state: Florida
+state: Cal
+state: Texas
+state: Maine
+state: California
+state: California
+state: Texas
+state: Wyoming
+state: TEXAS
+state: Texas
+state: south texas
+state: Texas
+state: New York
+state: New York

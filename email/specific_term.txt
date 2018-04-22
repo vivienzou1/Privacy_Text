@@ -1,0 +1,190 @@
+template: Nat Gas/Liquids-Financial
+statisticaltechnique: VAR
+datafeed: data feed from an MG system called Mercur.
+INTERNETTYPE: DSL
+ITIssues: major e-mail problems as a result of the mirgration
+networkaddress: O:Corpdev/Gtg/Deals/Newlist
+computerprogram: lotus notes application
+computerprogram: lotus notes
+technicalterm: EEI
+technicalterm: PG&E
+technicalterm: EEI
+businessjargon: EOB filing
+equation: Contractual Availability = (TO - DT - RT -MT)/(TO - LOT - MTprorated) * 100%
+networkaddress: R: drive
+terminology: retrurns on invested capital
+terminology: Return on equity
+terminology: on-balance sheet
+terminology: return on equity
+terminology: IBIT
+template: Nat Gas/Liquids-Financial
+statisticaltechnique: VAR
+datafeed: data feed from an MG system called Mercur.
+INTERNETTYPE: DSL
+ITIssues: major e-mail problems as a result of the mirgration
+networkaddress: O:Corpdev/Gtg/Deals/Newlist
+computerprogram: lotus notes application
+computerprogram: lotus notes
+technicalterm: EEI
+technicalterm: PG&E
+technicalterm: EEI
+businessjargon: EOB filing
+equation: Contractual Availability = (TO - DT - RT -MT)/(TO - LOT - MTprorated) * 100%
+networkaddress: R: drive
+terminology: retrurns on invested capital
+terminology: Return on equity
+terminology: on-balance sheet
+terminology: return on equity
+terminology: IBIT
+template: Nat Gas/Liquids-Financial
+statisticaltechnique: VAR
+datafeed: data feed from an MG system called Mercur.
+INTERNETTYPE: DSL
+ITIssues: major e-mail problems as a result of the mirgration
+networkaddress: O:Corpdev/Gtg/Deals/Newlist
+computerprogram: lotus notes application
+computerprogram: lotus notes
+technicalterm: EEI
+technicalterm: PG&E
+technicalterm: EEI
+businessjargon: EOB filing
+equation: Contractual Availability = (TO - DT - RT -MT)/(TO - LOT - MTprorated) * 100%
+networkaddress: R: drive
+terminology: retrurns on invested capital
+terminology: Return on equity
+terminology: on-balance sheet
+terminology: return on equity
+terminology: IBIT
+template: Nat Gas/Liquids-Financial
+statisticaltechnique: VAR
+datafeed: data feed from an MG system called Mercur.
+INTERNETTYPE: DSL
+ITIssues: major e-mail problems as a result of the mirgration
+networkaddress: O:Corpdev/Gtg/Deals/Newlist
+computerprogram: lotus notes application
+computerprogram: lotus notes
+technicalterm: EEI
+technicalterm: PG&E
+technicalterm: EEI
+businessjargon: EOB filing
+equation: Contractual Availability = (TO - DT - RT -MT)/(TO - LOT - MTprorated) * 100%
+networkaddress: R: drive
+terminology: retrurns on invested capital
+terminology: Return on equity
+terminology: on-balance sheet
+terminology: return on equity
+terminology: IBIT
+template: Nat Gas/Liquids-Financial
+statisticaltechnique: VAR
+datafeed: data feed from an MG system called Mercur.
+INTERNETTYPE: DSL
+ITIssues: major e-mail problems as a result of the mirgration
+networkaddress: O:Corpdev/Gtg/Deals/Newlist
+computerprogram: lotus notes application
+computerprogram: lotus notes
+technicalterm: EEI
+technicalterm: PG&E
+technicalterm: EEI
+businessjargon: EOB filing
+equation: Contractual Availability = (TO - DT - RT -MT)/(TO - LOT - MTprorated) * 100%
+networkaddress: R: drive
+terminology: retrurns on invested capital
+terminology: Return on equity
+terminology: on-balance sheet
+terminology: return on equity
+terminology: IBIT
+template: Nat Gas/Liquids-Financial
+statisticaltechnique: VAR
+datafeed: data feed from an MG system called Mercur.
+INTERNETTYPE: DSL
+ITIssues: major e-mail problems as a result of the mirgration
+networkaddress: O:Corpdev/Gtg/Deals/Newlist
+computerprogram: lotus notes application
+computerprogram: lotus notes
+technicalterm: EEI
+technicalterm: PG&E
+technicalterm: EEI
+businessjargon: EOB filing
+equation: Contractual Availability = (TO - DT - RT -MT)/(TO - LOT - MTprorated) * 100%
+networkaddress: R: drive
+terminology: retrurns on invested capital
+terminology: Return on equity
+terminology: on-balance sheet
+terminology: return on equity
+terminology: IBIT
+template: Nat Gas/Liquids-Financial
+statisticaltechnique: VAR
+datafeed: data feed from an MG system called Mercur.
+INTERNETTYPE: DSL
+ITIssues: major e-mail problems as a result of the mirgration
+networkaddress: O:Corpdev/Gtg/Deals/Newlist
+computerprogram: lotus notes application
+computerprogram: lotus notes
+technicalterm: EEI
+technicalterm: PG&E
+technicalterm: EEI
+businessjargon: EOB filing
+equation: Contractual Availability = (TO - DT - RT -MT)/(TO - LOT - MTprorated) * 100%
+networkaddress: R: drive
+terminology: retrurns on invested capital
+terminology: Return on equity
+terminology: on-balance sheet
+terminology: return on equity
+terminology: IBIT
+template: Nat Gas/Liquids-Financial
+statisticaltechnique: VAR
+datafeed: data feed from an MG system called Mercur.
+INTERNETTYPE: DSL
+ITIssues: major e-mail problems as a result of the mirgration
+networkaddress: O:Corpdev/Gtg/Deals/Newlist
+computerprogram: lotus notes application
+computerprogram: lotus notes
+technicalterm: EEI
+technicalterm: PG&E
+technicalterm: EEI
+businessjargon: EOB filing
+equation: Contractual Availability = (TO - DT - RT -MT)/(TO - LOT - MTprorated) * 100%
+networkaddress: R: drive
+terminology: retrurns on invested capital
+terminology: Return on equity
+terminology: on-balance sheet
+terminology: return on equity
+terminology: IBIT
+template: Nat Gas/Liquids-Financial
+statisticaltechnique: VAR
+datafeed: data feed from an MG system called Mercur.
+INTERNETTYPE: DSL
+ITIssues: major e-mail problems as a result of the mirgration
+networkaddress: O:Corpdev/Gtg/Deals/Newlist
+computerprogram: lotus notes application
+computerprogram: lotus notes
+technicalterm: EEI
+technicalterm: PG&E
+technicalterm: EEI
+businessjargon: EOB filing
+equation: Contractual Availability = (TO - DT - RT -MT)/(TO - LOT - MTprorated) * 100%
+networkaddress: R: drive
+terminology: retrurns on invested capital
+terminology: Return on equity
+terminology: on-balance sheet
+terminology: return on equity
+terminology: IBIT
+template: Nat Gas/Liquids-Financial
+statisticaltechnique: VAR
+datafeed: data feed from an MG system called Mercur.
+INTERNETTYPE: DSL
+ITIssues: major e-mail problems as a result of the mirgration
+networkaddress: O:Corpdev/Gtg/Deals/Newlist
+computerprogram: lotus notes application
+computerprogram: lotus notes
+technicalterm: EEI
+technicalterm: PG&E
+technicalterm: EEI
+businessjargon: EOB filing
+equation: Contractual Availability = (TO - DT - RT -MT)/(TO - LOT - MTprorated) * 100%
+networkaddress: R: drive
+terminology: retrurns on invested capital
+terminology: Return on equity
+terminology: on-balance sheet
+terminology: return on equity
+terminology: IBIT

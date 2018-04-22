@@ -1,0 +1,2142 @@
+org: didi chuxing
+group: Rocket league
+org: Campus police
+org: Uber
+org: ford
+org: ford
+org: osu
+org: osu
+org: Ford
+org: cmu
+group: study participants
+group: Native English speakers
+org: Edited A Star
+org: Facebook
+group: GCS peeps,
+group: normie
+org: messenger
+group: scs students
+org: cmu police
+group: adult NIRS
+org: Riteaid
+group: The squad
+group: Naggy roommate
+group: australian
+group: australian
+group: non beta mc's
+group: waifu
+group: waifus
+group: antifa
+group: Dayana student
+group: waifus
+group: Heathens
+group: french
+org: club Fleming,
+group: member of antifa
+group: muslims
+org: reddit
+group: Japanese
+group: rebels are religeous extremists
+group: rebels
+org: US gov
+group: north korean
+ethnicity: French
+org: apostle mafia
+org: apostle mafia
+group: DnD group
+group: rich people
+group: friend groups
+group: Lucindy
+group: Lucindy
+org: onion
+group: racist
+group: racist
+racialgroup: asian
+group: refugee
+group: asian
+group: asians
+org: cloud nine
+group: wushu team
+org: CIA
+group: Mediterranean
+group: Romanian
+group: lab group
+org: twitter
+group: Russian
+group: clerics
+group: elves
+group: dwarf
+group: infidels
+group: roshii,
+group: high priests of roshii
+org: Bacaro Venezia
+org: Punta Santiago
+group: fb
+group: Chinese
+org: tinder
+group: french
+group: freedom fighters,
+org: cops
+group: Dayana's Antifa
+group: police
+group: millennial women
+group: Nazis
+group: nazis
+group: devs
+group: devs
+group: devs
+gender: cisgendered
+group: facists
+group: alt right
+race: british
+race: american
+group: friends
+group: friends
+org: Corporate PR
+group: teammates
+group: Nerds
+group: Loser
+group: demons
+group: volunteers
+org: reddit
+group: friends
+group: parents
+group: friends
+org: ubisoft
+group: Greek
+group: Greek
+group: ATO
+org: steelers
+org: FAFSA
+org: fafsa
+group: sorority chicks
+group: sorority
+group: sororities
+org: PNC
+group: kids
+group: friends
+group: international students
+group: international students
+group: students
+group: frat
+group: buddy
+org: tsa
+org: Lotus
+group: Heathens
+org: religion
+org: Giant Eagle
+org: Lotus
+org: Giant Eagle
+org: lotus
+org: lotus
+org: Amazon
+group: buggy team
+group: buggy team
+org: hksa
+org: JSA
+org: SIAM
+org: geagle
+org: iNoodle
+org: iNoodles
+org: songkran
+org: iNoodles
+org: songkran
+org: aerosault club
+org: SIAM
+org: SIAM
+org: club
+org: club
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: University Police
+org: Chrstian
+org: cmu
+group: MVPs
+group: charity
+group: charity,
+group: student
+org: nasa
+org: HP
+org: at tepper?
+group: archies
+org: united airlines
+org: south west
+org: southwest
+org: airbnb
+org: airbnb
+org: chipotle
+org: stackd
+org: ABP
+org: hello bistro
+group: alums
+group: alumni
+group: alumni
+group: group of pushers
+group: b team
+group: hookup
+group: asian girl
+group: Asian girl
+org: hp
+org: hp
+group: women
+group: men
+group: A team
+group: b team
+org: cia
+org: alpha phi
+org: Maxwell
+group: cia alumn
+org: isb
+org: exeter
+org: exeter
+org: upenn
+group: indos
+group: bf,
+group: farangs
+group: farangs
+group: dad
+group: thai club
+group: thais
+group: gay
+org: akpsi
+group: bf's
+org: Akpsi
+org: Lucindy
+group: chinese
+group: taiwanese
+org: Lucindy
+group: asians
+org: TAS
+org: TAS
+org: BU
+group: Thai
+org: isb
+group: thai
+org: nist
+group: Conservative candidates
+org: little asia
+org: little asia
+org: little Asia's
+group: u guys
+group: undergrads
+org: GPSG
+group: Japanese
+org: penguins
+group: CMU Taiwanese student
+org: Lucindy
+org: CTA
+org: RTA
+org: tepper
+org: anazon
+group: officers
+org: SIAM
+group: sorority
+org: UC
+org: Uc
+org: Thai club
+org: Thai club
+group: E team
+org: Sigep
+group: teams
+group: alum
+group: alum
+group: parents
+group: treatment group
+group: tss
+org: google
+group: alumni
+group: asians
+group: Officers
+org: google
+org: google
+group: boys
+group: jis
+group: TAS
+group: boys
+group: Guys
+group: guys
+group: https://www.facebook.com/events/342462726151249/,
+group: business majors
+race/ethniticity: japanese
+group: Lucindy
+group: Lucindy
+group: thai club
+org: tako
+group: SDC Men's D
+group: SDC Men's D
+org: Nike
+org: facebook
+org: facebook
+group: research
+org: school
+group: OIE
+group: OIE
+group: presidents chat
+group: housepeople
+org: Amazing cafe
+org: Heab
+org: amazing cafe
+org: panera
+org: hello bistro
+group: D team
+group: B
+group: the club
+group: Alpha phi
+org: CMU
+org: Dayana
+org: lambda
+group: engineers
+group: korean
+group: alpha phi
+org: TSA
+group: team cmu
+group: Philip's team
+org: sony
+group: econ professors
+org: amazon
+org: prime
+org: a&f
+org: a&f
+org: a&f
+group: bro
+group: driver dude
+group: mormon
+group: freshman
+org: fuku
+org: didi chuxing
+group: Rocket league
+org: Campus police
+org: Uber
+org: ford
+org: ford
+org: osu
+org: osu
+org: Ford
+org: cmu
+group: study participants
+group: Native English speakers
+org: Edited A Star
+org: Facebook
+group: GCS peeps,
+group: normie
+org: messenger
+group: scs students
+org: cmu police
+group: adult NIRS
+org: Riteaid
+group: The squad
+group: Naggy roommate
+group: australian
+group: australian
+group: non beta mc's
+group: waifu
+group: waifus
+group: antifa
+group: Dayana student
+group: waifus
+group: Heathens
+group: french
+org: club Fleming,
+group: member of antifa
+group: muslims
+org: reddit
+group: Japanese
+group: rebels are religeous extremists
+group: rebels
+org: US gov
+group: north korean
+ethnicity: French
+org: apostle mafia
+org: apostle mafia
+group: DnD group
+group: rich people
+group: friend groups
+group: Lucindy
+group: Lucindy
+org: onion
+group: racist
+group: racist
+racialgroup: asian
+group: refugee
+group: asian
+group: asians
+org: cloud nine
+group: wushu team
+org: CIA
+group: Mediterranean
+group: Romanian
+group: lab group
+org: twitter
+group: Russian
+group: clerics
+group: elves
+group: dwarf
+group: infidels
+group: roshii,
+group: high priests of roshii
+org: Bacaro Venezia
+org: Punta Santiago
+group: fb
+group: Chinese
+org: tinder
+group: french
+group: freedom fighters,
+org: cops
+group: Dayana's Antifa
+group: police
+group: millennial women
+group: Nazis
+group: nazis
+group: devs
+group: devs
+group: devs
+gender: cisgendered
+group: facists
+group: alt right
+race: british
+race: american
+group: friends
+group: friends
+org: Corporate PR
+group: teammates
+group: Nerds
+group: Loser
+group: demons
+group: volunteers
+org: reddit
+group: friends
+group: parents
+group: friends
+org: ubisoft
+group: Greek
+group: Greek
+group: ATO
+org: steelers
+org: FAFSA
+org: fafsa
+group: sorority chicks
+group: sorority
+group: sororities
+org: PNC
+group: kids
+group: friends
+group: international students
+group: international students
+group: students
+group: frat
+group: buddy
+org: tsa
+org: Lotus
+group: Heathens
+org: religion
+org: Giant Eagle
+org: Lotus
+org: Giant Eagle
+org: lotus
+org: lotus
+org: Amazon
+group: buggy team
+group: buggy team
+org: hksa
+org: JSA
+org: SIAM
+org: geagle
+org: iNoodle
+org: iNoodles
+org: songkran
+org: iNoodles
+org: songkran
+org: aerosault club
+org: SIAM
+org: SIAM
+org: club
+org: club
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: University Police
+org: Chrstian
+org: cmu
+group: MVPs
+group: charity
+group: charity,
+group: student
+org: nasa
+org: HP
+org: at tepper?
+group: archies
+org: united airlines
+org: south west
+org: southwest
+org: airbnb
+org: airbnb
+org: chipotle
+org: stackd
+org: ABP
+org: hello bistro
+group: alums
+group: alumni
+group: alumni
+group: group of pushers
+group: b team
+group: hookup
+group: asian girl
+group: Asian girl
+org: hp
+org: hp
+group: women
+group: men
+group: A team
+group: b team
+org: cia
+org: alpha phi
+org: Maxwell
+group: cia alumn
+org: isb
+org: exeter
+org: exeter
+org: upenn
+group: indos
+group: bf,
+group: farangs
+group: farangs
+group: dad
+group: thai club
+group: thais
+group: gay
+org: akpsi
+group: bf's
+org: Akpsi
+org: Lucindy
+group: chinese
+group: taiwanese
+org: Lucindy
+group: asians
+org: TAS
+org: TAS
+org: BU
+group: Thai
+org: isb
+group: thai
+org: nist
+group: Conservative candidates
+org: little asia
+org: little asia
+org: little Asia's
+group: u guys
+group: undergrads
+org: GPSG
+group: Japanese
+org: penguins
+group: CMU Taiwanese student
+org: Lucindy
+org: CTA
+org: RTA
+org: tepper
+org: anazon
+group: officers
+org: SIAM
+group: sorority
+org: UC
+org: Uc
+org: Thai club
+org: Thai club
+group: E team
+org: Sigep
+group: teams
+group: alum
+group: alum
+group: parents
+group: treatment group
+group: tss
+org: google
+group: alumni
+group: asians
+group: Officers
+org: google
+org: google
+group: boys
+group: jis
+group: TAS
+group: boys
+group: Guys
+group: guys
+group: https://www.facebook.com/events/342462726151249/,
+group: business majors
+race/ethniticity: japanese
+group: Lucindy
+group: Lucindy
+group: thai club
+org: tako
+group: SDC Men's D
+group: SDC Men's D
+org: Nike
+org: facebook
+org: facebook
+group: research
+org: school
+group: OIE
+group: OIE
+group: presidents chat
+group: housepeople
+org: Amazing cafe
+org: Heab
+org: amazing cafe
+org: panera
+org: hello bistro
+group: D team
+group: B
+group: the club
+group: Alpha phi
+org: CMU
+org: Dayana
+org: lambda
+group: engineers
+group: korean
+group: alpha phi
+org: TSA
+group: team cmu
+group: Philip's team
+org: sony
+group: econ professors
+org: amazon
+org: prime
+org: a&f
+org: a&f
+org: a&f
+group: bro
+group: driver dude
+group: mormon
+group: freshman
+org: fuku
+org: didi chuxing
+group: Rocket league
+org: Campus police
+org: Uber
+org: ford
+org: ford
+org: osu
+org: osu
+org: Ford
+org: cmu
+group: study participants
+group: Native English speakers
+org: Edited A Star
+org: Facebook
+group: GCS peeps,
+group: normie
+org: messenger
+group: scs students
+org: cmu police
+group: adult NIRS
+org: Riteaid
+group: The squad
+group: Naggy roommate
+group: australian
+group: australian
+group: non beta mc's
+group: waifu
+group: waifus
+group: antifa
+group: Dayana student
+group: waifus
+group: Heathens
+group: french
+org: club Fleming,
+group: member of antifa
+group: muslims
+org: reddit
+group: Japanese
+group: rebels are religeous extremists
+group: rebels
+org: US gov
+group: north korean
+ethnicity: French
+org: apostle mafia
+org: apostle mafia
+group: DnD group
+group: rich people
+group: friend groups
+group: Lucindy
+group: Lucindy
+org: onion
+group: racist
+group: racist
+racialgroup: asian
+group: refugee
+group: asian
+group: asians
+org: cloud nine
+group: wushu team
+org: CIA
+group: Mediterranean
+group: Romanian
+group: lab group
+org: twitter
+group: Russian
+group: clerics
+group: elves
+group: dwarf
+group: infidels
+group: roshii,
+group: high priests of roshii
+org: Bacaro Venezia
+org: Punta Santiago
+group: fb
+group: Chinese
+org: tinder
+group: french
+group: freedom fighters,
+org: cops
+group: Dayana's Antifa
+group: police
+group: millennial women
+group: Nazis
+group: nazis
+group: devs
+group: devs
+group: devs
+gender: cisgendered
+group: facists
+group: alt right
+race: british
+race: american
+group: friends
+group: friends
+org: Corporate PR
+group: teammates
+group: Nerds
+group: Loser
+group: demons
+group: volunteers
+org: reddit
+group: friends
+group: parents
+group: friends
+org: ubisoft
+group: Greek
+group: Greek
+group: ATO
+org: steelers
+org: FAFSA
+org: fafsa
+group: sorority chicks
+group: sorority
+group: sororities
+org: PNC
+group: kids
+group: friends
+group: international students
+group: international students
+group: students
+group: frat
+group: buddy
+org: tsa
+org: Lotus
+group: Heathens
+org: religion
+org: Giant Eagle
+org: Lotus
+org: Giant Eagle
+org: lotus
+org: lotus
+org: Amazon
+group: buggy team
+group: buggy team
+org: hksa
+org: JSA
+org: SIAM
+org: geagle
+org: iNoodle
+org: iNoodles
+org: songkran
+org: iNoodles
+org: songkran
+org: aerosault club
+org: SIAM
+org: SIAM
+org: club
+org: club
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: University Police
+org: Chrstian
+org: cmu
+group: MVPs
+group: charity
+group: charity,
+group: student
+org: nasa
+org: HP
+org: at tepper?
+group: archies
+org: united airlines
+org: south west
+org: southwest
+org: airbnb
+org: airbnb
+org: chipotle
+org: stackd
+org: ABP
+org: hello bistro
+group: alums
+group: alumni
+group: alumni
+group: group of pushers
+group: b team
+group: hookup
+group: asian girl
+group: Asian girl
+org: hp
+org: hp
+group: women
+group: men
+group: A team
+group: b team
+org: cia
+org: alpha phi
+org: Maxwell
+group: cia alumn
+org: isb
+org: exeter
+org: exeter
+org: upenn
+group: indos
+group: bf,
+group: farangs
+group: farangs
+group: dad
+group: thai club
+group: thais
+group: gay
+org: akpsi
+group: bf's
+org: Akpsi
+org: Lucindy
+group: chinese
+group: taiwanese
+org: Lucindy
+group: asians
+org: TAS
+org: TAS
+org: BU
+group: Thai
+org: isb
+group: thai
+org: nist
+group: Conservative candidates
+org: little asia
+org: little asia
+org: little Asia's
+group: u guys
+group: undergrads
+org: GPSG
+group: Japanese
+org: penguins
+group: CMU Taiwanese student
+org: Lucindy
+org: CTA
+org: RTA
+org: tepper
+org: anazon
+group: officers
+org: SIAM
+group: sorority
+org: UC
+org: Uc
+org: Thai club
+org: Thai club
+group: E team
+org: Sigep
+group: teams
+group: alum
+group: alum
+group: parents
+group: treatment group
+group: tss
+org: google
+group: alumni
+group: asians
+group: Officers
+org: google
+org: google
+group: boys
+group: jis
+group: TAS
+group: boys
+group: Guys
+group: guys
+group: https://www.facebook.com/events/342462726151249/,
+group: business majors
+race/ethniticity: japanese
+group: Lucindy
+group: Lucindy
+group: thai club
+org: tako
+group: SDC Men's D
+group: SDC Men's D
+org: Nike
+org: facebook
+org: facebook
+group: research
+org: school
+group: OIE
+group: OIE
+group: presidents chat
+group: housepeople
+org: Amazing cafe
+org: Heab
+org: amazing cafe
+org: panera
+org: hello bistro
+group: D team
+group: B
+group: the club
+group: Alpha phi
+org: CMU
+org: Dayana
+org: lambda
+group: engineers
+group: korean
+group: alpha phi
+org: TSA
+group: team cmu
+group: Philip's team
+org: sony
+group: econ professors
+org: amazon
+org: prime
+org: a&f
+org: a&f
+org: a&f
+group: bro
+group: driver dude
+group: mormon
+group: freshman
+org: fuku
+org: didi chuxing
+group: Rocket league
+org: Campus police
+org: Uber
+org: ford
+org: ford
+org: osu
+org: osu
+org: Ford
+org: cmu
+group: study participants
+group: Native English speakers
+org: Edited A Star
+org: Facebook
+group: GCS peeps,
+group: normie
+org: messenger
+group: scs students
+org: cmu police
+group: adult NIRS
+org: Riteaid
+group: The squad
+group: Naggy roommate
+group: australian
+group: australian
+group: non beta mc's
+group: waifu
+group: waifus
+group: antifa
+group: Dayana student
+group: waifus
+group: Heathens
+group: french
+org: club Fleming,
+group: member of antifa
+group: muslims
+org: reddit
+group: Japanese
+group: rebels are religeous extremists
+group: rebels
+org: US gov
+group: north korean
+ethnicity: French
+org: apostle mafia
+org: apostle mafia
+group: DnD group
+group: rich people
+group: friend groups
+group: Lucindy
+group: Lucindy
+org: onion
+group: racist
+group: racist
+racialgroup: asian
+group: refugee
+group: asian
+group: asians
+org: cloud nine
+group: wushu team
+org: CIA
+group: Mediterranean
+group: Romanian
+group: lab group
+org: twitter
+group: Russian
+group: clerics
+group: elves
+group: dwarf
+group: infidels
+group: roshii,
+group: high priests of roshii
+org: Bacaro Venezia
+org: Punta Santiago
+group: fb
+group: Chinese
+org: tinder
+group: french
+group: freedom fighters,
+org: cops
+group: Dayana's Antifa
+group: police
+group: millennial women
+group: Nazis
+group: nazis
+group: devs
+group: devs
+group: devs
+gender: cisgendered
+group: facists
+group: alt right
+race: british
+race: american
+group: friends
+group: friends
+org: Corporate PR
+group: teammates
+group: Nerds
+group: Loser
+group: demons
+group: volunteers
+org: reddit
+group: friends
+group: parents
+group: friends
+org: ubisoft
+group: Greek
+group: Greek
+group: ATO
+org: steelers
+org: FAFSA
+org: fafsa
+group: sorority chicks
+group: sorority
+group: sororities
+org: PNC
+group: kids
+group: friends
+group: international students
+group: international students
+group: students
+group: frat
+group: buddy
+org: tsa
+org: Lotus
+group: Heathens
+org: religion
+org: Giant Eagle
+org: Lotus
+org: Giant Eagle
+org: lotus
+org: lotus
+org: Amazon
+group: buggy team
+group: buggy team
+org: hksa
+org: JSA
+org: SIAM
+org: geagle
+org: iNoodle
+org: iNoodles
+org: songkran
+org: iNoodles
+org: songkran
+org: aerosault club
+org: SIAM
+org: SIAM
+org: club
+org: club
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: University Police
+org: Chrstian
+org: cmu
+group: MVPs
+group: charity
+group: charity,
+group: student
+org: nasa
+org: HP
+org: at tepper?
+group: archies
+org: united airlines
+org: south west
+org: southwest
+org: airbnb
+org: airbnb
+org: chipotle
+org: stackd
+org: ABP
+org: hello bistro
+group: alums
+group: alumni
+group: alumni
+group: group of pushers
+group: b team
+group: hookup
+group: asian girl
+group: Asian girl
+org: hp
+org: hp
+group: women
+group: men
+group: A team
+group: b team
+org: cia
+org: alpha phi
+org: Maxwell
+group: cia alumn
+org: isb
+org: exeter
+org: exeter
+org: upenn
+group: indos
+group: bf,
+group: farangs
+group: farangs
+group: dad
+group: thai club
+group: thais
+group: gay
+org: akpsi
+group: bf's
+org: Akpsi
+org: Lucindy
+group: chinese
+group: taiwanese
+org: Lucindy
+group: asians
+org: TAS
+org: TAS
+org: BU
+group: Thai
+org: isb
+group: thai
+org: nist
+group: Conservative candidates
+org: little asia
+org: little asia
+org: little Asia's
+group: u guys
+group: undergrads
+org: GPSG
+group: Japanese
+org: penguins
+group: CMU Taiwanese student
+org: Lucindy
+org: CTA
+org: RTA
+org: tepper
+org: anazon
+group: officers
+org: SIAM
+group: sorority
+org: UC
+org: Uc
+org: Thai club
+org: Thai club
+group: E team
+org: Sigep
+group: teams
+group: alum
+group: alum
+group: parents
+group: treatment group
+group: tss
+org: google
+group: alumni
+group: asians
+group: Officers
+org: google
+org: google
+group: boys
+group: jis
+group: TAS
+group: boys
+group: Guys
+group: guys
+group: https://www.facebook.com/events/342462726151249/,
+group: business majors
+race/ethniticity: japanese
+group: Lucindy
+group: Lucindy
+group: thai club
+org: tako
+group: SDC Men's D
+group: SDC Men's D
+org: Nike
+org: facebook
+org: facebook
+group: research
+org: school
+group: OIE
+group: OIE
+group: presidents chat
+group: housepeople
+org: Amazing cafe
+org: Heab
+org: amazing cafe
+org: panera
+org: hello bistro
+group: D team
+group: B
+group: the club
+group: Alpha phi
+org: CMU
+org: Dayana
+org: lambda
+group: engineers
+group: korean
+group: alpha phi
+org: TSA
+group: team cmu
+group: Philip's team
+org: sony
+group: econ professors
+org: amazon
+org: prime
+org: a&f
+org: a&f
+org: a&f
+group: bro
+group: driver dude
+group: mormon
+group: freshman
+org: fuku
+org: didi chuxing
+group: Rocket league
+org: Campus police
+org: Uber
+org: ford
+org: ford
+org: osu
+org: osu
+org: Ford
+org: cmu
+group: study participants
+group: Native English speakers
+org: Edited A Star
+org: Facebook
+group: GCS peeps,
+group: normie
+org: messenger
+group: scs students
+org: cmu police
+group: adult NIRS
+org: Riteaid
+group: The squad
+group: Naggy roommate
+group: australian
+group: australian
+group: non beta mc's
+group: waifu
+group: waifus
+group: antifa
+group: Dayana student
+group: waifus
+group: Heathens
+group: french
+org: club Fleming,
+group: member of antifa
+group: muslims
+org: reddit
+group: Japanese
+group: rebels are religeous extremists
+group: rebels
+org: US gov
+group: north korean
+ethnicity: French
+org: apostle mafia
+org: apostle mafia
+group: DnD group
+group: rich people
+group: friend groups
+group: Lucindy
+group: Lucindy
+org: onion
+group: racist
+group: racist
+racialgroup: asian
+group: refugee
+group: asian
+group: asians
+org: cloud nine
+group: wushu team
+org: CIA
+group: Mediterranean
+group: Romanian
+group: lab group
+org: twitter
+group: Russian
+group: clerics
+group: elves
+group: dwarf
+group: infidels
+group: roshii,
+group: high priests of roshii
+org: Bacaro Venezia
+org: Punta Santiago
+group: fb
+group: Chinese
+org: tinder
+group: french
+group: freedom fighters,
+org: cops
+group: Dayana's Antifa
+group: police
+group: millennial women
+group: Nazis
+group: nazis
+group: devs
+group: devs
+group: devs
+gender: cisgendered
+group: facists
+group: alt right
+race: british
+race: american
+group: friends
+group: friends
+org: Corporate PR
+group: teammates
+group: Nerds
+group: Loser
+group: demons
+group: volunteers
+org: reddit
+group: friends
+group: parents
+group: friends
+org: ubisoft
+group: Greek
+group: Greek
+group: ATO
+org: steelers
+org: FAFSA
+org: fafsa
+group: sorority chicks
+group: sorority
+group: sororities
+org: PNC
+group: kids
+group: friends
+group: international students
+group: international students
+group: students
+group: frat
+group: buddy
+org: tsa
+org: Lotus
+group: Heathens
+org: religion
+org: Giant Eagle
+org: Lotus
+org: Giant Eagle
+org: lotus
+org: lotus
+org: Amazon
+group: buggy team
+group: buggy team
+org: hksa
+org: JSA
+org: SIAM
+org: geagle
+org: iNoodle
+org: iNoodles
+org: songkran
+org: iNoodles
+org: songkran
+org: aerosault club
+org: SIAM
+org: SIAM
+org: club
+org: club
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: University Police
+org: Chrstian
+org: cmu
+group: MVPs
+group: charity
+group: charity,
+group: student
+org: nasa
+org: HP
+org: at tepper?
+group: archies
+org: united airlines
+org: south west
+org: southwest
+org: airbnb
+org: airbnb
+org: chipotle
+org: stackd
+org: ABP
+org: hello bistro
+group: alums
+group: alumni
+group: alumni
+group: group of pushers
+group: b team
+group: hookup
+group: asian girl
+group: Asian girl
+org: hp
+org: hp
+group: women
+group: men
+group: A team
+group: b team
+org: cia
+org: alpha phi
+org: Maxwell
+group: cia alumn
+org: isb
+org: exeter
+org: exeter
+org: upenn
+group: indos
+group: bf,
+group: farangs
+group: farangs
+group: dad
+group: thai club
+group: thais
+group: gay
+org: akpsi
+group: bf's
+org: Akpsi
+org: Lucindy
+group: chinese
+group: taiwanese
+org: Lucindy
+group: asians
+org: TAS
+org: TAS
+org: BU
+group: Thai
+org: isb
+group: thai
+org: nist
+group: Conservative candidates
+org: little asia
+org: little asia
+org: little Asia's
+group: u guys
+group: undergrads
+org: GPSG
+group: Japanese
+org: penguins
+group: CMU Taiwanese student
+org: Lucindy
+org: CTA
+org: RTA
+org: tepper
+org: anazon
+group: officers
+org: SIAM
+group: sorority
+org: UC
+org: Uc
+org: Thai club
+org: Thai club
+group: E team
+org: Sigep
+group: teams
+group: alum
+group: alum
+group: parents
+group: treatment group
+group: tss
+org: google
+group: alumni
+group: asians
+group: Officers
+org: google
+org: google
+group: boys
+group: jis
+group: TAS
+group: boys
+group: Guys
+group: guys
+group: https://www.facebook.com/events/342462726151249/,
+group: business majors
+race/ethniticity: japanese
+group: Lucindy
+group: Lucindy
+group: thai club
+org: tako
+group: SDC Men's D
+group: SDC Men's D
+org: Nike
+org: facebook
+org: facebook
+group: research
+org: school
+group: OIE
+group: OIE
+group: presidents chat
+group: housepeople
+org: Amazing cafe
+org: Heab
+org: amazing cafe
+org: panera
+org: hello bistro
+group: D team
+group: B
+group: the club
+group: Alpha phi
+org: CMU
+org: Dayana
+org: lambda
+group: engineers
+group: korean
+group: alpha phi
+org: TSA
+group: team cmu
+group: Philip's team
+org: sony
+group: econ professors
+org: amazon
+org: prime
+org: a&f
+org: a&f
+org: a&f
+group: bro
+group: driver dude
+group: mormon
+group: freshman
+org: fuku
+org: didi chuxing
+group: Rocket league
+org: Campus police
+org: Uber
+org: ford
+org: ford
+org: osu
+org: osu
+org: Ford
+org: cmu
+group: study participants
+group: Native English speakers
+org: Edited A Star
+org: Facebook
+group: GCS peeps,
+group: normie
+org: messenger
+group: scs students
+org: cmu police
+group: adult NIRS
+org: Riteaid
+group: The squad
+group: Naggy roommate
+group: australian
+group: australian
+group: non beta mc's
+group: waifu
+group: waifus
+group: antifa
+group: Dayana student
+group: waifus
+group: Heathens
+group: french
+org: club Fleming,
+group: member of antifa
+group: muslims
+org: reddit
+group: Japanese
+group: rebels are religeous extremists
+group: rebels
+org: US gov
+group: north korean
+ethnicity: French
+org: apostle mafia
+org: apostle mafia
+group: DnD group
+group: rich people
+group: friend groups
+group: Lucindy
+group: Lucindy
+org: onion
+group: racist
+group: racist
+racialgroup: asian
+group: refugee
+group: asian
+group: asians
+org: cloud nine
+group: wushu team
+org: CIA
+group: Mediterranean
+group: Romanian
+group: lab group
+org: twitter
+group: Russian
+group: clerics
+group: elves
+group: dwarf
+group: infidels
+group: roshii,
+group: high priests of roshii
+org: Bacaro Venezia
+org: Punta Santiago
+group: fb
+group: Chinese
+org: tinder
+group: french
+group: freedom fighters,
+org: cops
+group: Dayana's Antifa
+group: police
+group: millennial women
+group: Nazis
+group: nazis
+group: devs
+group: devs
+group: devs
+gender: cisgendered
+group: facists
+group: alt right
+race: british
+race: american
+group: friends
+group: friends
+org: Corporate PR
+group: teammates
+group: Nerds
+group: Loser
+group: demons
+group: volunteers
+org: reddit
+group: friends
+group: parents
+group: friends
+org: ubisoft
+group: Greek
+group: Greek
+group: ATO
+org: steelers
+org: FAFSA
+org: fafsa
+group: sorority chicks
+group: sorority
+group: sororities
+org: PNC
+group: kids
+group: friends
+group: international students
+group: international students
+group: students
+group: frat
+group: buddy
+org: tsa
+org: Lotus
+group: Heathens
+org: religion
+org: Giant Eagle
+org: Lotus
+org: Giant Eagle
+org: lotus
+org: lotus
+org: Amazon
+group: buggy team
+group: buggy team
+org: hksa
+org: JSA
+org: SIAM
+org: geagle
+org: iNoodle
+org: iNoodles
+org: songkran
+org: iNoodles
+org: songkran
+org: aerosault club
+org: SIAM
+org: SIAM
+org: club
+org: club
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: University Police
+org: Chrstian
+org: cmu
+group: MVPs
+group: charity
+group: charity,
+group: student
+org: nasa
+org: HP
+org: at tepper?
+group: archies
+org: united airlines
+org: south west
+org: southwest
+org: airbnb
+org: airbnb
+org: chipotle
+org: stackd
+org: ABP
+org: hello bistro
+group: alums
+group: alumni
+group: alumni
+group: group of pushers
+group: b team
+group: hookup
+group: asian girl
+group: Asian girl
+org: hp
+org: hp
+group: women
+group: men
+group: A team
+group: b team
+org: cia
+org: alpha phi
+org: Maxwell
+group: cia alumn
+org: isb
+org: exeter
+org: exeter
+org: upenn
+group: indos
+group: bf,
+group: farangs
+group: farangs
+group: dad
+group: thai club
+group: thais
+group: gay
+org: akpsi
+group: bf's
+org: Akpsi
+org: Lucindy
+group: chinese
+group: taiwanese
+org: Lucindy
+group: asians
+org: TAS
+org: TAS
+org: BU
+group: Thai
+org: isb
+group: thai
+org: nist
+group: Conservative candidates
+org: little asia
+org: little asia
+org: little Asia's
+group: u guys
+group: undergrads
+org: GPSG
+group: Japanese
+org: penguins
+group: CMU Taiwanese student
+org: Lucindy
+org: CTA
+org: RTA
+org: tepper
+org: anazon
+group: officers
+org: SIAM
+group: sorority
+org: UC
+org: Uc
+org: Thai club
+org: Thai club
+group: E team
+org: Sigep
+group: teams
+group: alum
+group: alum
+group: parents
+group: treatment group
+group: tss
+org: google
+group: alumni
+group: asians
+group: Officers
+org: google
+org: google
+group: boys
+group: jis
+group: TAS
+group: boys
+group: Guys
+group: guys
+group: https://www.facebook.com/events/342462726151249/,
+group: business majors
+race/ethniticity: japanese
+group: Lucindy
+group: Lucindy
+group: thai club
+org: tako
+group: SDC Men's D
+group: SDC Men's D
+org: Nike
+org: facebook
+org: facebook
+group: research
+org: school
+group: OIE
+group: OIE
+group: presidents chat
+group: housepeople
+org: Amazing cafe
+org: Heab
+org: amazing cafe
+org: panera
+org: hello bistro
+group: D team
+group: B
+group: the club
+group: Alpha phi
+org: CMU
+org: Dayana
+org: lambda
+group: engineers
+group: korean
+group: alpha phi
+org: TSA
+group: team cmu
+group: Philip's team
+org: sony
+group: econ professors
+org: amazon
+org: prime
+org: a&f
+org: a&f
+org: a&f
+group: bro
+group: driver dude
+group: mormon
+group: freshman
+org: fuku
+org: didi chuxing
+group: Rocket league
+org: Campus police
+org: Uber
+org: ford
+org: ford
+org: osu
+org: osu
+org: Ford
+org: cmu
+group: study participants
+group: Native English speakers
+org: Edited A Star
+org: Facebook
+group: GCS peeps,
+group: normie
+org: messenger
+group: scs students
+org: cmu police
+group: adult NIRS
+org: Riteaid
+group: The squad
+group: Naggy roommate
+group: australian
+group: australian
+group: non beta mc's
+group: waifu
+group: waifus
+group: antifa
+group: Dayana student
+group: waifus
+group: Heathens
+group: french
+org: club Fleming,
+group: member of antifa
+group: muslims
+org: reddit
+group: Japanese
+group: rebels are religeous extremists
+group: rebels
+org: US gov
+group: north korean
+ethnicity: French
+org: apostle mafia
+org: apostle mafia
+group: DnD group
+group: rich people
+group: friend groups
+group: Lucindy
+group: Lucindy
+org: onion
+group: racist
+group: racist
+racialgroup: asian
+group: refugee
+group: asian
+group: asians
+org: cloud nine
+group: wushu team
+org: CIA
+group: Mediterranean
+group: Romanian
+group: lab group
+org: twitter
+group: Russian
+group: clerics
+group: elves
+group: dwarf
+group: infidels
+group: roshii,
+group: high priests of roshii
+org: Bacaro Venezia
+org: Punta Santiago
+group: fb
+group: Chinese
+org: tinder
+group: french
+group: freedom fighters,
+org: cops
+group: Dayana's Antifa
+group: police
+group: millennial women
+group: Nazis
+group: nazis
+group: devs
+group: devs
+group: devs
+gender: cisgendered
+group: facists
+group: alt right
+race: british
+race: american
+group: friends
+group: friends
+org: Corporate PR
+group: teammates
+group: Nerds
+group: Loser
+group: demons
+group: volunteers
+org: reddit
+group: friends
+group: parents
+group: friends
+org: ubisoft
+group: Greek
+group: Greek
+group: ATO
+org: steelers
+org: FAFSA
+org: fafsa
+group: sorority chicks
+group: sorority
+group: sororities
+org: PNC
+group: kids
+group: friends
+group: international students
+group: international students
+group: students
+group: frat
+group: buddy
+org: tsa
+org: Lotus
+group: Heathens
+org: religion
+org: Giant Eagle
+org: Lotus
+org: Giant Eagle
+org: lotus
+org: lotus
+org: Amazon
+group: buggy team
+group: buggy team
+org: hksa
+org: JSA
+org: SIAM
+org: geagle
+org: iNoodle
+org: iNoodles
+org: songkran
+org: iNoodles
+org: songkran
+org: aerosault club
+org: SIAM
+org: SIAM
+org: club
+org: club
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: Carnegie Mellon
+org: University Police
+org: Chrstian
+org: cmu
+group: MVPs
+group: charity
+group: charity,
+group: student
+org: nasa
+org: HP
+org: at tepper?
+group: archies
+org: united airlines
+org: south west
+org: southwest
+org: airbnb
+org: airbnb
+org: chipotle
+org: stackd
+org: ABP
+org: hello bistro
+group: alums
+group: alumni
+group: alumni
+group: group of pushers
+group: b team
+group: hookup
+group: asian girl
+group: Asian girl
+org: hp
+org: hp
+group: women
+group: men
+group: A team
+group: b team
+org: cia
+org: alpha phi
+org: Maxwell
+group: cia alumn
+org: isb
+org: exeter
+org: exeter
+org: upenn
+group: indos
+group: bf,
+group: farangs
+group: farangs
+group: dad
+group: thai club
+group: thais
+group: gay
+org: akpsi
+group: bf's
+org: Akpsi
+org: Lucindy
+group: chinese
+group: taiwanese
+org: Lucindy
+group: asians
+org: TAS
+org: TAS
+org: BU
+group: Thai
+org: isb
+group: thai
+org: nist
+group: Conservative candidates
+org: little asia
+org: little asia
+org: little Asia's
+group: u guys
+group: undergrads
+org: GPSG
+group: Japanese
+org: penguins
+group: CMU Taiwanese student
+org: Lucindy
+org: CTA
+org: RTA
+org: tepper
+org: anazon
+group: officers
+org: SIAM
+group: sorority
+org: UC
+org: Uc
+org: Thai club
+org: Thai club
+group: E team
+org: Sigep
+group: teams
+group: alum
+group: alum
+group: parents
+group: treatment group
+group: tss
+org: google
+group: alumni
+group: asians
+group: Officers
+org: google
+org: google
+group: boys
+group: jis
+group: TAS
+group: boys
+group: Guys
+group: guys
+group: https://www.facebook.com/events/342462726151249/,
+group: business majors
+race/ethniticity: japanese
+group: Lucindy
+group: Lucindy
+group: thai club
+org: tako
+group: SDC Men's D
+group: SDC Men's D
+org: Nike
+org: facebook
+org: facebook
+group: research
+org: school
+group: OIE
+group: OIE
+group: presidents chat
+group: housepeople
+org: Amazing cafe
+org: Heab
+org: amazing cafe
+org: panera
+org: hello bistro
+group: D team
+group: B
+group: the club
+group: Alpha phi
+org: CMU
+org: Dayana
+org: lambda
+group: engineers
+group: korean
+group: alpha phi
+org: TSA
+group: team cmu
+group: Philip's team
+org: sony
+group: econ professors
+org: amazon
+org: prime
+org: a&f
+org: a&f
+org: a&f
+group: bro
+group: driver dude
+group: mormon
+group: freshman
+org: fuku

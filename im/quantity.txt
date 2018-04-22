@@ -1,0 +1,1841 @@
+quantity: 30mins
+quantity: 100k
+quantity: One only
+quantity: charges
+quantity: one
+quantity: 1098
+moneyamount: $213.91
+quantity: 112
+quantity: 75
+quantity: 75
+quantity: 55
+quantity: 75
+quantity: 1
+quantity: 4
+quantity: 1
+quantity: 5
+quantity: two
+quantity: 5
+quantity: once
+quantity: 3
+quantity: first
+quantity: One minute
+quantity: 1
+quantity: 1 or 2
+quantity: 3000
+quantity: 2
+quantity: .5-1 hour
+quantity: 30.50
+quantity: Thousand
+quantity: One
+quantity: Thousand
+quantity: 10 min
+quantity: $10
+quantity: all
+quantity: $60
+quantity: $20
+quantity: 5
+quantity: half a million
+quantity: several thousand
+quantity: Several thousand
+quantity: 0000
+quantity: fifth
+quantity: 150 cr
+quantity: 3
+quantity: 3 members
+quantity: 2
+quantity: 3
+quantity: 5 hours
+quantity: a half inch
+quantity: 2
+quantity: 800 mb
+quantity: 50
+quantity: 16
+quantity: 3 hundred
+quantity: 50 bucks
+quantity: 2
+quantity: 2
+quantity: 3
+quantity: 50 percent
+quantity: 50,000
+quantity: 5 kilos
+quantity: dollar
+quantity: 1 million
+quantity: 3
+quantity: 3
+quantity: 3
+quantity: 5
+quantity: one
+quantity: one
+quantity: none
+quantity: one
+quantity: one
+quantity: 20 min
+quantity: double
+quantity: one
+quantity: three
+quantity: three
+quantity: 19
+quantity: 14
+quantity: 2
+quantity: 4
+quantity: <110> 
+quantity: 4/2*6/2
+quantity: one
+quantity: for free
+quantity: 4
+quantity: a lot
+quantity: truckloads
+quantity: <3
+quantity: 500
+quantity: 1
+quantity: 3
+quantity: 2
+quantity: 1
+quantity: 3 packs of minced pork
+quantity: 1x oyster sauce,
+quantity: 555
+quantity: One grand
+quantity: 2 weeks
+quantity: 22
+quantity: 5
+quantity: around 15
+quantity: 1 whole cooler last
+quantity: 1
+quantity: 50 $1 bills
+quantity: $.50._.,
+quantity: One
+quantity: One
+quantity: 21 shots
+quantity: 4+ hours
+quantity: 0
+quantity: $15
+quantity: 5XL
+quantity: $10
+quantity: .5
+quantity: 555
+quantity: 6
+quantity: 10 mins,
+quantity: twice
+quantity: 100000x
+quantity: a sec
+quantity: $300
+quantity: 300
+quantity: 300 tickets 150
+quantity: 450
+quantity: 270,
+quantity: 270 for 3 night
+quantity: $5
+quantity: 7 dollars
+quantity: two days
+quantity: 0.7kg
+quantity: 2 mins
+quantity: one
+quantity: two
+quantity: two
+quantity: 5 mins
+quantity: billion
+quantity: 7
+quantity: first
+quantity: 1000 words
+quantity: 3kg
+quantity: 3rd
+quantity: 4 hours
+quantity: 15.6
+quantity: 13.3
+quantity: 13
+quantity: 2
+cost: $8.75
+cost: $8.75
+quantity: 1 person
+quantity: 7.5 hours
+quantity: 2
+quantity: first
+quantity: 11th
+quantity: another hour
+quantity: 4 years
+quantity: 5-6
+quantity: 2 days
+quantity: 100
+quantity: 50
+quantity: 200+
+quantity: 100
+quantity: 1800
+quantity: 1200
+quantity: 4
+quantity: 5
+quantity: 5
+quantity: 5
+quantity: 5 min late
+quantity: 15$
+quantity: $15
+quantity: headcount
+quantity: $125
+quantity: 90dollar
+quantity: 3-0
+quantity: $1
+quantity: 30
+quantity: 10
+quantity: 10
+lengthoftime: one sec
+cost/fee: $50
+quantity: ~60-70
+quantity: 60
+quantity: 70
+quantity: $50
+quantity: $50
+quantity: 70
+quantity: 50-60
+quantity: 4
+quantity: 4 from now,
+quantity: Lower budget
+quantity: 15
+quantity: 3 min
+quantity: half off
+quantity: 2:12
+quantity: one
+quantity: 3
+quantity: 4
+quantity: 4
+quantity: three
+lengthoftime: 2 minutes
+quantity: 4.58
+quantity: 15 mins
+quantity: 30 secs
+quantity: a year
+quantity: 22
+price/fee: $1
+quantity: 2
+quantity: One sec
+amountoftime: 7 hours
+amountoftime: 16 hours
+quantity: last
+quantity: free
+quantity: 7k
+quantity: 4
+quantity: 4
+quantity: 3-0
+quantity: 2-1
+quantity: 21-19
+quantity: 21-19
+quantity: $26
+quantity: 50
+quantity: 2
+quantity: 2
+quantity: 2
+costs/total/fee: $6
+quantity: $26
+quantity: 40% of our grade
+quantity: 2 for \"creating a good team atmosphere\"
+quantity: A
+quantity: 3s
+quantity: 10
+quantity: 118
+quantity: 80%
+quantity: 118
+quantity: 150 percent
+frequency: once or twice a month
+quantity: equals 0.9975
+quantity: c = 358.97
+quantity: c' = 358.08
+quantity: 1.026c = c'
+quantity: 0.998 not 0.995
+quantity: 358.97
+quantity: 10
+quantity: $7
+quantity: 6 dolla
+quantity: 3 colors
+quantity: 24
+quantity: by 8
+quantity: 12 hours
+quantity: 4 dollar
+quantity: 12.99
+quantity: 16.99,
+quantity: 4.25
+quantity: three
+price: 4 dollar
+price: 12.99
+price: 16.99
+price: 4.25
+quantity: 5
+quantity: 20+
+quantity: two
+quantity: 22
+quantity: 30mins
+quantity: 100k
+quantity: One only
+quantity: charges
+quantity: one
+quantity: 1098
+moneyamount: $213.91
+quantity: 112
+quantity: 75
+quantity: 75
+quantity: 55
+quantity: 75
+quantity: 1
+quantity: 4
+quantity: 1
+quantity: 5
+quantity: two
+quantity: 5
+quantity: once
+quantity: 3
+quantity: first
+quantity: One minute
+quantity: 1
+quantity: 1 or 2
+quantity: 3000
+quantity: 2
+quantity: .5-1 hour
+quantity: 30.50
+quantity: Thousand
+quantity: One
+quantity: Thousand
+quantity: 10 min
+quantity: $10
+quantity: all
+quantity: $60
+quantity: $20
+quantity: 5
+quantity: half a million
+quantity: several thousand
+quantity: Several thousand
+quantity: 0000
+quantity: fifth
+quantity: 150 cr
+quantity: 3
+quantity: 3 members
+quantity: 2
+quantity: 3
+quantity: 5 hours
+quantity: a half inch
+quantity: 2
+quantity: 800 mb
+quantity: 50
+quantity: 16
+quantity: 3 hundred
+quantity: 50 bucks
+quantity: 2
+quantity: 2
+quantity: 3
+quantity: 50 percent
+quantity: 50,000
+quantity: 5 kilos
+quantity: dollar
+quantity: 1 million
+quantity: 3
+quantity: 3
+quantity: 3
+quantity: 5
+quantity: one
+quantity: one
+quantity: none
+quantity: one
+quantity: one
+quantity: 20 min
+quantity: double
+quantity: one
+quantity: three
+quantity: three
+quantity: 19
+quantity: 14
+quantity: 2
+quantity: 4
+quantity: <110> 
+quantity: 4/2*6/2
+quantity: one
+quantity: for free
+quantity: 4
+quantity: a lot
+quantity: truckloads
+quantity: <3
+quantity: 500
+quantity: 1
+quantity: 3
+quantity: 2
+quantity: 1
+quantity: 3 packs of minced pork
+quantity: 1x oyster sauce,
+quantity: 555
+quantity: One grand
+quantity: 2 weeks
+quantity: 22
+quantity: 5
+quantity: around 15
+quantity: 1 whole cooler last
+quantity: 1
+quantity: 50 $1 bills
+quantity: $.50._.,
+quantity: One
+quantity: One
+quantity: 21 shots
+quantity: 4+ hours
+quantity: 0
+quantity: $15
+quantity: 5XL
+quantity: $10
+quantity: .5
+quantity: 555
+quantity: 6
+quantity: 10 mins,
+quantity: twice
+quantity: 100000x
+quantity: a sec
+quantity: $300
+quantity: 300
+quantity: 300 tickets 150
+quantity: 450
+quantity: 270,
+quantity: 270 for 3 night
+quantity: $5
+quantity: 7 dollars
+quantity: two days
+quantity: 0.7kg
+quantity: 2 mins
+quantity: one
+quantity: two
+quantity: two
+quantity: 5 mins
+quantity: billion
+quantity: 7
+quantity: first
+quantity: 1000 words
+quantity: 3kg
+quantity: 3rd
+quantity: 4 hours
+quantity: 15.6
+quantity: 13.3
+quantity: 13
+quantity: 2
+cost: $8.75
+cost: $8.75
+quantity: 1 person
+quantity: 7.5 hours
+quantity: 2
+quantity: first
+quantity: 11th
+quantity: another hour
+quantity: 4 years
+quantity: 5-6
+quantity: 2 days
+quantity: 100
+quantity: 50
+quantity: 200+
+quantity: 100
+quantity: 1800
+quantity: 1200
+quantity: 4
+quantity: 5
+quantity: 5
+quantity: 5
+quantity: 5 min late
+quantity: 15$
+quantity: $15
+quantity: headcount
+quantity: $125
+quantity: 90dollar
+quantity: 3-0
+quantity: $1
+quantity: 30
+quantity: 10
+quantity: 10
+lengthoftime: one sec
+cost/fee: $50
+quantity: ~60-70
+quantity: 60
+quantity: 70
+quantity: $50
+quantity: $50
+quantity: 70
+quantity: 50-60
+quantity: 4
+quantity: 4 from now,
+quantity: Lower budget
+quantity: 15
+quantity: 3 min
+quantity: half off
+quantity: 2:12
+quantity: one
+quantity: 3
+quantity: 4
+quantity: 4
+quantity: three
+lengthoftime: 2 minutes
+quantity: 4.58
+quantity: 15 mins
+quantity: 30 secs
+quantity: a year
+quantity: 22
+price/fee: $1
+quantity: 2
+quantity: One sec
+amountoftime: 7 hours
+amountoftime: 16 hours
+quantity: last
+quantity: free
+quantity: 7k
+quantity: 4
+quantity: 4
+quantity: 3-0
+quantity: 2-1
+quantity: 21-19
+quantity: 21-19
+quantity: $26
+quantity: 50
+quantity: 2
+quantity: 2
+quantity: 2
+costs/total/fee: $6
+quantity: $26
+quantity: 40% of our grade
+quantity: 2 for \"creating a good team atmosphere\"
+quantity: A
+quantity: 3s
+quantity: 10
+quantity: 118
+quantity: 80%
+quantity: 118
+quantity: 150 percent
+frequency: once or twice a month
+quantity: equals 0.9975
+quantity: c = 358.97
+quantity: c' = 358.08
+quantity: 1.026c = c'
+quantity: 0.998 not 0.995
+quantity: 358.97
+quantity: 10
+quantity: $7
+quantity: 6 dolla
+quantity: 3 colors
+quantity: 24
+quantity: by 8
+quantity: 12 hours
+quantity: 4 dollar
+quantity: 12.99
+quantity: 16.99,
+quantity: 4.25
+quantity: three
+price: 4 dollar
+price: 12.99
+price: 16.99
+price: 4.25
+quantity: 5
+quantity: 20+
+quantity: two
+quantity: 22
+quantity: 30mins
+quantity: 100k
+quantity: One only
+quantity: charges
+quantity: one
+quantity: 1098
+moneyamount: $213.91
+quantity: 112
+quantity: 75
+quantity: 75
+quantity: 55
+quantity: 75
+quantity: 1
+quantity: 4
+quantity: 1
+quantity: 5
+quantity: two
+quantity: 5
+quantity: once
+quantity: 3
+quantity: first
+quantity: One minute
+quantity: 1
+quantity: 1 or 2
+quantity: 3000
+quantity: 2
+quantity: .5-1 hour
+quantity: 30.50
+quantity: Thousand
+quantity: One
+quantity: Thousand
+quantity: 10 min
+quantity: $10
+quantity: all
+quantity: $60
+quantity: $20
+quantity: 5
+quantity: half a million
+quantity: several thousand
+quantity: Several thousand
+quantity: 0000
+quantity: fifth
+quantity: 150 cr
+quantity: 3
+quantity: 3 members
+quantity: 2
+quantity: 3
+quantity: 5 hours
+quantity: a half inch
+quantity: 2
+quantity: 800 mb
+quantity: 50
+quantity: 16
+quantity: 3 hundred
+quantity: 50 bucks
+quantity: 2
+quantity: 2
+quantity: 3
+quantity: 50 percent
+quantity: 50,000
+quantity: 5 kilos
+quantity: dollar
+quantity: 1 million
+quantity: 3
+quantity: 3
+quantity: 3
+quantity: 5
+quantity: one
+quantity: one
+quantity: none
+quantity: one
+quantity: one
+quantity: 20 min
+quantity: double
+quantity: one
+quantity: three
+quantity: three
+quantity: 19
+quantity: 14
+quantity: 2
+quantity: 4
+quantity: <110> 
+quantity: 4/2*6/2
+quantity: one
+quantity: for free
+quantity: 4
+quantity: a lot
+quantity: truckloads
+quantity: <3
+quantity: 500
+quantity: 1
+quantity: 3
+quantity: 2
+quantity: 1
+quantity: 3 packs of minced pork
+quantity: 1x oyster sauce,
+quantity: 555
+quantity: One grand
+quantity: 2 weeks
+quantity: 22
+quantity: 5
+quantity: around 15
+quantity: 1 whole cooler last
+quantity: 1
+quantity: 50 $1 bills
+quantity: $.50._.,
+quantity: One
+quantity: One
+quantity: 21 shots
+quantity: 4+ hours
+quantity: 0
+quantity: $15
+quantity: 5XL
+quantity: $10
+quantity: .5
+quantity: 555
+quantity: 6
+quantity: 10 mins,
+quantity: twice
+quantity: 100000x
+quantity: a sec
+quantity: $300
+quantity: 300
+quantity: 300 tickets 150
+quantity: 450
+quantity: 270,
+quantity: 270 for 3 night
+quantity: $5
+quantity: 7 dollars
+quantity: two days
+quantity: 0.7kg
+quantity: 2 mins
+quantity: one
+quantity: two
+quantity: two
+quantity: 5 mins
+quantity: billion
+quantity: 7
+quantity: first
+quantity: 1000 words
+quantity: 3kg
+quantity: 3rd
+quantity: 4 hours
+quantity: 15.6
+quantity: 13.3
+quantity: 13
+quantity: 2
+cost: $8.75
+cost: $8.75
+quantity: 1 person
+quantity: 7.5 hours
+quantity: 2
+quantity: first
+quantity: 11th
+quantity: another hour
+quantity: 4 years
+quantity: 5-6
+quantity: 2 days
+quantity: 100
+quantity: 50
+quantity: 200+
+quantity: 100
+quantity: 1800
+quantity: 1200
+quantity: 4
+quantity: 5
+quantity: 5
+quantity: 5
+quantity: 5 min late
+quantity: 15$
+quantity: $15
+quantity: headcount
+quantity: $125
+quantity: 90dollar
+quantity: 3-0
+quantity: $1
+quantity: 30
+quantity: 10
+quantity: 10
+lengthoftime: one sec
+cost/fee: $50
+quantity: ~60-70
+quantity: 60
+quantity: 70
+quantity: $50
+quantity: $50
+quantity: 70
+quantity: 50-60
+quantity: 4
+quantity: 4 from now,
+quantity: Lower budget
+quantity: 15
+quantity: 3 min
+quantity: half off
+quantity: 2:12
+quantity: one
+quantity: 3
+quantity: 4
+quantity: 4
+quantity: three
+lengthoftime: 2 minutes
+quantity: 4.58
+quantity: 15 mins
+quantity: 30 secs
+quantity: a year
+quantity: 22
+price/fee: $1
+quantity: 2
+quantity: One sec
+amountoftime: 7 hours
+amountoftime: 16 hours
+quantity: last
+quantity: free
+quantity: 7k
+quantity: 4
+quantity: 4
+quantity: 3-0
+quantity: 2-1
+quantity: 21-19
+quantity: 21-19
+quantity: $26
+quantity: 50
+quantity: 2
+quantity: 2
+quantity: 2
+costs/total/fee: $6
+quantity: $26
+quantity: 40% of our grade
+quantity: 2 for \"creating a good team atmosphere\"
+quantity: A
+quantity: 3s
+quantity: 10
+quantity: 118
+quantity: 80%
+quantity: 118
+quantity: 150 percent
+frequency: once or twice a month
+quantity: equals 0.9975
+quantity: c = 358.97
+quantity: c' = 358.08
+quantity: 1.026c = c'
+quantity: 0.998 not 0.995
+quantity: 358.97
+quantity: 10
+quantity: $7
+quantity: 6 dolla
+quantity: 3 colors
+quantity: 24
+quantity: by 8
+quantity: 12 hours
+quantity: 4 dollar
+quantity: 12.99
+quantity: 16.99,
+quantity: 4.25
+quantity: three
+price: 4 dollar
+price: 12.99
+price: 16.99
+price: 4.25
+quantity: 5
+quantity: 20+
+quantity: two
+quantity: 22
+quantity: 30mins
+quantity: 100k
+quantity: One only
+quantity: charges
+quantity: one
+quantity: 1098
+moneyamount: $213.91
+quantity: 112
+quantity: 75
+quantity: 75
+quantity: 55
+quantity: 75
+quantity: 1
+quantity: 4
+quantity: 1
+quantity: 5
+quantity: two
+quantity: 5
+quantity: once
+quantity: 3
+quantity: first
+quantity: One minute
+quantity: 1
+quantity: 1 or 2
+quantity: 3000
+quantity: 2
+quantity: .5-1 hour
+quantity: 30.50
+quantity: Thousand
+quantity: One
+quantity: Thousand
+quantity: 10 min
+quantity: $10
+quantity: all
+quantity: $60
+quantity: $20
+quantity: 5
+quantity: half a million
+quantity: several thousand
+quantity: Several thousand
+quantity: 0000
+quantity: fifth
+quantity: 150 cr
+quantity: 3
+quantity: 3 members
+quantity: 2
+quantity: 3
+quantity: 5 hours
+quantity: a half inch
+quantity: 2
+quantity: 800 mb
+quantity: 50
+quantity: 16
+quantity: 3 hundred
+quantity: 50 bucks
+quantity: 2
+quantity: 2
+quantity: 3
+quantity: 50 percent
+quantity: 50,000
+quantity: 5 kilos
+quantity: dollar
+quantity: 1 million
+quantity: 3
+quantity: 3
+quantity: 3
+quantity: 5
+quantity: one
+quantity: one
+quantity: none
+quantity: one
+quantity: one
+quantity: 20 min
+quantity: double
+quantity: one
+quantity: three
+quantity: three
+quantity: 19
+quantity: 14
+quantity: 2
+quantity: 4
+quantity: <110> 
+quantity: 4/2*6/2
+quantity: one
+quantity: for free
+quantity: 4
+quantity: a lot
+quantity: truckloads
+quantity: <3
+quantity: 500
+quantity: 1
+quantity: 3
+quantity: 2
+quantity: 1
+quantity: 3 packs of minced pork
+quantity: 1x oyster sauce,
+quantity: 555
+quantity: One grand
+quantity: 2 weeks
+quantity: 22
+quantity: 5
+quantity: around 15
+quantity: 1 whole cooler last
+quantity: 1
+quantity: 50 $1 bills
+quantity: $.50._.,
+quantity: One
+quantity: One
+quantity: 21 shots
+quantity: 4+ hours
+quantity: 0
+quantity: $15
+quantity: 5XL
+quantity: $10
+quantity: .5
+quantity: 555
+quantity: 6
+quantity: 10 mins,
+quantity: twice
+quantity: 100000x
+quantity: a sec
+quantity: $300
+quantity: 300
+quantity: 300 tickets 150
+quantity: 450
+quantity: 270,
+quantity: 270 for 3 night
+quantity: $5
+quantity: 7 dollars
+quantity: two days
+quantity: 0.7kg
+quantity: 2 mins
+quantity: one
+quantity: two
+quantity: two
+quantity: 5 mins
+quantity: billion
+quantity: 7
+quantity: first
+quantity: 1000 words
+quantity: 3kg
+quantity: 3rd
+quantity: 4 hours
+quantity: 15.6
+quantity: 13.3
+quantity: 13
+quantity: 2
+cost: $8.75
+cost: $8.75
+quantity: 1 person
+quantity: 7.5 hours
+quantity: 2
+quantity: first
+quantity: 11th
+quantity: another hour
+quantity: 4 years
+quantity: 5-6
+quantity: 2 days
+quantity: 100
+quantity: 50
+quantity: 200+
+quantity: 100
+quantity: 1800
+quantity: 1200
+quantity: 4
+quantity: 5
+quantity: 5
+quantity: 5
+quantity: 5 min late
+quantity: 15$
+quantity: $15
+quantity: headcount
+quantity: $125
+quantity: 90dollar
+quantity: 3-0
+quantity: $1
+quantity: 30
+quantity: 10
+quantity: 10
+lengthoftime: one sec
+cost/fee: $50
+quantity: ~60-70
+quantity: 60
+quantity: 70
+quantity: $50
+quantity: $50
+quantity: 70
+quantity: 50-60
+quantity: 4
+quantity: 4 from now,
+quantity: Lower budget
+quantity: 15
+quantity: 3 min
+quantity: half off
+quantity: 2:12
+quantity: one
+quantity: 3
+quantity: 4
+quantity: 4
+quantity: three
+lengthoftime: 2 minutes
+quantity: 4.58
+quantity: 15 mins
+quantity: 30 secs
+quantity: a year
+quantity: 22
+price/fee: $1
+quantity: 2
+quantity: One sec
+amountoftime: 7 hours
+amountoftime: 16 hours
+quantity: last
+quantity: free
+quantity: 7k
+quantity: 4
+quantity: 4
+quantity: 3-0
+quantity: 2-1
+quantity: 21-19
+quantity: 21-19
+quantity: $26
+quantity: 50
+quantity: 2
+quantity: 2
+quantity: 2
+costs/total/fee: $6
+quantity: $26
+quantity: 40% of our grade
+quantity: 2 for \"creating a good team atmosphere\"
+quantity: A
+quantity: 3s
+quantity: 10
+quantity: 118
+quantity: 80%
+quantity: 118
+quantity: 150 percent
+frequency: once or twice a month
+quantity: equals 0.9975
+quantity: c = 358.97
+quantity: c' = 358.08
+quantity: 1.026c = c'
+quantity: 0.998 not 0.995
+quantity: 358.97
+quantity: 10
+quantity: $7
+quantity: 6 dolla
+quantity: 3 colors
+quantity: 24
+quantity: by 8
+quantity: 12 hours
+quantity: 4 dollar
+quantity: 12.99
+quantity: 16.99,
+quantity: 4.25
+quantity: three
+price: 4 dollar
+price: 12.99
+price: 16.99
+price: 4.25
+quantity: 5
+quantity: 20+
+quantity: two
+quantity: 22
+quantity: 30mins
+quantity: 100k
+quantity: One only
+quantity: charges
+quantity: one
+quantity: 1098
+moneyamount: $213.91
+quantity: 112
+quantity: 75
+quantity: 75
+quantity: 55
+quantity: 75
+quantity: 1
+quantity: 4
+quantity: 1
+quantity: 5
+quantity: two
+quantity: 5
+quantity: once
+quantity: 3
+quantity: first
+quantity: One minute
+quantity: 1
+quantity: 1 or 2
+quantity: 3000
+quantity: 2
+quantity: .5-1 hour
+quantity: 30.50
+quantity: Thousand
+quantity: One
+quantity: Thousand
+quantity: 10 min
+quantity: $10
+quantity: all
+quantity: $60
+quantity: $20
+quantity: 5
+quantity: half a million
+quantity: several thousand
+quantity: Several thousand
+quantity: 0000
+quantity: fifth
+quantity: 150 cr
+quantity: 3
+quantity: 3 members
+quantity: 2
+quantity: 3
+quantity: 5 hours
+quantity: a half inch
+quantity: 2
+quantity: 800 mb
+quantity: 50
+quantity: 16
+quantity: 3 hundred
+quantity: 50 bucks
+quantity: 2
+quantity: 2
+quantity: 3
+quantity: 50 percent
+quantity: 50,000
+quantity: 5 kilos
+quantity: dollar
+quantity: 1 million
+quantity: 3
+quantity: 3
+quantity: 3
+quantity: 5
+quantity: one
+quantity: one
+quantity: none
+quantity: one
+quantity: one
+quantity: 20 min
+quantity: double
+quantity: one
+quantity: three
+quantity: three
+quantity: 19
+quantity: 14
+quantity: 2
+quantity: 4
+quantity: <110> 
+quantity: 4/2*6/2
+quantity: one
+quantity: for free
+quantity: 4
+quantity: a lot
+quantity: truckloads
+quantity: <3
+quantity: 500
+quantity: 1
+quantity: 3
+quantity: 2
+quantity: 1
+quantity: 3 packs of minced pork
+quantity: 1x oyster sauce,
+quantity: 555
+quantity: One grand
+quantity: 2 weeks
+quantity: 22
+quantity: 5
+quantity: around 15
+quantity: 1 whole cooler last
+quantity: 1
+quantity: 50 $1 bills
+quantity: $.50._.,
+quantity: One
+quantity: One
+quantity: 21 shots
+quantity: 4+ hours
+quantity: 0
+quantity: $15
+quantity: 5XL
+quantity: $10
+quantity: .5
+quantity: 555
+quantity: 6
+quantity: 10 mins,
+quantity: twice
+quantity: 100000x
+quantity: a sec
+quantity: $300
+quantity: 300
+quantity: 300 tickets 150
+quantity: 450
+quantity: 270,
+quantity: 270 for 3 night
+quantity: $5
+quantity: 7 dollars
+quantity: two days
+quantity: 0.7kg
+quantity: 2 mins
+quantity: one
+quantity: two
+quantity: two
+quantity: 5 mins
+quantity: billion
+quantity: 7
+quantity: first
+quantity: 1000 words
+quantity: 3kg
+quantity: 3rd
+quantity: 4 hours
+quantity: 15.6
+quantity: 13.3
+quantity: 13
+quantity: 2
+cost: $8.75
+cost: $8.75
+quantity: 1 person
+quantity: 7.5 hours
+quantity: 2
+quantity: first
+quantity: 11th
+quantity: another hour
+quantity: 4 years
+quantity: 5-6
+quantity: 2 days
+quantity: 100
+quantity: 50
+quantity: 200+
+quantity: 100
+quantity: 1800
+quantity: 1200
+quantity: 4
+quantity: 5
+quantity: 5
+quantity: 5
+quantity: 5 min late
+quantity: 15$
+quantity: $15
+quantity: headcount
+quantity: $125
+quantity: 90dollar
+quantity: 3-0
+quantity: $1
+quantity: 30
+quantity: 10
+quantity: 10
+lengthoftime: one sec
+cost/fee: $50
+quantity: ~60-70
+quantity: 60
+quantity: 70
+quantity: $50
+quantity: $50
+quantity: 70
+quantity: 50-60
+quantity: 4
+quantity: 4 from now,
+quantity: Lower budget
+quantity: 15
+quantity: 3 min
+quantity: half off
+quantity: 2:12
+quantity: one
+quantity: 3
+quantity: 4
+quantity: 4
+quantity: three
+lengthoftime: 2 minutes
+quantity: 4.58
+quantity: 15 mins
+quantity: 30 secs
+quantity: a year
+quantity: 22
+price/fee: $1
+quantity: 2
+quantity: One sec
+amountoftime: 7 hours
+amountoftime: 16 hours
+quantity: last
+quantity: free
+quantity: 7k
+quantity: 4
+quantity: 4
+quantity: 3-0
+quantity: 2-1
+quantity: 21-19
+quantity: 21-19
+quantity: $26
+quantity: 50
+quantity: 2
+quantity: 2
+quantity: 2
+costs/total/fee: $6
+quantity: $26
+quantity: 40% of our grade
+quantity: 2 for \"creating a good team atmosphere\"
+quantity: A
+quantity: 3s
+quantity: 10
+quantity: 118
+quantity: 80%
+quantity: 118
+quantity: 150 percent
+frequency: once or twice a month
+quantity: equals 0.9975
+quantity: c = 358.97
+quantity: c' = 358.08
+quantity: 1.026c = c'
+quantity: 0.998 not 0.995
+quantity: 358.97
+quantity: 10
+quantity: $7
+quantity: 6 dolla
+quantity: 3 colors
+quantity: 24
+quantity: by 8
+quantity: 12 hours
+quantity: 4 dollar
+quantity: 12.99
+quantity: 16.99,
+quantity: 4.25
+quantity: three
+price: 4 dollar
+price: 12.99
+price: 16.99
+price: 4.25
+quantity: 5
+quantity: 20+
+quantity: two
+quantity: 22
+quantity: 30mins
+quantity: 100k
+quantity: One only
+quantity: charges
+quantity: one
+quantity: 1098
+moneyamount: $213.91
+quantity: 112
+quantity: 75
+quantity: 75
+quantity: 55
+quantity: 75
+quantity: 1
+quantity: 4
+quantity: 1
+quantity: 5
+quantity: two
+quantity: 5
+quantity: once
+quantity: 3
+quantity: first
+quantity: One minute
+quantity: 1
+quantity: 1 or 2
+quantity: 3000
+quantity: 2
+quantity: .5-1 hour
+quantity: 30.50
+quantity: Thousand
+quantity: One
+quantity: Thousand
+quantity: 10 min
+quantity: $10
+quantity: all
+quantity: $60
+quantity: $20
+quantity: 5
+quantity: half a million
+quantity: several thousand
+quantity: Several thousand
+quantity: 0000
+quantity: fifth
+quantity: 150 cr
+quantity: 3
+quantity: 3 members
+quantity: 2
+quantity: 3
+quantity: 5 hours
+quantity: a half inch
+quantity: 2
+quantity: 800 mb
+quantity: 50
+quantity: 16
+quantity: 3 hundred
+quantity: 50 bucks
+quantity: 2
+quantity: 2
+quantity: 3
+quantity: 50 percent
+quantity: 50,000
+quantity: 5 kilos
+quantity: dollar
+quantity: 1 million
+quantity: 3
+quantity: 3
+quantity: 3
+quantity: 5
+quantity: one
+quantity: one
+quantity: none
+quantity: one
+quantity: one
+quantity: 20 min
+quantity: double
+quantity: one
+quantity: three
+quantity: three
+quantity: 19
+quantity: 14
+quantity: 2
+quantity: 4
+quantity: <110> 
+quantity: 4/2*6/2
+quantity: one
+quantity: for free
+quantity: 4
+quantity: a lot
+quantity: truckloads
+quantity: <3
+quantity: 500
+quantity: 1
+quantity: 3
+quantity: 2
+quantity: 1
+quantity: 3 packs of minced pork
+quantity: 1x oyster sauce,
+quantity: 555
+quantity: One grand
+quantity: 2 weeks
+quantity: 22
+quantity: 5
+quantity: around 15
+quantity: 1 whole cooler last
+quantity: 1
+quantity: 50 $1 bills
+quantity: $.50._.,
+quantity: One
+quantity: One
+quantity: 21 shots
+quantity: 4+ hours
+quantity: 0
+quantity: $15
+quantity: 5XL
+quantity: $10
+quantity: .5
+quantity: 555
+quantity: 6
+quantity: 10 mins,
+quantity: twice
+quantity: 100000x
+quantity: a sec
+quantity: $300
+quantity: 300
+quantity: 300 tickets 150
+quantity: 450
+quantity: 270,
+quantity: 270 for 3 night
+quantity: $5
+quantity: 7 dollars
+quantity: two days
+quantity: 0.7kg
+quantity: 2 mins
+quantity: one
+quantity: two
+quantity: two
+quantity: 5 mins
+quantity: billion
+quantity: 7
+quantity: first
+quantity: 1000 words
+quantity: 3kg
+quantity: 3rd
+quantity: 4 hours
+quantity: 15.6
+quantity: 13.3
+quantity: 13
+quantity: 2
+cost: $8.75
+cost: $8.75
+quantity: 1 person
+quantity: 7.5 hours
+quantity: 2
+quantity: first
+quantity: 11th
+quantity: another hour
+quantity: 4 years
+quantity: 5-6
+quantity: 2 days
+quantity: 100
+quantity: 50
+quantity: 200+
+quantity: 100
+quantity: 1800
+quantity: 1200
+quantity: 4
+quantity: 5
+quantity: 5
+quantity: 5
+quantity: 5 min late
+quantity: 15$
+quantity: $15
+quantity: headcount
+quantity: $125
+quantity: 90dollar
+quantity: 3-0
+quantity: $1
+quantity: 30
+quantity: 10
+quantity: 10
+lengthoftime: one sec
+cost/fee: $50
+quantity: ~60-70
+quantity: 60
+quantity: 70
+quantity: $50
+quantity: $50
+quantity: 70
+quantity: 50-60
+quantity: 4
+quantity: 4 from now,
+quantity: Lower budget
+quantity: 15
+quantity: 3 min
+quantity: half off
+quantity: 2:12
+quantity: one
+quantity: 3
+quantity: 4
+quantity: 4
+quantity: three
+lengthoftime: 2 minutes
+quantity: 4.58
+quantity: 15 mins
+quantity: 30 secs
+quantity: a year
+quantity: 22
+price/fee: $1
+quantity: 2
+quantity: One sec
+amountoftime: 7 hours
+amountoftime: 16 hours
+quantity: last
+quantity: free
+quantity: 7k
+quantity: 4
+quantity: 4
+quantity: 3-0
+quantity: 2-1
+quantity: 21-19
+quantity: 21-19
+quantity: $26
+quantity: 50
+quantity: 2
+quantity: 2
+quantity: 2
+costs/total/fee: $6
+quantity: $26
+quantity: 40% of our grade
+quantity: 2 for \"creating a good team atmosphere\"
+quantity: A
+quantity: 3s
+quantity: 10
+quantity: 118
+quantity: 80%
+quantity: 118
+quantity: 150 percent
+frequency: once or twice a month
+quantity: equals 0.9975
+quantity: c = 358.97
+quantity: c' = 358.08
+quantity: 1.026c = c'
+quantity: 0.998 not 0.995
+quantity: 358.97
+quantity: 10
+quantity: $7
+quantity: 6 dolla
+quantity: 3 colors
+quantity: 24
+quantity: by 8
+quantity: 12 hours
+quantity: 4 dollar
+quantity: 12.99
+quantity: 16.99,
+quantity: 4.25
+quantity: three
+price: 4 dollar
+price: 12.99
+price: 16.99
+price: 4.25
+quantity: 5
+quantity: 20+
+quantity: two
+quantity: 22
+quantity: 30mins
+quantity: 100k
+quantity: One only
+quantity: charges
+quantity: one
+quantity: 1098
+moneyamount: $213.91
+quantity: 112
+quantity: 75
+quantity: 75
+quantity: 55
+quantity: 75
+quantity: 1
+quantity: 4
+quantity: 1
+quantity: 5
+quantity: two
+quantity: 5
+quantity: once
+quantity: 3
+quantity: first
+quantity: One minute
+quantity: 1
+quantity: 1 or 2
+quantity: 3000
+quantity: 2
+quantity: .5-1 hour
+quantity: 30.50
+quantity: Thousand
+quantity: One
+quantity: Thousand
+quantity: 10 min
+quantity: $10
+quantity: all
+quantity: $60
+quantity: $20
+quantity: 5
+quantity: half a million
+quantity: several thousand
+quantity: Several thousand
+quantity: 0000
+quantity: fifth
+quantity: 150 cr
+quantity: 3
+quantity: 3 members
+quantity: 2
+quantity: 3
+quantity: 5 hours
+quantity: a half inch
+quantity: 2
+quantity: 800 mb
+quantity: 50
+quantity: 16
+quantity: 3 hundred
+quantity: 50 bucks
+quantity: 2
+quantity: 2
+quantity: 3
+quantity: 50 percent
+quantity: 50,000
+quantity: 5 kilos
+quantity: dollar
+quantity: 1 million
+quantity: 3
+quantity: 3
+quantity: 3
+quantity: 5
+quantity: one
+quantity: one
+quantity: none
+quantity: one
+quantity: one
+quantity: 20 min
+quantity: double
+quantity: one
+quantity: three
+quantity: three
+quantity: 19
+quantity: 14
+quantity: 2
+quantity: 4
+quantity: <110> 
+quantity: 4/2*6/2
+quantity: one
+quantity: for free
+quantity: 4
+quantity: a lot
+quantity: truckloads
+quantity: <3
+quantity: 500
+quantity: 1
+quantity: 3
+quantity: 2
+quantity: 1
+quantity: 3 packs of minced pork
+quantity: 1x oyster sauce,
+quantity: 555
+quantity: One grand
+quantity: 2 weeks
+quantity: 22
+quantity: 5
+quantity: around 15
+quantity: 1 whole cooler last
+quantity: 1
+quantity: 50 $1 bills
+quantity: $.50._.,
+quantity: One
+quantity: One
+quantity: 21 shots
+quantity: 4+ hours
+quantity: 0
+quantity: $15
+quantity: 5XL
+quantity: $10
+quantity: .5
+quantity: 555
+quantity: 6
+quantity: 10 mins,
+quantity: twice
+quantity: 100000x
+quantity: a sec
+quantity: $300
+quantity: 300
+quantity: 300 tickets 150
+quantity: 450
+quantity: 270,
+quantity: 270 for 3 night
+quantity: $5
+quantity: 7 dollars
+quantity: two days
+quantity: 0.7kg
+quantity: 2 mins
+quantity: one
+quantity: two
+quantity: two
+quantity: 5 mins
+quantity: billion
+quantity: 7
+quantity: first
+quantity: 1000 words
+quantity: 3kg
+quantity: 3rd
+quantity: 4 hours
+quantity: 15.6
+quantity: 13.3
+quantity: 13
+quantity: 2
+cost: $8.75
+cost: $8.75
+quantity: 1 person
+quantity: 7.5 hours
+quantity: 2
+quantity: first
+quantity: 11th
+quantity: another hour
+quantity: 4 years
+quantity: 5-6
+quantity: 2 days
+quantity: 100
+quantity: 50
+quantity: 200+
+quantity: 100
+quantity: 1800
+quantity: 1200
+quantity: 4
+quantity: 5
+quantity: 5
+quantity: 5
+quantity: 5 min late
+quantity: 15$
+quantity: $15
+quantity: headcount
+quantity: $125
+quantity: 90dollar
+quantity: 3-0
+quantity: $1
+quantity: 30
+quantity: 10
+quantity: 10
+lengthoftime: one sec
+cost/fee: $50
+quantity: ~60-70
+quantity: 60
+quantity: 70
+quantity: $50
+quantity: $50
+quantity: 70
+quantity: 50-60
+quantity: 4
+quantity: 4 from now,
+quantity: Lower budget
+quantity: 15
+quantity: 3 min
+quantity: half off
+quantity: 2:12
+quantity: one
+quantity: 3
+quantity: 4
+quantity: 4
+quantity: three
+lengthoftime: 2 minutes
+quantity: 4.58
+quantity: 15 mins
+quantity: 30 secs
+quantity: a year
+quantity: 22
+price/fee: $1
+quantity: 2
+quantity: One sec
+amountoftime: 7 hours
+amountoftime: 16 hours
+quantity: last
+quantity: free
+quantity: 7k
+quantity: 4
+quantity: 4
+quantity: 3-0
+quantity: 2-1
+quantity: 21-19
+quantity: 21-19
+quantity: $26
+quantity: 50
+quantity: 2
+quantity: 2
+quantity: 2
+costs/total/fee: $6
+quantity: $26
+quantity: 40% of our grade
+quantity: 2 for \"creating a good team atmosphere\"
+quantity: A
+quantity: 3s
+quantity: 10
+quantity: 118
+quantity: 80%
+quantity: 118
+quantity: 150 percent
+frequency: once or twice a month
+quantity: equals 0.9975
+quantity: c = 358.97
+quantity: c' = 358.08
+quantity: 1.026c = c'
+quantity: 0.998 not 0.995
+quantity: 358.97
+quantity: 10
+quantity: $7
+quantity: 6 dolla
+quantity: 3 colors
+quantity: 24
+quantity: by 8
+quantity: 12 hours
+quantity: 4 dollar
+quantity: 12.99
+quantity: 16.99,
+quantity: 4.25
+quantity: three
+price: 4 dollar
+price: 12.99
+price: 16.99
+price: 4.25
+quantity: 5
+quantity: 20+
+quantity: two
+quantity: 22

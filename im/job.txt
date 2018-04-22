@@ -1,0 +1,441 @@
+job: TAing
+job: TA
+job: intern
+job: internship
+job: TA
+job: supervisor
+job: supervisor
+job: mc
+job: mcs
+job: artist
+job: actor
+job: Human Delisa Farmer
+job: Dwarf Cleric Slave
+job: zombie beholder
+job: stocker
+job: counselor
+job: internship
+job: internship
+job: tsa officers
+job: current president
+job: Cmu vice,
+job: TSA president
+job: treasurer
+job: secretary
+job: professor
+job: professor's
+job: Senators
+job: model
+job: faculty advisor
+job: sweepstakes chair
+job: sweepstakes chair
+job: mechanic
+job: chairman
+job: corporate sr vp,
+job: professor
+job: beeler
+job: drivers
+job: scout
+job: drivers
+job: website developer
+job: english teaching
+job: psychiatrist
+job: psychiatrist
+job: model
+job: cia
+job: divers
+job: TA
+job: driver's
+job: announcer
+job: mechanics
+job: president
+job: president
+job: president
+job: DRIVERS
+job: treasurer
+job: designer
+job: programmer
+job: product operations
+job: econ professors
+job: advisor
+job: $10 each
+job: ta's
+job: TAs
+job: TAing
+job: TA
+job: intern
+job: internship
+job: TA
+job: supervisor
+job: supervisor
+job: mc
+job: mcs
+job: artist
+job: actor
+job: Human Delisa Farmer
+job: Dwarf Cleric Slave
+job: zombie beholder
+job: stocker
+job: counselor
+job: internship
+job: internship
+job: tsa officers
+job: current president
+job: Cmu vice,
+job: TSA president
+job: treasurer
+job: secretary
+job: professor
+job: professor's
+job: Senators
+job: model
+job: faculty advisor
+job: sweepstakes chair
+job: sweepstakes chair
+job: mechanic
+job: chairman
+job: corporate sr vp,
+job: professor
+job: beeler
+job: drivers
+job: scout
+job: drivers
+job: website developer
+job: english teaching
+job: psychiatrist
+job: psychiatrist
+job: model
+job: cia
+job: divers
+job: TA
+job: driver's
+job: announcer
+job: mechanics
+job: president
+job: president
+job: president
+job: DRIVERS
+job: treasurer
+job: designer
+job: programmer
+job: product operations
+job: econ professors
+job: advisor
+job: $10 each
+job: ta's
+job: TAs
+job: TAing
+job: TA
+job: intern
+job: internship
+job: TA
+job: supervisor
+job: supervisor
+job: mc
+job: mcs
+job: artist
+job: actor
+job: Human Delisa Farmer
+job: Dwarf Cleric Slave
+job: zombie beholder
+job: stocker
+job: counselor
+job: internship
+job: internship
+job: tsa officers
+job: current president
+job: Cmu vice,
+job: TSA president
+job: treasurer
+job: secretary
+job: professor
+job: professor's
+job: Senators
+job: model
+job: faculty advisor
+job: sweepstakes chair
+job: sweepstakes chair
+job: mechanic
+job: chairman
+job: corporate sr vp,
+job: professor
+job: beeler
+job: drivers
+job: scout
+job: drivers
+job: website developer
+job: english teaching
+job: psychiatrist
+job: psychiatrist
+job: model
+job: cia
+job: divers
+job: TA
+job: driver's
+job: announcer
+job: mechanics
+job: president
+job: president
+job: president
+job: DRIVERS
+job: treasurer
+job: designer
+job: programmer
+job: product operations
+job: econ professors
+job: advisor
+job: $10 each
+job: ta's
+job: TAs
+job: TAing
+job: TA
+job: intern
+job: internship
+job: TA
+job: supervisor
+job: supervisor
+job: mc
+job: mcs
+job: artist
+job: actor
+job: Human Delisa Farmer
+job: Dwarf Cleric Slave
+job: zombie beholder
+job: stocker
+job: counselor
+job: internship
+job: internship
+job: tsa officers
+job: current president
+job: Cmu vice,
+job: TSA president
+job: treasurer
+job: secretary
+job: professor
+job: professor's
+job: Senators
+job: model
+job: faculty advisor
+job: sweepstakes chair
+job: sweepstakes chair
+job: mechanic
+job: chairman
+job: corporate sr vp,
+job: professor
+job: beeler
+job: drivers
+job: scout
+job: drivers
+job: website developer
+job: english teaching
+job: psychiatrist
+job: psychiatrist
+job: model
+job: cia
+job: divers
+job: TA
+job: driver's
+job: announcer
+job: mechanics
+job: president
+job: president
+job: president
+job: DRIVERS
+job: treasurer
+job: designer
+job: programmer
+job: product operations
+job: econ professors
+job: advisor
+job: $10 each
+job: ta's
+job: TAs
+job: TAing
+job: TA
+job: intern
+job: internship
+job: TA
+job: supervisor
+job: supervisor
+job: mc
+job: mcs
+job: artist
+job: actor
+job: Human Delisa Farmer
+job: Dwarf Cleric Slave
+job: zombie beholder
+job: stocker
+job: counselor
+job: internship
+job: internship
+job: tsa officers
+job: current president
+job: Cmu vice,
+job: TSA president
+job: treasurer
+job: secretary
+job: professor
+job: professor's
+job: Senators
+job: model
+job: faculty advisor
+job: sweepstakes chair
+job: sweepstakes chair
+job: mechanic
+job: chairman
+job: corporate sr vp,
+job: professor
+job: beeler
+job: drivers
+job: scout
+job: drivers
+job: website developer
+job: english teaching
+job: psychiatrist
+job: psychiatrist
+job: model
+job: cia
+job: divers
+job: TA
+job: driver's
+job: announcer
+job: mechanics
+job: president
+job: president
+job: president
+job: DRIVERS
+job: treasurer
+job: designer
+job: programmer
+job: product operations
+job: econ professors
+job: advisor
+job: $10 each
+job: ta's
+job: TAs
+job: TAing
+job: TA
+job: intern
+job: internship
+job: TA
+job: supervisor
+job: supervisor
+job: mc
+job: mcs
+job: artist
+job: actor
+job: Human Delisa Farmer
+job: Dwarf Cleric Slave
+job: zombie beholder
+job: stocker
+job: counselor
+job: internship
+job: internship
+job: tsa officers
+job: current president
+job: Cmu vice,
+job: TSA president
+job: treasurer
+job: secretary
+job: professor
+job: professor's
+job: Senators
+job: model
+job: faculty advisor
+job: sweepstakes chair
+job: sweepstakes chair
+job: mechanic
+job: chairman
+job: corporate sr vp,
+job: professor
+job: beeler
+job: drivers
+job: scout
+job: drivers
+job: website developer
+job: english teaching
+job: psychiatrist
+job: psychiatrist
+job: model
+job: cia
+job: divers
+job: TA
+job: driver's
+job: announcer
+job: mechanics
+job: president
+job: president
+job: president
+job: DRIVERS
+job: treasurer
+job: designer
+job: programmer
+job: product operations
+job: econ professors
+job: advisor
+job: $10 each
+job: ta's
+job: TAs
+job: TAing
+job: TA
+job: intern
+job: internship
+job: TA
+job: supervisor
+job: supervisor
+job: mc
+job: mcs
+job: artist
+job: actor
+job: Human Delisa Farmer
+job: Dwarf Cleric Slave
+job: zombie beholder
+job: stocker
+job: counselor
+job: internship
+job: internship
+job: tsa officers
+job: current president
+job: Cmu vice,
+job: TSA president
+job: treasurer
+job: secretary
+job: professor
+job: professor's
+job: Senators
+job: model
+job: faculty advisor
+job: sweepstakes chair
+job: sweepstakes chair
+job: mechanic
+job: chairman
+job: corporate sr vp,
+job: professor
+job: beeler
+job: drivers
+job: scout
+job: drivers
+job: website developer
+job: english teaching
+job: psychiatrist
+job: psychiatrist
+job: model
+job: cia
+job: divers
+job: TA
+job: driver's
+job: announcer
+job: mechanics
+job: president
+job: president
+job: president
+job: DRIVERS
+job: treasurer
+job: designer
+job: programmer
+job: product operations
+job: econ professors
+job: advisor
+job: $10 each
+job: ta's
+job: TAs

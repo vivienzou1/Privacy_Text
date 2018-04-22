@@ -1,0 +1,35 @@
+codedsoftware: easter egg
+network: nickelodeon
+network: cbsn
+computercommand: reset all settings
+updatenumber: 2.4.0.3
+codedsoftware: easter egg
+network: nickelodeon
+network: cbsn
+computercommand: reset all settings
+updatenumber: 2.4.0.3
+codedsoftware: easter egg
+network: nickelodeon
+network: cbsn
+computercommand: reset all settings
+updatenumber: 2.4.0.3
+codedsoftware: easter egg
+network: nickelodeon
+network: cbsn
+computercommand: reset all settings
+updatenumber: 2.4.0.3
+codedsoftware: easter egg
+network: nickelodeon
+network: cbsn
+computercommand: reset all settings
+updatenumber: 2.4.0.3
+codedsoftware: easter egg
+network: nickelodeon
+network: cbsn
+computercommand: reset all settings
+updatenumber: 2.4.0.3
+codedsoftware: easter egg
+network: nickelodeon
+network: cbsn
+computercommand: reset all settings
+updatenumber: 2.4.0.3

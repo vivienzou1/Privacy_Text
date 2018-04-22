@@ -1,0 +1,5336 @@
+state: oregon
+state: san diego
+state: miami
+state: oregon
+state: nyc
+state: nc
+state: new york
+state: new york
+state: nc
+state: florida
+state: nj!
+state: cali
+state: pa
+state: pa
+state: va
+state: pa
+state: cali
+state: ct
+state: boston's
+state: nycs
+state: s.c.
+state: north carolina
+state: missouri
+state: wa
+state: nv
+state: ny
+state: ny
+state: ca
+state: ny
+state: ohio
+state: new hampshire
+state: utah
+state: connecticut
+state: new jersey
+state: ohio
+state: wv
+state: montana
+state: california
+state: vermont
+state: hoosiers
+state: montana
+state: nj
+state: ny
+state: okinawa
+state: ny
+state: nj
+state: pennsylvania
+state: texas
+state: new york
+state: alaskan
+state: michigan
+state: upstate ny
+state: texas
+state: ca
+state: washington
+state: texas
+state: maine
+state: maine
+state: texas
+state: texas
+state: canton
+state: new york
+state: florida
+state: pa
+state: florida
+state: l.a.
+state: florida
+state: florida
+state: ny
+state: south carolina
+state: hawaii
+state: ny
+state: jersey
+state: florida
+state: florida
+state: ny
+state: texas
+state: ca
+state: ny
+state: 50 states.
+state: hawaii
+state: ny
+state: fla
+state: philly
+state: virginia
+state: michigan
+state: mi
+state: fl
+state: nyc
+state: nyc
+state: ny
+state: nyc
+state: the aloha state
+state: aloha state
+state: vt
+state: sf
+state: san francisco
+state: hv
+state: new york
+state: cali
+state: hawaii
+state: dallas
+state: wisconsin
+state: ny
+state: new yorker
+state: louisiana
+state: ny
+state: south carolina
+state: ny
+state: new jersey
+state: californian
+state: florida
+state: chicago
+state: maine
+state: ny
+state: washington
+state: texas
+state: tx
+state: virginia
+state: new jersey
+state: ca
+state: ny
+state: ny
+state: california
+state: florida's
+state: michigan
+state: california
+state: new york
+state: kansas
+state: ohio
+state: cal
+state: california
+state: maine
+state: maine
+state: maine
+state: california
+state: california
+state: florida
+state: idaho
+state: north dakota
+state: california
+state: texas
+state: california
+state: florida
+state: illinois
+state: florida
+state: new york
+state: new york
+state: new mexico
+state: wv
+state: michigan
+state: nebraska
+state: nc
+state: wa
+state: philly
+state: iowa
+state: ny.
+state: ny
+state: cal
+state: idaho
+state: nj
+state: texas
+state: utah
+state: rhode island
+state: rhode island
+state: tennessee
+state: tn
+state: ny
+state: ohio
+state: pa
+state: nyc
+state: bama
+state: florida
+state: texas
+state: ny
+state: jersey
+state: southern california
+state: new york
+state: ny
+state: nj
+state: jersey
+state: nj
+state: arizona
+state: nj
+state: new york
+state: ny
+state: nyc
+state: ny
+state: manhattan,
+state: virginia
+state: new jersey
+state: new jersey
+state: minnesota
+state: missouri
+state: new york
+state: maine
+state: bamas
+state: ohio
+state: oklahoma.
+state: va
+state: new jersey
+state: massachusetts
+state: pa
+state: virgina
+state: nj
+state: florida
+state: florida
+state: ohio
+state: ny
+state: connecticut
+state: california
+state: texas
+state: nj
+state: new york
+state: texas
+state: new jersey
+state: ny
+state: texas
+state: ny
+state: ny
+state: florida
+state: ca
+state: new york
+state: ny
+state: minnesota
+state: az
+state: nevada
+state: ca
+state: sc
+state: vermont
+state: nyc
+state: nevada.
+state: california
+state: cali
+state: florida
+state: new york
+state: ny
+state: new jersey
+state: minnesota
+state: nj
+state: nj
+state: mn
+state: minnesota
+state: virginia
+state: ny
+state: iowa
+state: mo
+state: iraq
+state: kuwait
+state: new jersey
+state: fl
+state: az
+state: minnesota
+state: minnesota
+state: jersey
+state: florida
+state: new york
+state: wash state
+state: connecticut
+state: wisconsin
+state: ct
+state: virginia
+state: new york
+state: alabama
+state: alabama
+state: ny
+state: philadelphia
+state: georgia
+state: georgia
+state: pa
+state: pa
+state: california
+state: ca
+state: california
+state: georgia
+state: nj
+state: me
+state: me
+state: hawaii
+state: new york
+state: london
+state: california
+state: texas
+state: texas
+state: texas
+state: delaware
+state: kansas
+state: alaska
+state: are in
+state: ny
+state: mass
+state: nc
+state: jersey
+state: ny
+state: washington
+state: wa
+state: ny
+state: nj
+state: texas,
+state: ky
+state: richmond
+state: new york
+state: new york
+state: minnesota
+state: minnesota
+state: mn
+state: minnesota
+state: cali
+state: ny
+state: minnesota
+state: california
+state: ca
+state: ones in nj
+state: sf
+state: florida
+state: minnesota
+state: minnesota
+state: minnesota
+state: minnesota
+state: ohio state
+state: hawaii
+state: az
+state: florida
+state: minnesota
+state: florida
+state: cali
+state: new jersey
+state: jersey
+state: minnesota
+state: california
+state: fla
+state: ny
+state: florida
+state: ny
+state: arizona
+state: ny
+state: california
+state: jersey
+state: washington
+state: washington
+state: washington
+state: california
+state: nj
+state: california
+state: california
+state: cali
+state: ny
+state: washington
+state: minnesota
+state: texas
+state: mn
+state: minnesota
+state: california
+state: washington
+state: ca
+state: nj
+state: victoria
+state: ny
+state: ny
+state: nyc
+state: boston
+state: ny
+state: nj
+state: ny
+state: florida
+state: new yorkers
+state: ny
+state: minn
+state: colorado
+state: arizona
+state: arizona
+state: ny
+state: new jersey
+state: fl
+state: ny
+state: new york
+state: new jersey
+state: california
+state: pa
+state: pa
+state: wv
+state: new york
+state: florida 
+state: nj
+state: florida
+state: california
+state: mt
+state: ny
+state: new york
+state: eastern canada
+state: n.y
+state: ny
+state: georgia
+state: ny
+state: ny
+state: ny/nj
+state: already in
+state: la
+state: arizona
+state: nj
+state: nj
+state: nj
+state: nj
+state: washington,d.c.
+state: new jersey
+state: new jersey
+state: california
+state: cali
+state: alaska
+state: ny
+state: ny
+state: new jersey
+state: new york
+state: new york
+state: new york
+state: iowa
+state: jersey
+state: california
+state: virginia
+state: ny
+state: ny
+state: mt
+state: ny
+state: minnesota
+state: arizona
+state: az
+state: kansas
+state: california
+state: nj
+state: florida
+state: ca
+state: ny
+state: ny
+state: california
+state: georgia
+state: georgia
+state: florida
+state: ny
+state: texas
+state: ohio
+state: wa
+state: iowa
+state: atlanta
+state: louisiana
+state: new jersey
+state: pa
+state: pa
+state: new york state
+state: new york
+state: lone star state
+state: new york
+state: florida
+state: nj
+state: florida
+state: florida
+state: ca
+state: florida
+state: ny
+state: ny
+state: ny
+state: hawaii
+state: ct
+state: ny
+state: nj
+state: oklahoma
+state: ohio
+state: colorado
+state: alberta
+state: minnesota
+state: oklahoma 
+state: ohio
+state: ny
+state: nc
+state: cali
+state: cali
+state: virginia
+state: new york
+state: nc
+state: ny
+state: kentucky
+state: sf
+state: texas
+state: new jersey
+state: ny
+state: new york
+state: california
+state: colorado
+state: utah
+state: arizona
+state: california
+state: new york
+state: kentucky
+state: new york city
+state: north carolina
+state: pa
+state: ny
+state: ri
+state: wisconsin
+state: oklahoma
+state: delaware
+state: ohio
+state: ohio
+state: south dakota
+state: nv
+state: ny
+state: new york
+state: michigan
+state: new jersey
+state: colorado
+state: new york
+state: nm
+state: texas
+state: pennsylvania
+state: north carolina
+state: ohio
+state: new hampshire
+state: florida
+state: orlando
+state: mississippi
+state: new york
+state: louisiana
+state: californians
+state: californians
+state: michigan
+state: virginia
+state: jersey
+state: california
+state: new york
+state: ny
+state: ny
+state: san antonio
+state: nc
+state: rhode island
+state: mississippi
+state: new york
+state: new york
+state: hawaii
+state: ny
+state: ny
+state: vegas
+state: texas
+state: nv
+state: ny
+state: tx
+state: ny
+state: florida
+state: texas
+state: virginia
+state: florida
+state: texas
+state: texas
+state: virginian
+state: texas
+state: minnesota
+state: minnesota
+state: flordia
+state: florida
+state: new york
+state: minneapolis
+state: nj
+state: wisconsin
+state: newyork
+state: ct
+state: washington
+state: florida
+state: nh
+state: cali
+state: nj
+state: connecticut
+state: colorado
+state: northern california
+state: maine
+state: nj
+state: telangana
+state: arizona
+state: hawaii
+state: california
+state: north carolina
+state: co
+state: dakota
+state: ny state
+state: idaho
+state: phil
+state: fl
+state: texas
+state: californ
+state: tx
+state: nc
+state: california
+state: california
+state: utah
+state: sc
+state: mi
+state: north
+state: ga
+state: nc
+state: nc
+state: n.c.
+state: north carolina
+state: oklahoma
+state: north carolina
+state: charlotte north carolina
+state: charlotte north carolina
+state: jharhand
+state: ny
+state: pennsylvania
+state: massachusetts
+state: new york
+state: arizona
+state: nc
+state: ny
+state: utah
+state: jersey
+state: ohio
+state: nc
+state: nyc
+state: ca
+state: wisconsin
+state: ny
+state: nc
+state: pennsylvania
+state: new york
+state: s. c.
+state: alaska
+state: ny
+state: mn
+state: mn
+state: texas
+state: live in
+state: north dakota
+state: ny
+state: new york
+state: pennsylvania
+state: maryland
+state: california
+state: alabama
+state: nc
+state: california
+state: california
+state: alaska
+state: cali
+state: maryland
+state: maryland
+state: new york
+state: illinois
+state: west virginia
+state: ny
+state: new york
+state: north carolina
+state: missouri
+state: ny
+state: oregon's
+state: ny
+state: jersey
+state: new york
+state: ohio
+state: ohio
+state: ca
+state: cali
+state: cali
+state: arizona
+state: ca
+state: new york
+state: oregon
+state: new york
+state: florida
+state: detroit
+state: palestinian
+state: philadelphia
+state: fall in
+state: pa
+state: california
+state: mississippi
+state: new hampshire
+state: jersey
+state: oh's
+state: new york
+state: ny
+state: texans
+state: new york
+state: arizona
+state: nj
+state: ny
+state: wyoming
+state: california
+state: pa
+state: california
+state: new york
+state: ohio
+state: puerto rico
+state: michigan
+state: ny
+state: ny
+state: iowa
+state: colorado
+state: eachother at new jersey
+state: ohios
+state: ca
+state: new york
+state: ar
+state: california
+state: nevada
+state: mississippi
+state: nc
+state: ny
+state: for nevada
+state: virginia
+state: ca
+state: ca
+state: nyc
+state: oklahoma
+state: nc
+state: ca
+state: california
+state: nc
+state: nc
+state: nj
+state: nyc
+state: colorado
+state: utah
+state: ut
+state: georgia
+state: minnesota
+state: new jersey
+state: missouri
+state: jersey
+state: texans
+state: ks
+state: ny
+state: texas
+state: caliiiiii
+state: ca
+state: al, ga, ks
+state: california
+state: cali
+state: ca
+state: maryland
+state: n.c
+state: texas
+state: texas
+state: ny
+state: oregon
+state: san diego
+state: miami
+state: oregon
+state: nyc
+state: nc
+state: new york
+state: new york
+state: nc
+state: florida
+state: nj!
+state: cali
+state: pa
+state: pa
+state: va
+state: pa
+state: cali
+state: ct
+state: boston's
+state: nycs
+state: s.c.
+state: north carolina
+state: missouri
+state: wa
+state: nv
+state: ny
+state: ny
+state: ca
+state: ny
+state: ohio
+state: new hampshire
+state: utah
+state: connecticut
+state: new jersey
+state: ohio
+state: wv
+state: montana
+state: california
+state: vermont
+state: hoosiers
+state: montana
+state: nj
+state: ny
+state: okinawa
+state: ny
+state: nj
+state: pennsylvania
+state: texas
+state: new york
+state: alaskan
+state: michigan
+state: upstate ny
+state: texas
+state: ca
+state: washington
+state: texas
+state: maine
+state: maine
+state: texas
+state: texas
+state: canton
+state: new york
+state: florida
+state: pa
+state: florida
+state: l.a.
+state: florida
+state: florida
+state: ny
+state: south carolina
+state: hawaii
+state: ny
+state: jersey
+state: florida
+state: florida
+state: ny
+state: texas
+state: ca
+state: ny
+state: 50 states.
+state: hawaii
+state: ny
+state: fla
+state: philly
+state: virginia
+state: michigan
+state: mi
+state: fl
+state: nyc
+state: nyc
+state: ny
+state: nyc
+state: the aloha state
+state: aloha state
+state: vt
+state: sf
+state: san francisco
+state: hv
+state: new york
+state: cali
+state: hawaii
+state: dallas
+state: wisconsin
+state: ny
+state: new yorker
+state: louisiana
+state: ny
+state: south carolina
+state: ny
+state: new jersey
+state: californian
+state: florida
+state: chicago
+state: maine
+state: ny
+state: washington
+state: texas
+state: tx
+state: virginia
+state: new jersey
+state: ca
+state: ny
+state: ny
+state: california
+state: florida's
+state: michigan
+state: california
+state: new york
+state: kansas
+state: ohio
+state: cal
+state: california
+state: maine
+state: maine
+state: maine
+state: california
+state: california
+state: florida
+state: idaho
+state: north dakota
+state: california
+state: texas
+state: california
+state: florida
+state: illinois
+state: florida
+state: new york
+state: new york
+state: new mexico
+state: wv
+state: michigan
+state: nebraska
+state: nc
+state: wa
+state: philly
+state: iowa
+state: ny.
+state: ny
+state: cal
+state: idaho
+state: nj
+state: texas
+state: utah
+state: rhode island
+state: rhode island
+state: tennessee
+state: tn
+state: ny
+state: ohio
+state: pa
+state: nyc
+state: bama
+state: florida
+state: texas
+state: ny
+state: jersey
+state: southern california
+state: new york
+state: ny
+state: nj
+state: jersey
+state: nj
+state: arizona
+state: nj
+state: new york
+state: ny
+state: nyc
+state: ny
+state: manhattan,
+state: virginia
+state: new jersey
+state: new jersey
+state: minnesota
+state: missouri
+state: new york
+state: maine
+state: bamas
+state: ohio
+state: oklahoma.
+state: va
+state: new jersey
+state: massachusetts
+state: pa
+state: virgina
+state: nj
+state: florida
+state: florida
+state: ohio
+state: ny
+state: connecticut
+state: california
+state: texas
+state: nj
+state: new york
+state: texas
+state: new jersey
+state: ny
+state: texas
+state: ny
+state: ny
+state: florida
+state: ca
+state: new york
+state: ny
+state: minnesota
+state: az
+state: nevada
+state: ca
+state: sc
+state: vermont
+state: nyc
+state: nevada.
+state: california
+state: cali
+state: florida
+state: new york
+state: ny
+state: new jersey
+state: minnesota
+state: nj
+state: nj
+state: mn
+state: minnesota
+state: virginia
+state: ny
+state: iowa
+state: mo
+state: iraq
+state: kuwait
+state: new jersey
+state: fl
+state: az
+state: minnesota
+state: minnesota
+state: jersey
+state: florida
+state: new york
+state: wash state
+state: connecticut
+state: wisconsin
+state: ct
+state: virginia
+state: new york
+state: alabama
+state: alabama
+state: ny
+state: philadelphia
+state: georgia
+state: georgia
+state: pa
+state: pa
+state: california
+state: ca
+state: california
+state: georgia
+state: nj
+state: me
+state: me
+state: hawaii
+state: new york
+state: london
+state: california
+state: texas
+state: texas
+state: texas
+state: delaware
+state: kansas
+state: alaska
+state: are in
+state: ny
+state: mass
+state: nc
+state: jersey
+state: ny
+state: washington
+state: wa
+state: ny
+state: nj
+state: texas,
+state: ky
+state: richmond
+state: new york
+state: new york
+state: minnesota
+state: minnesota
+state: mn
+state: minnesota
+state: cali
+state: ny
+state: minnesota
+state: california
+state: ca
+state: ones in nj
+state: sf
+state: florida
+state: minnesota
+state: minnesota
+state: minnesota
+state: minnesota
+state: ohio state
+state: hawaii
+state: az
+state: florida
+state: minnesota
+state: florida
+state: cali
+state: new jersey
+state: jersey
+state: minnesota
+state: california
+state: fla
+state: ny
+state: florida
+state: ny
+state: arizona
+state: ny
+state: california
+state: jersey
+state: washington
+state: washington
+state: washington
+state: california
+state: nj
+state: california
+state: california
+state: cali
+state: ny
+state: washington
+state: minnesota
+state: texas
+state: mn
+state: minnesota
+state: california
+state: washington
+state: ca
+state: nj
+state: victoria
+state: ny
+state: ny
+state: nyc
+state: boston
+state: ny
+state: nj
+state: ny
+state: florida
+state: new yorkers
+state: ny
+state: minn
+state: colorado
+state: arizona
+state: arizona
+state: ny
+state: new jersey
+state: fl
+state: ny
+state: new york
+state: new jersey
+state: california
+state: pa
+state: pa
+state: wv
+state: new york
+state: florida 
+state: nj
+state: florida
+state: california
+state: mt
+state: ny
+state: new york
+state: eastern canada
+state: n.y
+state: ny
+state: georgia
+state: ny
+state: ny
+state: ny/nj
+state: already in
+state: la
+state: arizona
+state: nj
+state: nj
+state: nj
+state: nj
+state: washington,d.c.
+state: new jersey
+state: new jersey
+state: california
+state: cali
+state: alaska
+state: ny
+state: ny
+state: new jersey
+state: new york
+state: new york
+state: new york
+state: iowa
+state: jersey
+state: california
+state: virginia
+state: ny
+state: ny
+state: mt
+state: ny
+state: minnesota
+state: arizona
+state: az
+state: kansas
+state: california
+state: nj
+state: florida
+state: ca
+state: ny
+state: ny
+state: california
+state: georgia
+state: georgia
+state: florida
+state: ny
+state: texas
+state: ohio
+state: wa
+state: iowa
+state: atlanta
+state: louisiana
+state: new jersey
+state: pa
+state: pa
+state: new york state
+state: new york
+state: lone star state
+state: new york
+state: florida
+state: nj
+state: florida
+state: florida
+state: ca
+state: florida
+state: ny
+state: ny
+state: ny
+state: hawaii
+state: ct
+state: ny
+state: nj
+state: oklahoma
+state: ohio
+state: colorado
+state: alberta
+state: minnesota
+state: oklahoma 
+state: ohio
+state: ny
+state: nc
+state: cali
+state: cali
+state: virginia
+state: new york
+state: nc
+state: ny
+state: kentucky
+state: sf
+state: texas
+state: new jersey
+state: ny
+state: new york
+state: california
+state: colorado
+state: utah
+state: arizona
+state: california
+state: new york
+state: kentucky
+state: new york city
+state: north carolina
+state: pa
+state: ny
+state: ri
+state: wisconsin
+state: oklahoma
+state: delaware
+state: ohio
+state: ohio
+state: south dakota
+state: nv
+state: ny
+state: new york
+state: michigan
+state: new jersey
+state: colorado
+state: new york
+state: nm
+state: texas
+state: pennsylvania
+state: north carolina
+state: ohio
+state: new hampshire
+state: florida
+state: orlando
+state: mississippi
+state: new york
+state: louisiana
+state: californians
+state: californians
+state: michigan
+state: virginia
+state: jersey
+state: california
+state: new york
+state: ny
+state: ny
+state: san antonio
+state: nc
+state: rhode island
+state: mississippi
+state: new york
+state: new york
+state: hawaii
+state: ny
+state: ny
+state: vegas
+state: texas
+state: nv
+state: ny
+state: tx
+state: ny
+state: florida
+state: texas
+state: virginia
+state: florida
+state: texas
+state: texas
+state: virginian
+state: texas
+state: minnesota
+state: minnesota
+state: flordia
+state: florida
+state: new york
+state: minneapolis
+state: nj
+state: wisconsin
+state: newyork
+state: ct
+state: washington
+state: florida
+state: nh
+state: cali
+state: nj
+state: connecticut
+state: colorado
+state: northern california
+state: maine
+state: nj
+state: telangana
+state: arizona
+state: hawaii
+state: california
+state: north carolina
+state: co
+state: dakota
+state: ny state
+state: idaho
+state: phil
+state: fl
+state: texas
+state: californ
+state: tx
+state: nc
+state: california
+state: california
+state: utah
+state: sc
+state: mi
+state: north
+state: ga
+state: nc
+state: nc
+state: n.c.
+state: north carolina
+state: oklahoma
+state: north carolina
+state: charlotte north carolina
+state: charlotte north carolina
+state: jharhand
+state: ny
+state: pennsylvania
+state: massachusetts
+state: new york
+state: arizona
+state: nc
+state: ny
+state: utah
+state: jersey
+state: ohio
+state: nc
+state: nyc
+state: ca
+state: wisconsin
+state: ny
+state: nc
+state: pennsylvania
+state: new york
+state: s. c.
+state: alaska
+state: ny
+state: mn
+state: mn
+state: texas
+state: live in
+state: north dakota
+state: ny
+state: new york
+state: pennsylvania
+state: maryland
+state: california
+state: alabama
+state: nc
+state: california
+state: california
+state: alaska
+state: cali
+state: maryland
+state: maryland
+state: new york
+state: illinois
+state: west virginia
+state: ny
+state: new york
+state: north carolina
+state: missouri
+state: ny
+state: oregon's
+state: ny
+state: jersey
+state: new york
+state: ohio
+state: ohio
+state: ca
+state: cali
+state: cali
+state: arizona
+state: ca
+state: new york
+state: oregon
+state: new york
+state: florida
+state: detroit
+state: palestinian
+state: philadelphia
+state: fall in
+state: pa
+state: california
+state: mississippi
+state: new hampshire
+state: jersey
+state: oh's
+state: new york
+state: ny
+state: texans
+state: new york
+state: arizona
+state: nj
+state: ny
+state: wyoming
+state: california
+state: pa
+state: california
+state: new york
+state: ohio
+state: puerto rico
+state: michigan
+state: ny
+state: ny
+state: iowa
+state: colorado
+state: eachother at new jersey
+state: ohios
+state: ca
+state: new york
+state: ar
+state: california
+state: nevada
+state: mississippi
+state: nc
+state: ny
+state: for nevada
+state: virginia
+state: ca
+state: ca
+state: nyc
+state: oklahoma
+state: nc
+state: ca
+state: california
+state: nc
+state: nc
+state: nj
+state: nyc
+state: colorado
+state: utah
+state: ut
+state: georgia
+state: minnesota
+state: new jersey
+state: missouri
+state: jersey
+state: texans
+state: ks
+state: ny
+state: texas
+state: caliiiiii
+state: ca
+state: al, ga, ks
+state: california
+state: cali
+state: ca
+state: maryland
+state: n.c
+state: texas
+state: texas
+state: ny
+state: oregon
+state: san diego
+state: miami
+state: oregon
+state: nyc
+state: nc
+state: new york
+state: new york
+state: nc
+state: florida
+state: nj!
+state: cali
+state: pa
+state: pa
+state: va
+state: pa
+state: cali
+state: ct
+state: boston's
+state: nycs
+state: s.c.
+state: north carolina
+state: missouri
+state: wa
+state: nv
+state: ny
+state: ny
+state: ca
+state: ny
+state: ohio
+state: new hampshire
+state: utah
+state: connecticut
+state: new jersey
+state: ohio
+state: wv
+state: montana
+state: california
+state: vermont
+state: hoosiers
+state: montana
+state: nj
+state: ny
+state: okinawa
+state: ny
+state: nj
+state: pennsylvania
+state: texas
+state: new york
+state: alaskan
+state: michigan
+state: upstate ny
+state: texas
+state: ca
+state: washington
+state: texas
+state: maine
+state: maine
+state: texas
+state: texas
+state: canton
+state: new york
+state: florida
+state: pa
+state: florida
+state: l.a.
+state: florida
+state: florida
+state: ny
+state: south carolina
+state: hawaii
+state: ny
+state: jersey
+state: florida
+state: florida
+state: ny
+state: texas
+state: ca
+state: ny
+state: 50 states.
+state: hawaii
+state: ny
+state: fla
+state: philly
+state: virginia
+state: michigan
+state: mi
+state: fl
+state: nyc
+state: nyc
+state: ny
+state: nyc
+state: the aloha state
+state: aloha state
+state: vt
+state: sf
+state: san francisco
+state: hv
+state: new york
+state: cali
+state: hawaii
+state: dallas
+state: wisconsin
+state: ny
+state: new yorker
+state: louisiana
+state: ny
+state: south carolina
+state: ny
+state: new jersey
+state: californian
+state: florida
+state: chicago
+state: maine
+state: ny
+state: washington
+state: texas
+state: tx
+state: virginia
+state: new jersey
+state: ca
+state: ny
+state: ny
+state: california
+state: florida's
+state: michigan
+state: california
+state: new york
+state: kansas
+state: ohio
+state: cal
+state: california
+state: maine
+state: maine
+state: maine
+state: california
+state: california
+state: florida
+state: idaho
+state: north dakota
+state: california
+state: texas
+state: california
+state: florida
+state: illinois
+state: florida
+state: new york
+state: new york
+state: new mexico
+state: wv
+state: michigan
+state: nebraska
+state: nc
+state: wa
+state: philly
+state: iowa
+state: ny.
+state: ny
+state: cal
+state: idaho
+state: nj
+state: texas
+state: utah
+state: rhode island
+state: rhode island
+state: tennessee
+state: tn
+state: ny
+state: ohio
+state: pa
+state: nyc
+state: bama
+state: florida
+state: texas
+state: ny
+state: jersey
+state: southern california
+state: new york
+state: ny
+state: nj
+state: jersey
+state: nj
+state: arizona
+state: nj
+state: new york
+state: ny
+state: nyc
+state: ny
+state: manhattan,
+state: virginia
+state: new jersey
+state: new jersey
+state: minnesota
+state: missouri
+state: new york
+state: maine
+state: bamas
+state: ohio
+state: oklahoma.
+state: va
+state: new jersey
+state: massachusetts
+state: pa
+state: virgina
+state: nj
+state: florida
+state: florida
+state: ohio
+state: ny
+state: connecticut
+state: california
+state: texas
+state: nj
+state: new york
+state: texas
+state: new jersey
+state: ny
+state: texas
+state: ny
+state: ny
+state: florida
+state: ca
+state: new york
+state: ny
+state: minnesota
+state: az
+state: nevada
+state: ca
+state: sc
+state: vermont
+state: nyc
+state: nevada.
+state: california
+state: cali
+state: florida
+state: new york
+state: ny
+state: new jersey
+state: minnesota
+state: nj
+state: nj
+state: mn
+state: minnesota
+state: virginia
+state: ny
+state: iowa
+state: mo
+state: iraq
+state: kuwait
+state: new jersey
+state: fl
+state: az
+state: minnesota
+state: minnesota
+state: jersey
+state: florida
+state: new york
+state: wash state
+state: connecticut
+state: wisconsin
+state: ct
+state: virginia
+state: new york
+state: alabama
+state: alabama
+state: ny
+state: philadelphia
+state: georgia
+state: georgia
+state: pa
+state: pa
+state: california
+state: ca
+state: california
+state: georgia
+state: nj
+state: me
+state: me
+state: hawaii
+state: new york
+state: london
+state: california
+state: texas
+state: texas
+state: texas
+state: delaware
+state: kansas
+state: alaska
+state: are in
+state: ny
+state: mass
+state: nc
+state: jersey
+state: ny
+state: washington
+state: wa
+state: ny
+state: nj
+state: texas,
+state: ky
+state: richmond
+state: new york
+state: new york
+state: minnesota
+state: minnesota
+state: mn
+state: minnesota
+state: cali
+state: ny
+state: minnesota
+state: california
+state: ca
+state: ones in nj
+state: sf
+state: florida
+state: minnesota
+state: minnesota
+state: minnesota
+state: minnesota
+state: ohio state
+state: hawaii
+state: az
+state: florida
+state: minnesota
+state: florida
+state: cali
+state: new jersey
+state: jersey
+state: minnesota
+state: california
+state: fla
+state: ny
+state: florida
+state: ny
+state: arizona
+state: ny
+state: california
+state: jersey
+state: washington
+state: washington
+state: washington
+state: california
+state: nj
+state: california
+state: california
+state: cali
+state: ny
+state: washington
+state: minnesota
+state: texas
+state: mn
+state: minnesota
+state: california
+state: washington
+state: ca
+state: nj
+state: victoria
+state: ny
+state: ny
+state: nyc
+state: boston
+state: ny
+state: nj
+state: ny
+state: florida
+state: new yorkers
+state: ny
+state: minn
+state: colorado
+state: arizona
+state: arizona
+state: ny
+state: new jersey
+state: fl
+state: ny
+state: new york
+state: new jersey
+state: california
+state: pa
+state: pa
+state: wv
+state: new york
+state: florida 
+state: nj
+state: florida
+state: california
+state: mt
+state: ny
+state: new york
+state: eastern canada
+state: n.y
+state: ny
+state: georgia
+state: ny
+state: ny
+state: ny/nj
+state: already in
+state: la
+state: arizona
+state: nj
+state: nj
+state: nj
+state: nj
+state: washington,d.c.
+state: new jersey
+state: new jersey
+state: california
+state: cali
+state: alaska
+state: ny
+state: ny
+state: new jersey
+state: new york
+state: new york
+state: new york
+state: iowa
+state: jersey
+state: california
+state: virginia
+state: ny
+state: ny
+state: mt
+state: ny
+state: minnesota
+state: arizona
+state: az
+state: kansas
+state: california
+state: nj
+state: florida
+state: ca
+state: ny
+state: ny
+state: california
+state: georgia
+state: georgia
+state: florida
+state: ny
+state: texas
+state: ohio
+state: wa
+state: iowa
+state: atlanta
+state: louisiana
+state: new jersey
+state: pa
+state: pa
+state: new york state
+state: new york
+state: lone star state
+state: new york
+state: florida
+state: nj
+state: florida
+state: florida
+state: ca
+state: florida
+state: ny
+state: ny
+state: ny
+state: hawaii
+state: ct
+state: ny
+state: nj
+state: oklahoma
+state: ohio
+state: colorado
+state: alberta
+state: minnesota
+state: oklahoma 
+state: ohio
+state: ny
+state: nc
+state: cali
+state: cali
+state: virginia
+state: new york
+state: nc
+state: ny
+state: kentucky
+state: sf
+state: texas
+state: new jersey
+state: ny
+state: new york
+state: california
+state: colorado
+state: utah
+state: arizona
+state: california
+state: new york
+state: kentucky
+state: new york city
+state: north carolina
+state: pa
+state: ny
+state: ri
+state: wisconsin
+state: oklahoma
+state: delaware
+state: ohio
+state: ohio
+state: south dakota
+state: nv
+state: ny
+state: new york
+state: michigan
+state: new jersey
+state: colorado
+state: new york
+state: nm
+state: texas
+state: pennsylvania
+state: north carolina
+state: ohio
+state: new hampshire
+state: florida
+state: orlando
+state: mississippi
+state: new york
+state: louisiana
+state: californians
+state: californians
+state: michigan
+state: virginia
+state: jersey
+state: california
+state: new york
+state: ny
+state: ny
+state: san antonio
+state: nc
+state: rhode island
+state: mississippi
+state: new york
+state: new york
+state: hawaii
+state: ny
+state: ny
+state: vegas
+state: texas
+state: nv
+state: ny
+state: tx
+state: ny
+state: florida
+state: texas
+state: virginia
+state: florida
+state: texas
+state: texas
+state: virginian
+state: texas
+state: minnesota
+state: minnesota
+state: flordia
+state: florida
+state: new york
+state: minneapolis
+state: nj
+state: wisconsin
+state: newyork
+state: ct
+state: washington
+state: florida
+state: nh
+state: cali
+state: nj
+state: connecticut
+state: colorado
+state: northern california
+state: maine
+state: nj
+state: telangana
+state: arizona
+state: hawaii
+state: california
+state: north carolina
+state: co
+state: dakota
+state: ny state
+state: idaho
+state: phil
+state: fl
+state: texas
+state: californ
+state: tx
+state: nc
+state: california
+state: california
+state: utah
+state: sc
+state: mi
+state: north
+state: ga
+state: nc
+state: nc
+state: n.c.
+state: north carolina
+state: oklahoma
+state: north carolina
+state: charlotte north carolina
+state: charlotte north carolina
+state: jharhand
+state: ny
+state: pennsylvania
+state: massachusetts
+state: new york
+state: arizona
+state: nc
+state: ny
+state: utah
+state: jersey
+state: ohio
+state: nc
+state: nyc
+state: ca
+state: wisconsin
+state: ny
+state: nc
+state: pennsylvania
+state: new york
+state: s. c.
+state: alaska
+state: ny
+state: mn
+state: mn
+state: texas
+state: live in
+state: north dakota
+state: ny
+state: new york
+state: pennsylvania
+state: maryland
+state: california
+state: alabama
+state: nc
+state: california
+state: california
+state: alaska
+state: cali
+state: maryland
+state: maryland
+state: new york
+state: illinois
+state: west virginia
+state: ny
+state: new york
+state: north carolina
+state: missouri
+state: ny
+state: oregon's
+state: ny
+state: jersey
+state: new york
+state: ohio
+state: ohio
+state: ca
+state: cali
+state: cali
+state: arizona
+state: ca
+state: new york
+state: oregon
+state: new york
+state: florida
+state: detroit
+state: palestinian
+state: philadelphia
+state: fall in
+state: pa
+state: california
+state: mississippi
+state: new hampshire
+state: jersey
+state: oh's
+state: new york
+state: ny
+state: texans
+state: new york
+state: arizona
+state: nj
+state: ny
+state: wyoming
+state: california
+state: pa
+state: california
+state: new york
+state: ohio
+state: puerto rico
+state: michigan
+state: ny
+state: ny
+state: iowa
+state: colorado
+state: eachother at new jersey
+state: ohios
+state: ca
+state: new york
+state: ar
+state: california
+state: nevada
+state: mississippi
+state: nc
+state: ny
+state: for nevada
+state: virginia
+state: ca
+state: ca
+state: nyc
+state: oklahoma
+state: nc
+state: ca
+state: california
+state: nc
+state: nc
+state: nj
+state: nyc
+state: colorado
+state: utah
+state: ut
+state: georgia
+state: minnesota
+state: new jersey
+state: missouri
+state: jersey
+state: texans
+state: ks
+state: ny
+state: texas
+state: caliiiiii
+state: ca
+state: al, ga, ks
+state: california
+state: cali
+state: ca
+state: maryland
+state: n.c
+state: texas
+state: texas
+state: ny
+state: oregon
+state: san diego
+state: miami
+state: oregon
+state: nyc
+state: nc
+state: new york
+state: new york
+state: nc
+state: florida
+state: nj!
+state: cali
+state: pa
+state: pa
+state: va
+state: pa
+state: cali
+state: ct
+state: boston's
+state: nycs
+state: s.c.
+state: north carolina
+state: missouri
+state: wa
+state: nv
+state: ny
+state: ny
+state: ca
+state: ny
+state: ohio
+state: new hampshire
+state: utah
+state: connecticut
+state: new jersey
+state: ohio
+state: wv
+state: montana
+state: california
+state: vermont
+state: hoosiers
+state: montana
+state: nj
+state: ny
+state: okinawa
+state: ny
+state: nj
+state: pennsylvania
+state: texas
+state: new york
+state: alaskan
+state: michigan
+state: upstate ny
+state: texas
+state: ca
+state: washington
+state: texas
+state: maine
+state: maine
+state: texas
+state: texas
+state: canton
+state: new york
+state: florida
+state: pa
+state: florida
+state: l.a.
+state: florida
+state: florida
+state: ny
+state: south carolina
+state: hawaii
+state: ny
+state: jersey
+state: florida
+state: florida
+state: ny
+state: texas
+state: ca
+state: ny
+state: 50 states.
+state: hawaii
+state: ny
+state: fla
+state: philly
+state: virginia
+state: michigan
+state: mi
+state: fl
+state: nyc
+state: nyc
+state: ny
+state: nyc
+state: the aloha state
+state: aloha state
+state: vt
+state: sf
+state: san francisco
+state: hv
+state: new york
+state: cali
+state: hawaii
+state: dallas
+state: wisconsin
+state: ny
+state: new yorker
+state: louisiana
+state: ny
+state: south carolina
+state: ny
+state: new jersey
+state: californian
+state: florida
+state: chicago
+state: maine
+state: ny
+state: washington
+state: texas
+state: tx
+state: virginia
+state: new jersey
+state: ca
+state: ny
+state: ny
+state: california
+state: florida's
+state: michigan
+state: california
+state: new york
+state: kansas
+state: ohio
+state: cal
+state: california
+state: maine
+state: maine
+state: maine
+state: california
+state: california
+state: florida
+state: idaho
+state: north dakota
+state: california
+state: texas
+state: california
+state: florida
+state: illinois
+state: florida
+state: new york
+state: new york
+state: new mexico
+state: wv
+state: michigan
+state: nebraska
+state: nc
+state: wa
+state: philly
+state: iowa
+state: ny.
+state: ny
+state: cal
+state: idaho
+state: nj
+state: texas
+state: utah
+state: rhode island
+state: rhode island
+state: tennessee
+state: tn
+state: ny
+state: ohio
+state: pa
+state: nyc
+state: bama
+state: florida
+state: texas
+state: ny
+state: jersey
+state: southern california
+state: new york
+state: ny
+state: nj
+state: jersey
+state: nj
+state: arizona
+state: nj
+state: new york
+state: ny
+state: nyc
+state: ny
+state: manhattan,
+state: virginia
+state: new jersey
+state: new jersey
+state: minnesota
+state: missouri
+state: new york
+state: maine
+state: bamas
+state: ohio
+state: oklahoma.
+state: va
+state: new jersey
+state: massachusetts
+state: pa
+state: virgina
+state: nj
+state: florida
+state: florida
+state: ohio
+state: ny
+state: connecticut
+state: california
+state: texas
+state: nj
+state: new york
+state: texas
+state: new jersey
+state: ny
+state: texas
+state: ny
+state: ny
+state: florida
+state: ca
+state: new york
+state: ny
+state: minnesota
+state: az
+state: nevada
+state: ca
+state: sc
+state: vermont
+state: nyc
+state: nevada.
+state: california
+state: cali
+state: florida
+state: new york
+state: ny
+state: new jersey
+state: minnesota
+state: nj
+state: nj
+state: mn
+state: minnesota
+state: virginia
+state: ny
+state: iowa
+state: mo
+state: iraq
+state: kuwait
+state: new jersey
+state: fl
+state: az
+state: minnesota
+state: minnesota
+state: jersey
+state: florida
+state: new york
+state: wash state
+state: connecticut
+state: wisconsin
+state: ct
+state: virginia
+state: new york
+state: alabama
+state: alabama
+state: ny
+state: philadelphia
+state: georgia
+state: georgia
+state: pa
+state: pa
+state: california
+state: ca
+state: california
+state: georgia
+state: nj
+state: me
+state: me
+state: hawaii
+state: new york
+state: london
+state: california
+state: texas
+state: texas
+state: texas
+state: delaware
+state: kansas
+state: alaska
+state: are in
+state: ny
+state: mass
+state: nc
+state: jersey
+state: ny
+state: washington
+state: wa
+state: ny
+state: nj
+state: texas,
+state: ky
+state: richmond
+state: new york
+state: new york
+state: minnesota
+state: minnesota
+state: mn
+state: minnesota
+state: cali
+state: ny
+state: minnesota
+state: california
+state: ca
+state: ones in nj
+state: sf
+state: florida
+state: minnesota
+state: minnesota
+state: minnesota
+state: minnesota
+state: ohio state
+state: hawaii
+state: az
+state: florida
+state: minnesota
+state: florida
+state: cali
+state: new jersey
+state: jersey
+state: minnesota
+state: california
+state: fla
+state: ny
+state: florida
+state: ny
+state: arizona
+state: ny
+state: california
+state: jersey
+state: washington
+state: washington
+state: washington
+state: california
+state: nj
+state: california
+state: california
+state: cali
+state: ny
+state: washington
+state: minnesota
+state: texas
+state: mn
+state: minnesota
+state: california
+state: washington
+state: ca
+state: nj
+state: victoria
+state: ny
+state: ny
+state: nyc
+state: boston
+state: ny
+state: nj
+state: ny
+state: florida
+state: new yorkers
+state: ny
+state: minn
+state: colorado
+state: arizona
+state: arizona
+state: ny
+state: new jersey
+state: fl
+state: ny
+state: new york
+state: new jersey
+state: california
+state: pa
+state: pa
+state: wv
+state: new york
+state: florida 
+state: nj
+state: florida
+state: california
+state: mt
+state: ny
+state: new york
+state: eastern canada
+state: n.y
+state: ny
+state: georgia
+state: ny
+state: ny
+state: ny/nj
+state: already in
+state: la
+state: arizona
+state: nj
+state: nj
+state: nj
+state: nj
+state: washington,d.c.
+state: new jersey
+state: new jersey
+state: california
+state: cali
+state: alaska
+state: ny
+state: ny
+state: new jersey
+state: new york
+state: new york
+state: new york
+state: iowa
+state: jersey
+state: california
+state: virginia
+state: ny
+state: ny
+state: mt
+state: ny
+state: minnesota
+state: arizona
+state: az
+state: kansas
+state: california
+state: nj
+state: florida
+state: ca
+state: ny
+state: ny
+state: california
+state: georgia
+state: georgia
+state: florida
+state: ny
+state: texas
+state: ohio
+state: wa
+state: iowa
+state: atlanta
+state: louisiana
+state: new jersey
+state: pa
+state: pa
+state: new york state
+state: new york
+state: lone star state
+state: new york
+state: florida
+state: nj
+state: florida
+state: florida
+state: ca
+state: florida
+state: ny
+state: ny
+state: ny
+state: hawaii
+state: ct
+state: ny
+state: nj
+state: oklahoma
+state: ohio
+state: colorado
+state: alberta
+state: minnesota
+state: oklahoma 
+state: ohio
+state: ny
+state: nc
+state: cali
+state: cali
+state: virginia
+state: new york
+state: nc
+state: ny
+state: kentucky
+state: sf
+state: texas
+state: new jersey
+state: ny
+state: new york
+state: california
+state: colorado
+state: utah
+state: arizona
+state: california
+state: new york
+state: kentucky
+state: new york city
+state: north carolina
+state: pa
+state: ny
+state: ri
+state: wisconsin
+state: oklahoma
+state: delaware
+state: ohio
+state: ohio
+state: south dakota
+state: nv
+state: ny
+state: new york
+state: michigan
+state: new jersey
+state: colorado
+state: new york
+state: nm
+state: texas
+state: pennsylvania
+state: north carolina
+state: ohio
+state: new hampshire
+state: florida
+state: orlando
+state: mississippi
+state: new york
+state: louisiana
+state: californians
+state: californians
+state: michigan
+state: virginia
+state: jersey
+state: california
+state: new york
+state: ny
+state: ny
+state: san antonio
+state: nc
+state: rhode island
+state: mississippi
+state: new york
+state: new york
+state: hawaii
+state: ny
+state: ny
+state: vegas
+state: texas
+state: nv
+state: ny
+state: tx
+state: ny
+state: florida
+state: texas
+state: virginia
+state: florida
+state: texas
+state: texas
+state: virginian
+state: texas
+state: minnesota
+state: minnesota
+state: flordia
+state: florida
+state: new york
+state: minneapolis
+state: nj
+state: wisconsin
+state: newyork
+state: ct
+state: washington
+state: florida
+state: nh
+state: cali
+state: nj
+state: connecticut
+state: colorado
+state: northern california
+state: maine
+state: nj
+state: telangana
+state: arizona
+state: hawaii
+state: california
+state: north carolina
+state: co
+state: dakota
+state: ny state
+state: idaho
+state: phil
+state: fl
+state: texas
+state: californ
+state: tx
+state: nc
+state: california
+state: california
+state: utah
+state: sc
+state: mi
+state: north
+state: ga
+state: nc
+state: nc
+state: n.c.
+state: north carolina
+state: oklahoma
+state: north carolina
+state: charlotte north carolina
+state: charlotte north carolina
+state: jharhand
+state: ny
+state: pennsylvania
+state: massachusetts
+state: new york
+state: arizona
+state: nc
+state: ny
+state: utah
+state: jersey
+state: ohio
+state: nc
+state: nyc
+state: ca
+state: wisconsin
+state: ny
+state: nc
+state: pennsylvania
+state: new york
+state: s. c.
+state: alaska
+state: ny
+state: mn
+state: mn
+state: texas
+state: live in
+state: north dakota
+state: ny
+state: new york
+state: pennsylvania
+state: maryland
+state: california
+state: alabama
+state: nc
+state: california
+state: california
+state: alaska
+state: cali
+state: maryland
+state: maryland
+state: new york
+state: illinois
+state: west virginia
+state: ny
+state: new york
+state: north carolina
+state: missouri
+state: ny
+state: oregon's
+state: ny
+state: jersey
+state: new york
+state: ohio
+state: ohio
+state: ca
+state: cali
+state: cali
+state: arizona
+state: ca
+state: new york
+state: oregon
+state: new york
+state: florida
+state: detroit
+state: palestinian
+state: philadelphia
+state: fall in
+state: pa
+state: california
+state: mississippi
+state: new hampshire
+state: jersey
+state: oh's
+state: new york
+state: ny
+state: texans
+state: new york
+state: arizona
+state: nj
+state: ny
+state: wyoming
+state: california
+state: pa
+state: california
+state: new york
+state: ohio
+state: puerto rico
+state: michigan
+state: ny
+state: ny
+state: iowa
+state: colorado
+state: eachother at new jersey
+state: ohios
+state: ca
+state: new york
+state: ar
+state: california
+state: nevada
+state: mississippi
+state: nc
+state: ny
+state: for nevada
+state: virginia
+state: ca
+state: ca
+state: nyc
+state: oklahoma
+state: nc
+state: ca
+state: california
+state: nc
+state: nc
+state: nj
+state: nyc
+state: colorado
+state: utah
+state: ut
+state: georgia
+state: minnesota
+state: new jersey
+state: missouri
+state: jersey
+state: texans
+state: ks
+state: ny
+state: texas
+state: caliiiiii
+state: ca
+state: al, ga, ks
+state: california
+state: cali
+state: ca
+state: maryland
+state: n.c
+state: texas
+state: texas
+state: ny
+state: oregon
+state: san diego
+state: miami
+state: oregon
+state: nyc
+state: nc
+state: new york
+state: new york
+state: nc
+state: florida
+state: nj!
+state: cali
+state: pa
+state: pa
+state: va
+state: pa
+state: cali
+state: ct
+state: boston's
+state: nycs
+state: s.c.
+state: north carolina
+state: missouri
+state: wa
+state: nv
+state: ny
+state: ny
+state: ca
+state: ny
+state: ohio
+state: new hampshire
+state: utah
+state: connecticut
+state: new jersey
+state: ohio
+state: wv
+state: montana
+state: california
+state: vermont
+state: hoosiers
+state: montana
+state: nj
+state: ny
+state: okinawa
+state: ny
+state: nj
+state: pennsylvania
+state: texas
+state: new york
+state: alaskan
+state: michigan
+state: upstate ny
+state: texas
+state: ca
+state: washington
+state: texas
+state: maine
+state: maine
+state: texas
+state: texas
+state: canton
+state: new york
+state: florida
+state: pa
+state: florida
+state: l.a.
+state: florida
+state: florida
+state: ny
+state: south carolina
+state: hawaii
+state: ny
+state: jersey
+state: florida
+state: florida
+state: ny
+state: texas
+state: ca
+state: ny
+state: 50 states.
+state: hawaii
+state: ny
+state: fla
+state: philly
+state: virginia
+state: michigan
+state: mi
+state: fl
+state: nyc
+state: nyc
+state: ny
+state: nyc
+state: the aloha state
+state: aloha state
+state: vt
+state: sf
+state: san francisco
+state: hv
+state: new york
+state: cali
+state: hawaii
+state: dallas
+state: wisconsin
+state: ny
+state: new yorker
+state: louisiana
+state: ny
+state: south carolina
+state: ny
+state: new jersey
+state: californian
+state: florida
+state: chicago
+state: maine
+state: ny
+state: washington
+state: texas
+state: tx
+state: virginia
+state: new jersey
+state: ca
+state: ny
+state: ny
+state: california
+state: florida's
+state: michigan
+state: california
+state: new york
+state: kansas
+state: ohio
+state: cal
+state: california
+state: maine
+state: maine
+state: maine
+state: california
+state: california
+state: florida
+state: idaho
+state: north dakota
+state: california
+state: texas
+state: california
+state: florida
+state: illinois
+state: florida
+state: new york
+state: new york
+state: new mexico
+state: oregon
+state: san diego
+state: miami
+state: oregon
+state: nyc
+state: nc
+state: new york
+state: new york
+state: nc
+state: florida
+state: nj!
+state: cali
+state: pa
+state: pa
+state: va
+state: pa
+state: cali
+state: ct
+state: boston's
+state: nycs
+state: s.c.
+state: north carolina
+state: missouri
+state: wa
+state: nv
+state: ny
+state: ny
+state: ca
+state: ny
+state: ohio
+state: new hampshire
+state: utah
+state: connecticut
+state: new jersey
+state: ohio
+state: wv
+state: montana
+state: california
+state: vermont
+state: hoosiers
+state: montana
+state: nj
+state: ny
+state: okinawa
+state: ny
+state: nj
+state: pennsylvania
+state: texas
+state: new york
+state: alaskan
+state: michigan
+state: upstate ny
+state: texas
+state: ca
+state: washington
+state: texas
+state: maine
+state: maine
+state: texas
+state: texas
+state: canton
+state: new york
+state: florida
+state: pa
+state: florida
+state: l.a.
+state: florida
+state: florida
+state: ny
+state: south carolina
+state: hawaii
+state: ny
+state: jersey
+state: florida
+state: florida
+state: ny
+state: texas
+state: ca
+state: ny
+state: 50 states.
+state: hawaii
+state: ny
+state: fla
+state: philly
+state: virginia
+state: michigan
+state: mi
+state: fl
+state: nyc
+state: nyc
+state: ny
+state: nyc
+state: the aloha state
+state: aloha state
+state: vt
+state: sf
+state: san francisco
+state: hv
+state: new york
+state: cali
+state: hawaii
+state: dallas
+state: wisconsin
+state: ny
+state: new yorker
+state: louisiana
+state: ny
+state: south carolina
+state: ny
+state: new jersey
+state: californian
+state: florida
+state: chicago
+state: maine
+state: ny
+state: washington
+state: texas
+state: tx
+state: virginia
+state: new jersey
+state: ca
+state: ny
+state: ny
+state: california
+state: florida's
+state: michigan
+state: california
+state: new york
+state: kansas
+state: ohio
+state: cal
+state: california
+state: maine
+state: maine
+state: maine
+state: california
+state: california
+state: florida
+state: idaho
+state: north dakota
+state: california
+state: texas
+state: california
+state: florida
+state: illinois
+state: florida
+state: new york
+state: new york
+state: new mexico
+state: wv
+state: michigan
+state: nebraska
+state: nc
+state: wa
+state: philly
+state: iowa
+state: ny.
+state: ny
+state: cal
+state: idaho
+state: nj
+state: texas
+state: utah
+state: rhode island
+state: rhode island
+state: tennessee
+state: tn
+state: ny
+state: ohio
+state: pa
+state: nyc
+state: bama
+state: florida
+state: texas
+state: ny
+state: jersey
+state: southern california
+state: new york
+state: ny
+state: nj
+state: jersey
+state: nj
+state: arizona
+state: nj
+state: new york
+state: ny
+state: nyc
+state: ny
+state: manhattan,
+state: virginia
+state: new jersey
+state: new jersey
+state: minnesota
+state: missouri
+state: new york
+state: maine
+state: bamas
+state: ohio
+state: oklahoma.
+state: va
+state: new jersey
+state: massachusetts
+state: pa
+state: virgina
+state: nj
+state: florida
+state: florida
+state: ohio
+state: ny
+state: connecticut
+state: california
+state: texas
+state: nj
+state: new york
+state: texas
+state: new jersey
+state: ny
+state: texas
+state: ny
+state: ny
+state: florida
+state: ca
+state: new york
+state: ny
+state: minnesota
+state: az
+state: nevada
+state: ca
+state: sc
+state: vermont
+state: nyc
+state: nevada.
+state: california
+state: cali
+state: florida
+state: new york
+state: ny
+state: new jersey
+state: minnesota
+state: nj
+state: nj
+state: mn
+state: minnesota
+state: virginia
+state: ny
+state: iowa
+state: mo
+state: iraq
+state: kuwait
+state: new jersey
+state: fl
+state: az
+state: minnesota
+state: minnesota
+state: jersey
+state: florida
+state: new york
+state: wash state
+state: connecticut
+state: wisconsin
+state: ct
+state: virginia
+state: new york
+state: alabama
+state: alabama
+state: ny
+state: philadelphia
+state: georgia
+state: georgia
+state: pa
+state: pa
+state: california
+state: ca
+state: california
+state: georgia
+state: nj
+state: me
+state: me
+state: hawaii
+state: new york
+state: london
+state: california
+state: texas
+state: texas
+state: texas
+state: delaware
+state: kansas
+state: alaska
+state: are in
+state: ny
+state: mass
+state: nc
+state: jersey
+state: ny
+state: washington
+state: wa
+state: ny
+state: nj
+state: texas,
+state: ky
+state: richmond
+state: new york
+state: new york
+state: minnesota
+state: minnesota
+state: mn
+state: minnesota
+state: cali
+state: ny
+state: minnesota
+state: california
+state: ca
+state: ones in nj
+state: sf
+state: florida
+state: minnesota
+state: minnesota
+state: minnesota
+state: minnesota
+state: ohio state
+state: hawaii
+state: az
+state: florida
+state: minnesota
+state: florida
+state: cali
+state: new jersey
+state: jersey
+state: minnesota
+state: california
+state: fla
+state: ny
+state: florida
+state: ny
+state: arizona
+state: ny
+state: california
+state: jersey
+state: washington
+state: washington
+state: washington
+state: california
+state: nj
+state: california
+state: california
+state: cali
+state: ny
+state: washington
+state: minnesota
+state: texas
+state: mn
+state: minnesota
+state: california
+state: washington
+state: ca
+state: nj
+state: victoria
+state: ny
+state: ny
+state: nyc
+state: boston
+state: ny
+state: nj
+state: ny
+state: florida
+state: new yorkers
+state: ny
+state: minn
+state: colorado
+state: arizona
+state: arizona
+state: ny
+state: new jersey
+state: fl
+state: ny
+state: new york
+state: new jersey
+state: california
+state: pa
+state: pa
+state: wv
+state: new york
+state: florida 
+state: nj
+state: florida
+state: california
+state: mt
+state: ny
+state: new york
+state: eastern canada
+state: n.y
+state: ny
+state: georgia
+state: ny
+state: ny
+state: ny/nj
+state: already in
+state: la
+state: arizona
+state: nj
+state: nj
+state: nj
+state: nj
+state: washington,d.c.
+state: new jersey
+state: new jersey
+state: california
+state: cali
+state: alaska
+state: ny
+state: ny
+state: new jersey
+state: new york
+state: new york
+state: new york
+state: iowa
+state: jersey
+state: california
+state: virginia
+state: ny
+state: ny
+state: mt
+state: ny
+state: minnesota
+state: arizona
+state: az
+state: kansas
+state: california
+state: nj
+state: florida
+state: ca
+state: ny
+state: ny
+state: california
+state: georgia
+state: georgia
+state: florida
+state: ny
+state: texas
+state: ohio
+state: wa
+state: iowa
+state: atlanta
+state: louisiana
+state: new jersey
+state: pa
+state: pa
+state: new york state
+state: new york
+state: lone star state
+state: new york
+state: florida
+state: nj
+state: florida
+state: florida
+state: ca
+state: florida
+state: ny
+state: ny
+state: ny
+state: hawaii
+state: ct
+state: ny
+state: nj
+state: oklahoma
+state: ohio
+state: colorado
+state: alberta
+state: minnesota
+state: oklahoma 
+state: ohio
+state: ny
+state: nc
+state: cali
+state: cali
+state: virginia
+state: new york
+state: nc
+state: ny
+state: kentucky
+state: sf
+state: texas
+state: new jersey
+state: ny
+state: new york
+state: california
+state: colorado
+state: utah
+state: arizona
+state: california
+state: new york
+state: kentucky
+state: new york city
+state: north carolina
+state: pa
+state: ny
+state: ri
+state: wisconsin
+state: oklahoma
+state: delaware
+state: ohio
+state: ohio
+state: south dakota
+state: nv
+state: ny
+state: new york
+state: michigan
+state: new jersey
+state: colorado
+state: new york
+state: nm
+state: texas
+state: pennsylvania
+state: north carolina
+state: ohio
+state: new hampshire
+state: florida
+state: orlando
+state: mississippi
+state: new york
+state: louisiana
+state: californians
+state: californians
+state: michigan
+state: virginia
+state: jersey
+state: california
+state: new york
+state: ny
+state: ny
+state: san antonio
+state: nc
+state: rhode island
+state: mississippi
+state: new york
+state: new york
+state: hawaii
+state: ny
+state: ny
+state: vegas
+state: texas
+state: nv
+state: ny
+state: tx
+state: ny
+state: florida
+state: texas
+state: virginia
+state: florida
+state: texas
+state: texas
+state: virginian
+state: texas
+state: minnesota
+state: minnesota
+state: flordia
+state: florida
+state: new york
+state: minneapolis
+state: nj
+state: wisconsin
+state: newyork
+state: ct
+state: washington
+state: florida
+state: nh
+state: cali
+state: nj
+state: connecticut
+state: colorado
+state: northern california
+state: maine
+state: nj
+state: telangana
+state: arizona
+state: hawaii
+state: california
+state: north carolina
+state: co
+state: dakota
+state: ny state
+state: idaho
+state: phil
+state: fl
+state: texas
+state: californ
+state: tx
+state: nc
+state: california
+state: california
+state: utah
+state: sc
+state: mi
+state: north
+state: ga
+state: nc
+state: nc
+state: n.c.
+state: north carolina
+state: oklahoma
+state: north carolina
+state: charlotte north carolina
+state: charlotte north carolina
+state: jharhand
+state: ny
+state: pennsylvania
+state: massachusetts
+state: new york
+state: arizona
+state: nc
+state: ny
+state: utah
+state: jersey
+state: ohio
+state: nc
+state: nyc
+state: ca
+state: wisconsin
+state: ny
+state: nc
+state: pennsylvania
+state: new york
+state: s. c.
+state: alaska
+state: ny
+state: mn
+state: mn
+state: texas
+state: live in
+state: north dakota
+state: ny
+state: new york
+state: pennsylvania
+state: maryland
+state: california
+state: alabama
+state: nc
+state: california
+state: california
+state: alaska
+state: cali
+state: maryland
+state: maryland
+state: new york
+state: illinois
+state: west virginia
+state: ny
+state: new york
+state: north carolina
+state: missouri
+state: ny
+state: oregon's
+state: ny
+state: jersey
+state: new york
+state: ohio
+state: ohio
+state: ca
+state: cali
+state: cali
+state: arizona
+state: ca
+state: new york
+state: oregon
+state: new york
+state: florida
+state: detroit
+state: palestinian
+state: philadelphia
+state: fall in
+state: pa
+state: california
+state: mississippi
+state: new hampshire
+state: jersey
+state: oh's
+state: new york
+state: ny
+state: texans
+state: new york
+state: arizona
+state: nj
+state: ny
+state: wyoming
+state: california
+state: pa
+state: california
+state: new york
+state: ohio
+state: puerto rico
+state: michigan
+state: ny
+state: ny
+state: iowa
+state: colorado
+state: eachother at new jersey
+state: ohios
+state: ca
+state: new york
+state: ar
+state: california
+state: nevada
+state: mississippi
+state: nc
+state: ny
+state: for nevada
+state: virginia
+state: ca
+state: ca
+state: nyc
+state: oklahoma
+state: nc
+state: ca
+state: california
+state: nc
+state: nc
+state: nj
+state: nyc
+state: colorado
+state: utah
+state: ut
+state: georgia
+state: minnesota
+state: new jersey
+state: missouri
+state: jersey
+state: texans
+state: ks
+state: ny
+state: texas
+state: caliiiiii
+state: ca
+state: al, ga, ks
+state: california
+state: cali
+state: ca
+state: maryland
+state: n.c
+state: texas
+state: texas
+state: ny
+state: oregon
+state: san diego
+state: miami
+state: oregon
+state: nyc
+state: nc
+state: new york
+state: new york
+state: nc
+state: florida
+state: nj!
+state: cali
+state: pa
+state: pa
+state: va
+state: pa
+state: cali
+state: ct
+state: boston's
+state: nycs
+state: s.c.
+state: north carolina
+state: missouri
+state: wa
+state: nv
+state: ny
+state: ny
+state: ca
+state: ny
+state: ohio
+state: new hampshire
+state: utah
+state: connecticut
+state: new jersey
+state: ohio
+state: wv
+state: montana
+state: california
+state: vermont
+state: hoosiers
+state: montana
+state: nj
+state: ny
+state: okinawa
+state: ny
+state: nj
+state: pennsylvania
+state: texas
+state: new york
+state: alaskan
+state: michigan
+state: upstate ny
+state: texas
+state: ca
+state: washington
+state: texas
+state: maine
+state: maine
+state: texas
+state: texas
+state: canton
+state: new york
+state: florida
+state: pa
+state: florida
+state: l.a.
+state: florida
+state: florida
+state: ny
+state: south carolina
+state: hawaii
+state: ny
+state: jersey
+state: florida
+state: florida
+state: ny
+state: texas
+state: ca
+state: ny
+state: 50 states.
+state: hawaii
+state: ny
+state: fla
+state: philly
+state: virginia
+state: michigan
+state: mi
+state: fl
+state: nyc
+state: nyc
+state: ny
+state: nyc
+state: the aloha state
+state: aloha state
+state: vt
+state: sf
+state: san francisco
+state: hv
+state: new york
+state: cali
+state: hawaii
+state: dallas
+state: wisconsin
+state: ny
+state: new yorker
+state: louisiana
+state: ny
+state: south carolina
+state: ny
+state: new jersey
+state: californian
+state: florida
+state: chicago
+state: maine
+state: ny
+state: washington
+state: texas
+state: tx
+state: virginia
+state: new jersey
+state: ca
+state: ny
+state: ny
+state: california
+state: florida's
+state: michigan
+state: california
+state: new york
+state: kansas
+state: ohio
+state: cal
+state: california
+state: maine
+state: maine
+state: maine
+state: california
+state: california
+state: florida
+state: idaho
+state: north dakota
+state: california
+state: texas
+state: california
+state: florida
+state: illinois
+state: florida
+state: new york
+state: new york
+state: new mexico
+state: wv
+state: michigan
+state: nebraska
+state: nc
+state: wa
+state: philly
+state: iowa
+state: ny.
+state: ny
+state: cal
+state: idaho
+state: nj
+state: texas
+state: utah
+state: rhode island
+state: rhode island
+state: tennessee
+state: tn
+state: ny
+state: ohio
+state: pa
+state: nyc
+state: bama
+state: florida
+state: texas
+state: ny
+state: jersey
+state: southern california
+state: new york
+state: ny
+state: nj
+state: jersey
+state: nj
+state: arizona
+state: nj
+state: new york
+state: ny
+state: nyc
+state: ny
+state: manhattan,
+state: virginia
+state: new jersey
+state: new jersey
+state: minnesota
+state: missouri
+state: new york
+state: maine
+state: bamas
+state: ohio
+state: oklahoma.
+state: va
+state: new jersey
+state: massachusetts
+state: pa
+state: virgina
+state: nj
+state: florida
+state: florida
+state: ohio
+state: ny
+state: connecticut
+state: california
+state: texas
+state: nj
+state: new york
+state: texas
+state: new jersey
+state: ny
+state: texas
+state: ny
+state: ny
+state: florida
+state: ca
+state: new york
+state: ny
+state: minnesota
+state: az
+state: nevada
+state: ca
+state: sc
+state: vermont
+state: nyc
+state: nevada.
+state: california
+state: cali
+state: florida
+state: new york
+state: ny
+state: new jersey
+state: minnesota
+state: nj
+state: nj
+state: mn
+state: minnesota
+state: virginia
+state: ny
+state: iowa
+state: mo
+state: iraq
+state: kuwait
+state: new jersey
+state: fl
+state: az
+state: minnesota
+state: minnesota
+state: jersey
+state: florida
+state: new york
+state: wash state
+state: connecticut
+state: wisconsin
+state: ct
+state: virginia
+state: new york
+state: alabama
+state: alabama
+state: ny
+state: philadelphia
+state: georgia
+state: georgia
+state: pa
+state: pa
+state: california
+state: ca
+state: california
+state: georgia
+state: nj
+state: me
+state: me
+state: hawaii
+state: new york
+state: london
+state: california
+state: texas
+state: texas
+state: texas
+state: delaware
+state: kansas
+state: alaska
+state: are in
+state: ny
+state: mass
+state: nc
+state: jersey
+state: ny
+state: washington
+state: wa
+state: ny
+state: nj
+state: texas,
+state: ky
+state: richmond
+state: new york
+state: new york
+state: minnesota
+state: minnesota
+state: mn
+state: minnesota
+state: cali
+state: ny
+state: minnesota
+state: california
+state: ca
+state: ones in nj
+state: sf
+state: florida
+state: minnesota
+state: minnesota
+state: minnesota
+state: minnesota
+state: ohio state
+state: hawaii
+state: az
+state: florida
+state: minnesota
+state: florida
+state: cali
+state: new jersey
+state: jersey
+state: minnesota
+state: california
+state: fla
+state: ny
+state: florida
+state: ny
+state: arizona
+state: ny
+state: california
+state: jersey
+state: washington
+state: washington
+state: washington
+state: california
+state: nj
+state: california
+state: california
+state: cali
+state: ny
+state: washington
+state: minnesota
+state: texas
+state: mn
+state: minnesota
+state: california
+state: washington
+state: ca
+state: nj
+state: victoria
+state: ny
+state: ny
+state: nyc
+state: boston
+state: ny
+state: nj
+state: ny
+state: florida
+state: new yorkers
+state: ny
+state: minn
+state: colorado
+state: arizona
+state: arizona
+state: ny
+state: new jersey
+state: fl
+state: ny
+state: new york
+state: new jersey
+state: california
+state: pa
+state: pa
+state: wv
+state: new york
+state: florida 
+state: nj
+state: florida
+state: california
+state: mt
+state: ny
+state: new york
+state: eastern canada
+state: n.y
+state: ny
+state: georgia
+state: ny
+state: ny
+state: ny/nj
+state: already in
+state: la
+state: arizona
+state: nj
+state: nj
+state: nj
+state: nj
+state: washington,d.c.
+state: new jersey
+state: new jersey
+state: california
+state: cali
+state: alaska
+state: ny
+state: ny
+state: new jersey
+state: new york
+state: new york
+state: new york
+state: iowa
+state: jersey
+state: california
+state: virginia
+state: ny
+state: ny
+state: mt
+state: ny
+state: minnesota
+state: arizona
+state: az
+state: kansas
+state: california
+state: nj
+state: florida
+state: ca
+state: ny
+state: ny
+state: california
+state: georgia
+state: georgia
+state: florida
+state: ny
+state: texas
+state: ohio
+state: wa
+state: iowa
+state: atlanta
+state: louisiana
+state: new jersey
+state: pa
+state: pa
+state: new york state
+state: new york
+state: lone star state
+state: new york
+state: florida
+state: nj
+state: florida
+state: florida
+state: ca
+state: florida
+state: ny
+state: ny
+state: ny
+state: hawaii
+state: ct
+state: ny
+state: nj
+state: oklahoma
+state: ohio
+state: colorado
+state: alberta
+state: minnesota
+state: oklahoma 
+state: ohio
+state: ny
+state: nc
+state: cali
+state: cali
+state: virginia
+state: new york
+state: nc
+state: ny
+state: kentucky
+state: sf
+state: texas
+state: new jersey
+state: ny
+state: new york
+state: california
+state: colorado
+state: utah
+state: arizona
+state: california
+state: new york
+state: kentucky
+state: new york city
+state: north carolina
+state: pa
+state: ny
+state: ri
+state: wisconsin
+state: oklahoma
+state: delaware
+state: ohio
+state: ohio
+state: south dakota
+state: nv
+state: ny
+state: new york
+state: michigan
+state: new jersey
+state: colorado
+state: new york
+state: nm
+state: texas
+state: pennsylvania
+state: north carolina
+state: ohio
+state: new hampshire
+state: florida
+state: orlando
+state: mississippi
+state: new york
+state: louisiana
+state: californians
+state: californians
+state: michigan
+state: virginia
+state: jersey
+state: california
+state: new york
+state: ny
+state: ny
+state: san antonio
+state: nc
+state: rhode island
+state: mississippi
+state: new york
+state: new york
+state: hawaii
+state: ny
+state: ny
+state: vegas
+state: texas
+state: nv
+state: ny
+state: tx
+state: ny
+state: florida
+state: texas
+state: virginia
+state: florida
+state: texas
+state: texas
+state: virginian
+state: texas
+state: minnesota
+state: minnesota
+state: flordia
+state: florida
+state: new york
+state: minneapolis
+state: nj
+state: wisconsin
+state: newyork
+state: ct
+state: washington
+state: florida
+state: nh
+state: cali
+state: nj
+state: connecticut
+state: colorado
+state: northern california
+state: maine
+state: nj
+state: telangana
+state: arizona
+state: hawaii
+state: california
+state: north carolina
+state: co
+state: dakota
+state: ny state
+state: idaho
+state: phil
+state: fl
+state: texas
+state: californ
+state: tx
+state: nc
+state: california
+state: california
+state: utah
+state: sc
+state: mi
+state: north
+state: ga
+state: nc
+state: nc
+state: n.c.
+state: north carolina
+state: oklahoma
+state: north carolina
+state: charlotte north carolina
+state: charlotte north carolina
+state: jharhand
+state: ny
+state: pennsylvania
+state: massachusetts
+state: new york
+state: arizona
+state: nc
+state: ny
+state: utah
+state: jersey
+state: ohio
+state: nc
+state: nyc
+state: ca
+state: wisconsin
+state: ny
+state: nc
+state: pennsylvania
+state: new york
+state: s. c.
+state: alaska
+state: ny
+state: mn
+state: mn
+state: texas
+state: live in
+state: north dakota
+state: ny
+state: new york
+state: pennsylvania
+state: maryland
+state: california
+state: alabama
+state: nc
+state: california
+state: california
+state: alaska
+state: cali
+state: maryland
+state: maryland
+state: new york
+state: illinois
+state: west virginia
+state: ny
+state: new york
+state: north carolina
+state: missouri
+state: ny
+state: oregon's
+state: ny
+state: jersey
+state: new york
+state: ohio
+state: ohio
+state: ca
+state: cali
+state: cali
+state: arizona
+state: ca
+state: new york
+state: oregon
+state: new york
+state: florida
+state: detroit
+state: palestinian
+state: philadelphia
+state: fall in
+state: pa
+state: california
+state: mississippi
+state: new hampshire
+state: jersey
+state: oh's
+state: new york
+state: ny
+state: texans
+state: new york
+state: arizona
+state: nj
+state: ny
+state: wyoming
+state: california
+state: pa
+state: california
+state: new york
+state: ohio
+state: puerto rico
+state: michigan
+state: ny
+state: ny
+state: iowa
+state: colorado
+state: eachother at new jersey
+state: ohios
+state: ca
+state: new york
+state: ar
+state: california
+state: nevada
+state: mississippi
+state: nc
+state: ny
+state: for nevada
+state: virginia
+state: ca
+state: ca
+state: nyc
+state: oklahoma
+state: nc
+state: ca
+state: california
+state: nc
+state: nc
+state: nj
+state: nyc
+state: colorado
+state: utah
+state: ut
+state: georgia
+state: minnesota
+state: new jersey
+state: missouri
+state: jersey
+state: texans
+state: ks
+state: ny
+state: texas
+state: caliiiiii
+state: ca
+state: al, ga, ks
+state: california
+state: cali
+state: ca
+state: maryland
+state: n.c
+state: texas
+state: texas
+state: ny
+state: oregon
+state: san diego
+state: miami
+state: oregon
+state: nyc
+state: nc
+state: new york
+state: new york
+state: nc
+state: florida
+state: nj!
+state: cali
+state: pa
+state: pa
+state: va
+state: pa
+state: cali
+state: ct
+state: boston's
+state: nycs
+state: s.c.
+state: north carolina
+state: missouri
+state: wa
+state: nv
+state: ny
+state: ny
+state: ca
+state: ny
+state: ohio
+state: new hampshire
+state: utah
+state: connecticut
+state: new jersey
+state: ohio
+state: wv
+state: montana
+state: california
+state: vermont
+state: hoosiers
+state: montana
+state: nj
+state: ny
+state: okinawa
+state: ny
+state: nj
+state: pennsylvania
+state: texas
+state: new york
+state: alaskan
+state: michigan
+state: upstate ny
+state: texas
+state: ca
+state: washington
+state: texas
+state: maine
+state: maine
+state: texas
+state: texas
+state: canton
+state: new york
+state: florida
+state: pa
+state: florida
+state: l.a.
+state: florida
+state: florida
+state: ny
+state: south carolina
+state: hawaii
+state: ny
+state: jersey
+state: florida
+state: florida
+state: ny
+state: texas
+state: ca
+state: ny
+state: 50 states.
+state: hawaii
+state: ny
+state: fla
+state: philly
+state: virginia
+state: michigan
+state: mi
+state: fl
+state: nyc
+state: nyc
+state: ny
+state: nyc
+state: the aloha state
+state: aloha state
+state: vt
+state: sf
+state: san francisco
+state: hv
+state: new york
+state: cali
+state: hawaii
+state: dallas
+state: wisconsin
+state: ny
+state: new yorker
+state: louisiana
+state: ny
+state: south carolina
+state: ny
+state: new jersey
+state: californian
+state: florida
+state: chicago
+state: maine
+state: ny
+state: washington
+state: texas
+state: tx
+state: virginia
+state: new jersey
+state: ca
+state: ny
+state: ny
+state: california
+state: florida's
+state: michigan
+state: california
+state: new york
+state: kansas
+state: ohio
+state: cal
+state: california
+state: maine
+state: maine
+state: maine
+state: california
+state: california
+state: florida
+state: idaho
+state: north dakota
+state: california
+state: texas
+state: california
+state: florida
+state: illinois
+state: florida
+state: new york
+state: new york
+state: new mexico
+state: wv
+state: michigan
+state: nebraska
+state: nc
+state: wa
+state: philly
+state: iowa
+state: ny.
+state: ny
+state: cal
+state: idaho
+state: nj
+state: texas
+state: utah
+state: rhode island
+state: rhode island
+state: tennessee
+state: tn
+state: ny
+state: ohio
+state: pa
+state: nyc
+state: bama
+state: florida
+state: texas
+state: ny
+state: jersey
+state: southern california
+state: new york
+state: ny
+state: nj
+state: jersey
+state: nj
+state: arizona
+state: nj
+state: new york
+state: ny
+state: nyc
+state: ny
+state: manhattan,
+state: virginia
+state: new jersey
+state: new jersey
+state: minnesota
+state: missouri
+state: new york
+state: maine
+state: bamas
+state: ohio
+state: oklahoma.
+state: va
+state: new jersey
+state: massachusetts
+state: pa
+state: virgina
+state: nj
+state: florida
+state: florida
+state: ohio
+state: ny
+state: connecticut
+state: california
+state: texas
+state: nj
+state: new york
+state: texas
+state: new jersey
+state: ny
+state: texas
+state: ny
+state: ny
+state: florida
+state: ca
+state: new york
+state: ny
+state: minnesota
+state: az
+state: nevada
+state: ca
+state: sc
+state: vermont
+state: nyc
+state: nevada.
+state: california
+state: cali
+state: florida
+state: new york
+state: ny
+state: new jersey
+state: minnesota
+state: nj
+state: nj
+state: mn
+state: minnesota
+state: virginia
+state: ny
+state: iowa
+state: mo
+state: iraq
+state: kuwait
+state: new jersey
+state: fl
+state: az
+state: minnesota
+state: minnesota
+state: jersey
+state: florida
+state: new york
+state: wash state
+state: connecticut
+state: wisconsin
+state: ct
+state: virginia
+state: new york
+state: alabama
+state: alabama
+state: ny
+state: philadelphia
+state: georgia
+state: georgia
+state: pa
+state: pa
+state: california
+state: ca
+state: california
+state: georgia
+state: nj
+state: me
+state: me
+state: hawaii
+state: new york
+state: london
+state: california
+state: texas
+state: texas
+state: texas
+state: delaware
+state: kansas
+state: alaska
+state: are in
+state: ny
+state: mass
+state: nc
+state: jersey
+state: ny
+state: washington
+state: wa
+state: ny
+state: nj
+state: texas,
+state: ky
+state: richmond
+state: new york
+state: new york
+state: minnesota
+state: minnesota
+state: mn
+state: minnesota
+state: cali
+state: ny
+state: minnesota
+state: california
+state: ca
+state: ones in nj
+state: sf
+state: florida
+state: minnesota
+state: minnesota
+state: minnesota
+state: minnesota
+state: ohio state
+state: hawaii
+state: az
+state: florida
+state: minnesota
+state: florida
+state: cali
+state: new jersey
+state: jersey
+state: minnesota
+state: california
+state: fla
+state: ny
+state: florida
+state: ny
+state: arizona
+state: ny
+state: california
+state: jersey
+state: washington
+state: washington
+state: washington
+state: california
+state: nj
+state: california
+state: california
+state: cali
+state: ny
+state: washington
+state: minnesota
+state: texas
+state: mn
+state: minnesota
+state: california
+state: washington
+state: ca
+state: nj
+state: victoria
+state: ny
+state: ny
+state: nyc
+state: boston
+state: ny
+state: nj
+state: ny
+state: florida
+state: new yorkers
+state: ny
+state: minn
+state: colorado
+state: arizona
+state: arizona
+state: ny
+state: new jersey
+state: fl
+state: ny
+state: new york
+state: new jersey
+state: california
+state: pa
+state: pa
+state: wv
+state: new york
+state: florida 
+state: nj
+state: florida
+state: california
+state: mt
+state: ny
+state: new york
+state: eastern canada
+state: n.y
+state: ny
+state: georgia
+state: ny
+state: ny
+state: ny/nj
+state: already in
+state: la
+state: arizona
+state: nj
+state: nj
+state: nj
+state: nj
+state: washington,d.c.
+state: new jersey
+state: new jersey
+state: california
+state: cali
+state: alaska
+state: ny
+state: ny
+state: new jersey
+state: new york
+state: new york
+state: new york
+state: iowa
+state: jersey
+state: california
+state: virginia
+state: ny
+state: ny
+state: mt
+state: ny
+state: minnesota
+state: arizona
+state: az
+state: kansas
+state: california
+state: nj
+state: florida
+state: ca
+state: ny
+state: ny
+state: california
+state: georgia
+state: georgia
+state: florida
+state: ny
+state: texas
+state: ohio
+state: wa
+state: iowa
+state: atlanta
+state: louisiana
+state: new jersey
+state: pa
+state: pa
+state: new york state
+state: new york
+state: lone star state
+state: new york
+state: florida
+state: nj
+state: florida
+state: florida
+state: ca
+state: florida
+state: ny
+state: ny
+state: ny
+state: hawaii
+state: ct
+state: ny
+state: nj
+state: oklahoma
+state: ohio
+state: colorado
+state: alberta
+state: minnesota
+state: oklahoma 
+state: ohio
+state: ny
+state: nc
+state: cali
+state: cali
+state: virginia
+state: new york
+state: nc
+state: ny
+state: kentucky
+state: sf
+state: texas
+state: new jersey
+state: ny
+state: new york
+state: california
+state: colorado
+state: utah
+state: arizona
+state: california
+state: new york
+state: kentucky
+state: new york city
+state: north carolina
+state: pa
+state: ny
+state: ri
+state: wisconsin
+state: oklahoma
+state: delaware
+state: ohio
+state: ohio
+state: south dakota
+state: nv
+state: ny
+state: new york
+state: michigan
+state: new jersey
+state: colorado
+state: new york
+state: nm
+state: texas
+state: pennsylvania
+state: north carolina
+state: ohio
+state: new hampshire
+state: florida
+state: orlando
+state: mississippi
+state: new york
+state: louisiana
+state: californians
+state: californians
+state: michigan
+state: virginia
+state: jersey
+state: california
+state: new york
+state: ny
+state: ny
+state: san antonio
+state: nc
+state: rhode island
+state: mississippi
+state: new york
+state: new york
+state: hawaii
+state: ny
+state: ny
+state: vegas
+state: texas
+state: nv
+state: ny
+state: tx
+state: ny
+state: florida
+state: texas
+state: virginia
+state: florida
+state: texas
+state: texas
+state: virginian
+state: texas
+state: minnesota
+state: minnesota
+state: flordia
+state: florida
+state: new york
+state: minneapolis
+state: nj
+state: wisconsin
+state: newyork
+state: ct
+state: washington
+state: florida
+state: nh
+state: cali
+state: nj
+state: connecticut
+state: colorado
+state: northern california
+state: maine
+state: nj
+state: telangana
+state: arizona
+state: hawaii
+state: california
+state: north carolina
+state: co
+state: dakota
+state: ny state
+state: idaho
+state: phil
+state: fl
+state: texas
+state: californ
+state: tx
+state: nc
+state: california
+state: california
+state: utah
+state: sc
+state: mi
+state: north
+state: ga
+state: nc
+state: nc
+state: n.c.
+state: north carolina
+state: oklahoma
+state: north carolina
+state: charlotte north carolina
+state: charlotte north carolina
+state: jharhand
+state: ny
+state: pennsylvania
+state: massachusetts
+state: new york
+state: arizona
+state: nc
+state: ny
+state: utah
+state: jersey
+state: ohio
+state: nc
+state: nyc
+state: ca
+state: wisconsin
+state: ny
+state: nc
+state: pennsylvania
+state: new york
+state: s. c.
+state: alaska
+state: ny
+state: mn
+state: mn
+state: texas
+state: live in
+state: north dakota
+state: ny
+state: new york
+state: pennsylvania
+state: maryland
+state: california
+state: alabama
+state: nc
+state: california
+state: california
+state: alaska
+state: cali
+state: maryland
+state: maryland
+state: new york
+state: illinois
+state: west virginia
+state: ny
+state: new york
+state: north carolina
+state: missouri
+state: ny
+state: oregon's
+state: ny
+state: jersey
+state: new york
+state: ohio
+state: ohio
+state: ca
+state: cali
+state: cali
+state: arizona
+state: ca
+state: new york
+state: oregon
+state: new york
+state: florida
+state: detroit
+state: palestinian
+state: philadelphia
+state: fall in
+state: pa
+state: california
+state: mississippi
+state: new hampshire
+state: jersey
+state: oh's
+state: new york
+state: ny
+state: texans
+state: new york
+state: arizona
+state: nj
+state: ny
+state: wyoming
+state: california
+state: pa
+state: california
+state: new york
+state: ohio
+state: puerto rico
+state: michigan
+state: ny
+state: ny
+state: iowa
+state: colorado
+state: eachother at new jersey
+state: ohios
+state: ca
+state: new york
+state: ar
+state: california
+state: nevada
+state: mississippi
+state: nc
+state: ny
+state: for nevada
+state: virginia
+state: ca
+state: ca
+state: nyc
+state: oklahoma
+state: nc
+state: ca
+state: california
+state: nc
+state: nc
+state: nj
+state: nyc
+state: colorado
+state: utah
+state: ut
+state: georgia
+state: minnesota
+state: new jersey
+state: missouri
+state: jersey
+state: texans
+state: ks
+state: ny
+state: texas
+state: caliiiiii
+state: ca
+state: al, ga, ks
+state: california
+state: cali
+state: ca
+state: maryland
+state: n.c
+state: texas
+state: texas
+state: ny

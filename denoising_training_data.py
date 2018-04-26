@@ -1,3 +1,4 @@
+# ./run.sh
 import os
 import numpy as np
 from spacy import util
